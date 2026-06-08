@@ -1,10 +1,10 @@
 name: Deploy to GitHub Pages
 
-# 每次 push 到工作分支時自動建置並部署；也可在 Actions 頁手動觸發。
+# 每次 push 到 main 時自動建置並部署；也可在 Actions 頁手動觸發。
 on:
   push:
     branches:
-      - claude/german-learning-tool-plan-TVXiQ
+      - main
   workflow_dispatch:
 
 # GitHub Pages 部署所需權限
