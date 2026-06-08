@@ -2,7 +2,9 @@ import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 import { VitePWA } from 'vite-plugin-pwa';
 
-export default defineConfig({
+export default defineConfig(({ command }) => ({
+  // GitHub Pages 專案站台在 /<repo>/ 子路徑下；本機開發維持根路徑。
+  base: command === 'build' ? '/Lehnen/' : '/',
   plugins: [
     react(),
     VitePWA({
@@ -27,4 +29,4 @@ export default defineConfig({
       },
     }),
   ],
-});
+}));
