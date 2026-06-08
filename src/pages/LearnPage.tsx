@@ -32,11 +32,12 @@ export default function LearnPage() {
   useEffect(() => setExampleIndex(0), [chunkIndex, topicId]);
 
   const hint = useMemo(() => {
+    if (recorder.error) return recorder.error;
     if (recorder.status === 'recording') return '錄音中… 再按一次紅鈕停止';
     if (recorder.status === 'denied') return '無法取得麥克風權限，請檢查瀏覽器設定';
     if (recorder.hasRecording) return '按「聽我」回放你的錄音，再與 AI 比較';
     return '請點擊 🔴 進行錄音';
-  }, [recorder.status, recorder.hasRecording]);
+  }, [recorder.status, recorder.hasRecording, recorder.error]);
 
   const listenAI = () => {
     speech.speak(example.de, { rate: settings.rate, voiceName: settings.voiceName });
@@ -150,7 +151,10 @@ export default function LearnPage() {
 
       {/* footer scrubber */}
       <div className="shrink-0 px-5 pb-2 pt-1">
-        <AudioScrubber active={speech.speaking || recorder.playing} />
+        <AudioScrubber
+          active={speech.speaking || recorder.playing}
+          progress={recorder.playing ? recorder.progress : undefined}
+        />
       </div>
     </div>
   );
