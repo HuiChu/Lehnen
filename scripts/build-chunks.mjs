@@ -36,10 +36,12 @@ import path from 'node:path';
 import readline from 'node:readline';
 import { fileURLToPath } from 'node:url';
 import { seeds } from './seed-patterns.mjs';
+import { lookupPrep } from './data/prep-case.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const CACHE = path.join(__dirname, '.cache');
 const OUT = path.join(__dirname, '..', 'src', 'data', 'topics.generated.ts');
+const VOCAB = path.join(__dirname, 'data', 'goethe-vocab.json');
 const MODEL = 'claude-opus-4-8';
 
 const files = {
@@ -155,8 +157,54 @@ function tatoebaSource(id) {
   };
 }
 
+/** 載入 goethe-vocab.json（parse-goethe-wortliste.mjs 產出）→ lemma→{gender,plural} */
+function loadVocab() {
+  if (!fs.existsSync(VOCAB)) {
+    console.warn(`未找到 ${VOCAB}，略過陰陽性自動標記（仍會標介係詞格）。`);
+    console.warn('如需名詞性別標記：先跑 node scripts/parse-goethe-wortliste.mjs。');
+    return new Map();
+  }
+  const arr = JSON.parse(fs.readFileSync(VOCAB, 'utf8'));
+  return new Map(arr.filter((e) => e.gender).map((e) => [e.lemma, e]));
+}
+
+/**
+ * 為德語句自動產生文法標記（marks）：
+ *  - 名詞：token 對到 goethe-vocab 的 lemma（大寫開頭）→ 標 gender/plural。
+ *  - 介係詞：對到 prep-case 表 → 標 governs（Wechselpräp. 不標固定格，附說明）。
+ * 只取每個字面第一次出現，避免重複。
+ */
+function annotateMarks(de, vocab) {
+  const marks = [];
+  const seen = new Set();
+  const tokens = de.split(/\s+/);
+  for (const tok of tokens) {
+    const word = tok.replace(/^[^A-Za-zÄÖÜäöüß]+|[^A-Za-zÄÖÜäöüß]+$/g, '');
+    if (!word || seen.has(word)) continue;
+
+    const prep = lookupPrep(word);
+    if (prep) {
+      if (prep.governs === 'wechsel') {
+        marks.push({ text: word, pos: 'prep', lemma: prep.lemma, note: 'Wechselpräp.（方向→Akk／地點→Dat）' });
+      } else {
+        marks.push({ text: word, pos: 'prep', governs: prep.governs, lemma: prep.lemma, ...(prep.note ? { note: prep.note } : {}) });
+      }
+      seen.add(word);
+      continue;
+    }
+
+    if (/^[A-ZÄÖÜ]/.test(word) && vocab.has(word)) {
+      const v = vocab.get(word);
+      marks.push({ text: word, pos: 'noun', gender: v.gender, ...(v.plural ? { plural: v.plural } : {}), lemma: word });
+      seen.add(word);
+    }
+  }
+  return marks;
+}
+
 async function main() {
   ensureInputs();
+  const vocab = loadVocab();
   console.log('讀取德語句…');
   const deu = await loadSentences(files.deu);
   console.log(`  deu: ${deu.size} 句`);
@@ -242,12 +290,20 @@ async function main() {
     if (ai.length) item.ref.aiTranslated = ai;
   });
 
-  // 丟掉仍然完全沒有中文的例句（品質把關）
+  // 丟掉仍然完全沒有中文的例句（品質把關），並自動標文法（陰陽性 + 介係詞格）
   const topics = [...topicMap.values()]
     .map((t) => ({
       ...t,
       chunks: t.chunks
-        .map((c) => ({ ...c, examples: c.examples.filter((e) => e.zh) }))
+        .map((c) => ({
+          ...c,
+          examples: c.examples
+            .filter((e) => e.zh)
+            .map((e) => {
+              const marks = annotateMarks(e.de, vocab);
+              return marks.length ? { ...e, marks } : e;
+            }),
+        }))
         .filter((c) => c.examples.length),
     }))
     .filter((t) => t.chunks.length);
