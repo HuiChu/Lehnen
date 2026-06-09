@@ -1,5 +1,6 @@
-import { useRef } from 'react';
+import { useMemo, useRef } from 'react';
 import type { Example } from '../types';
+import { annotate } from '../grammar/annotate';
 import GrammarText from './GrammarText';
 import GrammarLegend from './GrammarLegend';
 import {
@@ -46,6 +47,12 @@ export default function ExampleCarousel({
   const touchX = useRef<number | null>(null);
   const current = examples[index];
   const count = examples.length;
+
+  // 缺 marks 的例句（如部分手寫/匯入語料）即時補名詞/介係詞標記，全站一致。
+  const marks = useMemo(
+    () => current.marks ?? annotate(current.de),
+    [current]
+  );
 
   const go = (dir: number) =>
     onIndexChange((index + dir + count) % count);
@@ -111,13 +118,9 @@ export default function ExampleCarousel({
         </button>
         <div className="flex-1 text-center">
           <p className="text-xl font-semibold leading-snug text-ink">
-            <GrammarText
-              text={current.de}
-              marks={current.marks}
-              enabled={showGrammar}
-            />
+            <GrammarText text={current.de} marks={marks} enabled={showGrammar} />
           </p>
-          {showGrammar && current.marks?.length ? (
+          {showGrammar && marks.length ? (
             <div className="mt-2">
               <GrammarLegend />
             </div>

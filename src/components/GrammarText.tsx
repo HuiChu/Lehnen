@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import type { GrammarMark, Gender, Kasus } from '../types';
+import type { GrammarMark, Gender, Kasus, Tempus } from '../types';
 
 interface Props {
   text: string;
@@ -21,6 +21,7 @@ function markClass(mark: GrammarMark): string {
     }[mark.gender];
   }
   if (mark.pos === 'prep') return 'text-amber-600 decoration-amber-400';
+  if (mark.pos === 'verb') return 'text-indigo-600 decoration-indigo-400';
   return 'text-violet-600 decoration-violet-400';
 }
 
@@ -29,6 +30,15 @@ const kasusZh: Record<Kasus, string> = {
   akk: 'Akk 第四格',
   dat: 'Dat 第三格',
   gen: 'Gen 第二格',
+};
+
+const tenseZh: Record<Tempus, string> = {
+  präsens: '現在式 Präsens',
+  präteritum: '過去式 Präteritum',
+  perfekt: '現在完成式 Perfekt',
+  plusquamperfekt: '過去完成式 Plusquamperfekt',
+  futur1: '未來式 Futur I',
+  konjunktiv2: '虛擬二式 Konjunktiv II',
 };
 
 /** 找出每個 mark 在句中的第一個（不重疊）出現位置，回傳已排序的片段 */
@@ -75,6 +85,22 @@ function MarkPopover({ mark }: { mark: GrammarMark }) {
               {' '}→ 支配 {kasusZh[mark.governs]}
             </span>
           )}
+        </span>
+      )}
+      {mark.pos === 'verb' && (
+        <span className="block font-bold">
+          動詞 {mark.infinitive ?? mark.lemma ?? mark.text}
+          {mark.tense && (
+            <span className="font-normal text-white/70">
+              {' '}· {tenseZh[mark.tense]}
+            </span>
+          )}
+        </span>
+      )}
+      {mark.pos === 'verb' && (mark.partizip || mark.aux) && (
+        <span className="block text-white/70">
+          {mark.aux ? `${mark.aux} + ` : ''}
+          {mark.partizip ?? ''}
         </span>
       )}
       {mark.kasus && (

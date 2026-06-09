@@ -14,8 +14,18 @@ export interface SourceAttribution {
 export type Gender = 'm' | 'f' | 'n';
 /** 德語四格 */
 export type Kasus = 'nom' | 'akk' | 'dat' | 'gen';
-/** 詞類（本輪只用到 noun / prep，其餘預留） */
+/** 詞類（本輪用到 noun / prep / verb，其餘預留） */
 export type Wortart = 'noun' | 'prep' | 'verb' | 'adj' | 'pron';
+/** 動詞時態 */
+export type Tempus =
+  | 'präsens'
+  | 'präteritum'
+  | 'perfekt'
+  | 'plusquamperfekt'
+  | 'futur1'
+  | 'konjunktiv2';
+/** 完成式助動詞 */
+export type Hilfsverb = 'haben' | 'sein' | 'werden';
 
 /**
  * 句中單字的文法標記，供行內上色與小提示用。
@@ -34,8 +44,20 @@ export interface GrammarMark {
   governs?: Kasus;
   /** 該名詞在此處所在的格（可選） */
   kasus?: Kasus;
-  /** 原形：名詞主格單數 / 介係詞原形 */
+  /** 原形：名詞主格單數 / 介係詞原形 / 動詞不定式 */
   lemma?: string;
+  /** 動詞時態（pos === 'verb'） */
+  tense?: Tempus;
+  /** 動詞不定式（如 gehen）；亦可用 lemma */
+  infinitive?: string;
+  /** 完成式分詞 Partizip II（如 gegangen） */
+  partizip?: string;
+  /** 完成式助動詞（haben / sein / werden） */
+  aux?: Hilfsverb;
+  /** 人稱 1/2/3（可選） */
+  person?: 1 | 2 | 3;
+  /** 單複數（可選） */
+  numerus?: 'sg' | 'pl';
   /** 中文小提示 */
   note?: string;
 }

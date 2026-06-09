@@ -1,10 +1,13 @@
-import { useState } from 'react';
+import { useMemo, useState } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
 import { findStory } from '../data/stories';
 import { useAppStore } from '../store/useAppStore';
 import { useSpeech } from '../hooks/useSpeech';
+import { annotate } from '../grammar/annotate';
 import AudioScrubber from '../components/AudioScrubber';
-import { CloseIcon, GlobeIcon, SpeakerIcon } from '../components/icons';
+import GrammarText from '../components/GrammarText';
+import GrammarLegend from '../components/GrammarLegend';
+import { CloseIcon, GlobeIcon, GrammarIcon, SpeakerIcon } from '../components/icons';
 
 export default function StoryPage() {
   const navigate = useNavigate();
@@ -14,6 +17,12 @@ export default function StoryPage() {
   const { settings, updateSettings } = useAppStore();
   const speech = useSpeech();
   const [active, setActive] = useState<number | null>(null);
+
+  // 童話原本沒有預存 marks：依設定即時補上名詞/介係詞標記，與情境例句一致。
+  const segMarks = useMemo(
+    () => (story ? story.segments.map((s) => s.marks ?? annotate(s.de)) : []),
+    [story]
+  );
 
   if (!story) {
     return (
@@ -55,17 +64,24 @@ export default function StoryPage() {
         <h1 className="text-lg font-bold text-orange-deep">
           {story.emoji} {story.title}
         </h1>
-        <button
-          onClick={() =>
-            updateSettings({ showTranslation: !settings.showTranslation })
-          }
-          aria-label="切換對照翻譯"
-          className={`absolute right-4 ${
-            settings.showTranslation ? 'text-orange' : 'text-ink/40'
-          }`}
-        >
-          <GlobeIcon width={22} height={22} />
-        </button>
+        <div className="absolute right-4 flex items-center gap-3">
+          <button
+            onClick={() => updateSettings({ showGrammar: !settings.showGrammar })}
+            aria-label="切換文法標記"
+            className={settings.showGrammar ? 'text-orange' : 'text-ink/40'}
+          >
+            <GrammarIcon width={22} height={22} />
+          </button>
+          <button
+            onClick={() =>
+              updateSettings({ showTranslation: !settings.showTranslation })
+            }
+            aria-label="切換對照翻譯"
+            className={settings.showTranslation ? 'text-orange' : 'text-ink/40'}
+          >
+            <GlobeIcon width={22} height={22} />
+          </button>
+        </div>
       </header>
       <p className="mb-2 text-center text-xs text-ink/40">
         {story.titleZh} · {story.level} · 點句子朗讀
@@ -88,7 +104,13 @@ export default function StoryPage() {
                 className={`mt-1 shrink-0 ${active === i && speech.speaking ? 'text-orange' : 'text-ink/30'}`}
               />
               <div className="min-w-0 flex-1">
-                <p className="font-semibold leading-snug text-ink">{seg.de}</p>
+                <p className="font-semibold leading-snug text-ink">
+                  <GrammarText
+                    text={seg.de}
+                    marks={segMarks[i]}
+                    enabled={settings.showGrammar}
+                  />
+                </p>
                 {settings.showTranslation && (
                   <div className="mt-2 space-y-1">
                     {seg.zh && <p className="text-sm text-ink/50">{seg.zh}</p>}
@@ -99,6 +121,12 @@ export default function StoryPage() {
             </div>
           </button>
         ))}
+
+        {settings.showGrammar && (
+          <div className="pt-1">
+            <GrammarLegend />
+          </div>
+        )}
 
         {/* source */}
         <p className="px-1 pt-1 text-center text-[11px] leading-relaxed text-ink/30">

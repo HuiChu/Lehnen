@@ -36,7 +36,7 @@ import path from 'node:path';
 import readline from 'node:readline';
 import { fileURLToPath } from 'node:url';
 import { seeds } from './seed-patterns.mjs';
-import { lookupPrep } from './data/prep-case.mjs';
+import { annotateMarks, buildVocabMap } from './data/annotate-core.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const CACHE = path.join(__dirname, '.cache');
@@ -219,41 +219,7 @@ function loadVocab() {
     return new Map();
   }
   const arr = JSON.parse(fs.readFileSync(VOCAB, 'utf8'));
-  return new Map(arr.filter((e) => e.gender).map((e) => [e.lemma, e]));
-}
-
-/**
- * 為德語句自動產生文法標記（marks）：
- *  - 名詞：token 對到 goethe-vocab 的 lemma（大寫開頭）→ 標 gender/plural。
- *  - 介係詞：對到 prep-case 表 → 標 governs（Wechselpräp. 不標固定格，附說明）。
- * 只取每個字面第一次出現，避免重複。
- */
-function annotateMarks(de, vocab) {
-  const marks = [];
-  const seen = new Set();
-  const tokens = de.split(/\s+/);
-  for (const tok of tokens) {
-    const word = tok.replace(/^[^A-Za-zÄÖÜäöüß]+|[^A-Za-zÄÖÜäöüß]+$/g, '');
-    if (!word || seen.has(word)) continue;
-
-    const prep = lookupPrep(word);
-    if (prep) {
-      if (prep.governs === 'wechsel') {
-        marks.push({ text: word, pos: 'prep', lemma: prep.lemma, note: 'Wechselpräp.（方向→Akk／地點→Dat）' });
-      } else {
-        marks.push({ text: word, pos: 'prep', governs: prep.governs, lemma: prep.lemma, ...(prep.note ? { note: prep.note } : {}) });
-      }
-      seen.add(word);
-      continue;
-    }
-
-    if (/^[A-ZÄÖÜ]/.test(word) && vocab.has(word)) {
-      const v = vocab.get(word);
-      marks.push({ text: word, pos: 'noun', gender: v.gender, ...(v.plural ? { plural: v.plural } : {}), lemma: word });
-      seen.add(word);
-    }
-  }
-  return marks;
+  return buildVocabMap(arr);
 }
 
 async function main() {
