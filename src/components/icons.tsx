@@ -100,3 +100,22 @@ export const CloseIcon = (p: SVGProps<SVGSVGElement>) => (
     <path d="M18 6 6 18M6 6l12 12" />
   </svg>
 );
+
+export const ExternalLinkIcon = (p: SVGProps<SVGSVGElement>) => (
+  <svg {...base(p)}>
+    <path d="M14 4h6v6M20 4l-9 9M18 13v6a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h6" />
+  </svg>
+);
+
+export const BookIcon = (p: SVGProps<SVGSVGElement>) => (
+  <svg {...base(p)}>
+    <path d="M4 5a2 2 0 0 1 2-2h11a1 1 0 0 1 1 1v14a1 1 0 0 1-1 1H6a2 2 0 0 0-2 2zM18 17H6a2 2 0 0 0-2 2" />
+  </svg>
+);
+
+export const CompassIcon = (p: SVGProps<SVGSVGElement>) => (
+  <svg {...base(p)}>
+    <circle cx="12" cy="12" r="9" />
+    <path d="m15.5 8.5-2 5-5 2 2-5z" />
+  </svg>
+);
