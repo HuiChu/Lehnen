@@ -1893,6 +1893,826 @@ export const stories: Story[] = [
       },
     ],
   },
+  {
+    id: 'tapferes-schneiderlein',
+    title: 'Das tapfere Schneiderlein',
+    titleZh: '勇敢的小裁縫',
+    emoji: '✂️',
+    level: 'B1',
+    blurb: '一巴掌打死七隻蒼蠅的小裁縫，靠著機智一路騙過巨人、降伏猛獸，當上了國王。',
+    source: grimmSource,
+    segments: [
+      {
+        de: 'Ein kleines Schneiderlein nähte an seinem Tisch, als ihm Fliegen auf das Brot mit Mus flogen.',
+        zh: '一個小裁縫坐在桌邊縫衣，這時蒼蠅飛到他塗了果醬的麵包上。',
+        en: 'A little tailor sat sewing at his table when flies landed on his bread and jam.',
+      },
+      {
+        de: 'Mit einem Schlag traf er sieben auf einmal.',
+        zh: '他一巴掌打死了七隻。',
+        en: 'With one blow he struck seven at once.',
+      },
+      {
+        de: 'Stolz nähte er sich einen Gürtel mit den Worten: "Siebene auf einen Streich."',
+        zh: '他得意地給自己縫了一條腰帶，上面寫著：「一下打死七個」。',
+        en: 'Proudly he sewed himself a belt with the words: "Seven at one stroke."',
+      },
+      {
+        de: 'Dann zog er hinaus in die Welt, denn die Werkstatt war ihm zu klein.',
+        zh: '然後他出門闖蕩世界，因為作坊對他來說太小了。',
+        en: 'Then he set out into the world, for the workshop was too small for him.',
+      },
+      {
+        de: 'Im Wald traf er einen Riesen, der ihn für einen großen Helden hielt.',
+        zh: '在森林裡他遇到一個巨人，巨人把他當成了大英雄。',
+        en: 'In the forest he met a giant, who took him for a great hero.',
+      },
+      {
+        de: 'Der Riese drückte Wasser aus einem Stein, das Schneiderlein aber drückte Saft aus einem Käse.',
+        zh: '巨人從石頭裡擠出水，小裁縫卻從乳酪裡擠出汁來。',
+        en: 'The giant squeezed water from a stone, but the tailor squeezed juice from a cheese.',
+      },
+      {
+        de: 'Der Riese warf einen Stein hoch in die Luft, das Schneiderlein ließ heimlich einen Vogel fliegen, der nicht zurückkam.',
+        zh: '巨人把石頭高高拋向空中，小裁縫卻偷偷放飛一隻鳥，鳥再也沒落下來。',
+        en: 'The giant threw a stone high in the air; the tailor secretly let a bird fly that did not come back.',
+      },
+      {
+        de: 'So glaubte der Riese, das Schneiderlein sei stärker als er.',
+        zh: '巨人於是相信小裁縫比自己還強。',
+        en: 'So the giant believed the tailor was stronger than himself.',
+      },
+      {
+        de: 'Bald kam das Schneiderlein an den Hof eines Königs und trat in seinen Dienst.',
+        zh: '不久小裁縫來到一位國王的宮廷，當了差。',
+        en: 'Soon the tailor came to a king\'s court and entered his service.',
+      },
+      {
+        de: 'Der König wollte ihn loswerden und befahl ihm, zwei gefährliche Riesen zu besiegen.',
+        zh: '國王想擺脫他，便命他去打敗兩個危險的巨人。',
+        en: 'The king wanted to be rid of him and ordered him to defeat two dangerous giants.',
+      },
+      {
+        de: 'Das Schneiderlein warf Steine auf die schlafenden Riesen, bis sie sich aus Wut gegenseitig erschlugen.',
+        zh: '小裁縫朝熟睡的巨人扔石頭，直到他們氣得自相殘殺。',
+        en: 'The tailor threw stones at the sleeping giants until they angrily killed each other.',
+      },
+      {
+        de: 'Dann fing es ein Einhorn, indem es hinter einen Baum sprang und das Horn im Stamm stecken blieb.',
+        zh: '接著他捉住一頭獨角獸：他閃到樹後，獨角獸的角便插進了樹幹。',
+        en: 'Then he caught a unicorn by leaping behind a tree, so its horn stuck fast in the trunk.',
+      },
+      {
+        de: 'Auch ein wildes Schwein lockte es in eine Kapelle und sperrte es ein.',
+        zh: '他還把一頭野豬引進一座小教堂，把牠關了起來。',
+        en: 'He also lured a wild boar into a chapel and locked it in.',
+      },
+      {
+        de: 'Zur Belohnung gab ihm der König seine Tochter und das halbe Königreich.',
+        zh: '作為獎賞，國王把女兒和半個王國給了他。',
+        en: 'As a reward the king gave him his daughter and half the kingdom.',
+      },
+      {
+        de: 'Später merkte die Frau, dass er nur ein Schneider war, und fürchtete sich.',
+        zh: '後來妻子發覺他只是個裁縫，便害怕起來。',
+        en: 'Later his wife noticed he was only a tailor and grew afraid.',
+      },
+      {
+        de: 'Doch das kluge Schneiderlein wusste sich zu helfen und blieb bis an sein Ende König.',
+        zh: '但聰明的小裁縫自有辦法，當國王一直當到老。',
+        en: 'But the clever little tailor knew how to help himself and stayed king to the end.',
+      },
+    ],
+  },
+  {
+    id: 'fischer-und-seine-frau',
+    title: 'Der Fischer und seine Frau',
+    titleZh: '漁夫和他的妻子',
+    emoji: '🐟',
+    level: 'B1',
+    blurb: '漁夫放走一條會說話的比目魚，貪心的妻子卻越要越多，最後一無所有。',
+    source: grimmSource,
+    segments: [
+      {
+        de: 'Ein armer Fischer wohnte mit seiner Frau Ilsebill in einer elenden Hütte am Meer.',
+        zh: '一個窮漁夫和妻子伊瑟比爾住在海邊一間破爛的小屋裡。',
+        en: 'A poor fisherman lived with his wife Ilsebill in a wretched hut by the sea.',
+      },
+      {
+        de: 'Eines Tages fing er einen großen Butt, der zu sprechen begann.',
+        zh: '有一天他釣到一條大比目魚，那魚竟開口說話。',
+        en: 'One day he caught a large flounder that began to speak.',
+      },
+      {
+        de: '"Lass mich leben, ich bin ein verzauberter Prinz", bat der Fisch, und der Fischer ließ ihn frei.',
+        zh: '「饒我一命吧，我是被施了魔法的王子。」魚懇求，漁夫便放了牠。',
+        en: '"Let me live, I am an enchanted prince," begged the fish, and the fisherman set him free.',
+      },
+      {
+        de: 'Als Ilsebill das hörte, sprach sie: "Geh zurück und wünsch dir ein kleines Häuschen."',
+        zh: '伊瑟比爾聽說後說：「回去吧，求一棟小房子。」',
+        en: 'When Ilsebill heard this, she said: "Go back and wish for a little cottage."',
+      },
+      {
+        de: 'Der Fischer rief am Ufer: "Buttje, Buttje in der See, meine Frau will einen anderen Wunsch."',
+        zh: '漁夫在岸邊喊：「比目魚啊比目魚，我妻子又有個願望。」',
+        en: 'At the shore the fisherman called: "Flounder, flounder in the sea, my wife has another wish."',
+      },
+      {
+        de: 'Der Butt erfüllte den Wunsch, und sie hatten ein hübsches Häuschen.',
+        zh: '比目魚滿足了願望，他們有了一棟漂亮的小屋。',
+        en: 'The flounder granted the wish, and they had a pretty little cottage.',
+      },
+      {
+        de: 'Doch bald wollte Ilsebill ein großes steinernes Schloss.',
+        zh: '但不久伊瑟比爾又想要一座宏大的石頭城堡。',
+        en: 'But soon Ilsebill wanted a great stone castle.',
+      },
+      {
+        de: 'Der Butt gab es ihr, doch das Meer wurde schon dunkler.',
+        zh: '比目魚給了她，可大海已經變得暗沉了些。',
+        en: 'The flounder gave it to her, but the sea was already growing darker.',
+      },
+      {
+        de: '"Ich will König werden", verlangte sie, und sie wurde König.',
+        zh: '「我要當國王。」她要求，於是她成了國王。',
+        en: '"I want to become king," she demanded, and she became king.',
+      },
+      {
+        de: '"Ich will Kaiser werden", und auch das geschah.',
+        zh: '「我要當皇帝。」這也實現了。',
+        en: '"I want to become emperor," and that happened too.',
+      },
+      {
+        de: '"Ich will Papst werden", und sie saß bald als Papst auf einem Thron.',
+        zh: '「我要當教宗。」不久她便以教宗之尊坐上了寶座。',
+        en: '"I want to become pope," and soon she sat enthroned as pope.',
+      },
+      {
+        de: 'Jedes Mal wurde das Meer schwärzer, und der Wind heulte stärker.',
+        zh: '每一次大海都變得更黑，風吼得更猛。',
+        en: 'Each time the sea grew blacker, and the wind howled more fiercely.',
+      },
+      {
+        de: 'Doch Ilsebill war noch immer nicht zufrieden.',
+        zh: '可伊瑟比爾還是不滿足。',
+        en: 'But Ilsebill was still not satisfied.',
+      },
+      {
+        de: '"Ich will werden wie der liebe Gott", schrie sie zuletzt.',
+        zh: '「我要變得像上帝一樣。」她最後尖叫道。',
+        en: '"I want to become like dear God," she screamed at last.',
+      },
+      {
+        de: 'Da brach ein gewaltiger Sturm los, und der Butt sprach: "Geh nur heim, sie sitzt wieder in der alten Hütte."',
+        zh: '這時一場狂風暴雨爆發了，比目魚說：「回去吧，她又坐回那破舊的小屋裡了。」',
+        en: 'Then a mighty storm broke loose, and the flounder said: "Just go home, she is sitting again in the old hut."',
+      },
+      {
+        de: 'Und dort sitzen der Fischer und Ilsebill noch heute.',
+        zh: '漁夫和伊瑟比爾至今還坐在那裡。',
+        en: 'And there the fisherman and Ilsebill are sitting to this very day.',
+      },
+    ],
+  },
+  {
+    id: 'tischlein-deck-dich',
+    title: 'Tischlein deck dich',
+    titleZh: '神奇的小桌子',
+    emoji: '🍽️',
+    level: 'B1',
+    blurb: '三兄弟各得一件寶物——會擺菜的桌子、會吐金子的驢、會打人的棍子，鬥垮了奸詐的店主。',
+    source: grimmSource,
+    segments: [
+      {
+        de: 'Ein Schneider hatte drei Söhne und eine einzige Ziege, die alle ernähren sollte.',
+        zh: '一個裁縫有三個兒子和一隻山羊，全家都靠這隻羊。',
+        en: 'A tailor had three sons and a single goat that was to feed them all.',
+      },
+      {
+        de: 'Jeden Tag fragte der Vater die Ziege, ob sie satt sei, und sie log jedes Mal.',
+        zh: '父親每天問山羊吃飽了沒，山羊每次都撒謊。',
+        en: 'Each day the father asked the goat if it was full, and each time it lied.',
+      },
+      {
+        de: 'Im Zorn jagte der Schneider erst seine Söhne und dann die undankbare Ziege fort.',
+        zh: '一氣之下，裁縫先趕走了兒子，後又趕走了忘恩負義的山羊。',
+        en: 'In anger the tailor drove out first his sons and then the ungrateful goat.',
+      },
+      {
+        de: 'Die drei Söhne aber lernten in der Fremde jeder ein Handwerk.',
+        zh: '三個兒子卻在外鄉各自學了一門手藝。',
+        en: 'But the three sons each learned a trade in foreign parts.',
+      },
+      {
+        de: 'Der älteste bekam ein Tischlein; sagte man "Tischlein deck dich", war es voll der besten Speisen.',
+        zh: '大兒子得到一張小桌子；只要說「小桌子，擺好吧」，桌上就擺滿最好的菜餚。',
+        en: 'The eldest got a little table; if you said "Table, set yourself," it filled with the finest food.',
+      },
+      {
+        de: 'Der zweite bekam einen Esel; sagte man "Bricklebrit", spie er Gold aus dem Maul.',
+        zh: '二兒子得到一頭驢；只要說「布里克布里特」，牠就從嘴裡吐出金子。',
+        en: 'The second got a donkey; if you said "Bricklebrit," it spat gold from its mouth.',
+      },
+      {
+        de: 'Der dritte bekam einen Knüppel in einem Sack, der auf Befehl jeden verprügelte.',
+        zh: '三兒子得到一根裝在袋裡的棍子，一聲令下就會把人痛打一頓。',
+        en: 'The third got a cudgel in a sack that, on command, thrashed anyone.',
+      },
+      {
+        de: 'Der älteste wollte heim und kehrte unterwegs in einem Wirtshaus ein.',
+        zh: '大兒子想回家，途中在一家客棧投宿。',
+        en: 'The eldest wanted to go home and stopped at an inn on the way.',
+      },
+      {
+        de: 'Der neugierige Wirt vertauschte heimlich das Zaubertischlein gegen ein gewöhnliches.',
+        zh: '好奇的店主偷偷把魔法小桌子換成一張普通的。',
+        en: 'The curious innkeeper secretly swapped the magic table for an ordinary one.',
+      },
+      {
+        de: 'So stand der Sohn vor dem Vater mit einem Tisch, der nichts mehr hergab.',
+        zh: '於是兒子在父親面前，桌子卻什麼也變不出來。',
+        en: 'So the son stood before his father with a table that gave nothing.',
+      },
+      {
+        de: 'Auch dem zweiten Sohn stahl der Wirt auf dieselbe Weise den goldenen Esel.',
+        zh: '二兒子的金驢也被店主用同樣的手法偷走。',
+        en: 'The innkeeper stole the golden donkey from the second son in the same way.',
+      },
+      {
+        de: 'Der dritte Sohn aber kannte den Dieb und stellte sich schlafend.',
+        zh: '但三兒子知道誰是賊，便假裝睡著。',
+        en: 'But the third son knew the thief and pretended to be asleep.',
+      },
+      {
+        de: 'Als der Wirt nach dem Sack griff, rief der Sohn: "Knüppel aus dem Sack!"',
+        zh: '當店主去抓那袋子時，兒子喊：「棍子，出袋來！」',
+        en: 'As the innkeeper reached for the sack, the son cried: "Cudgel out of the sack!"',
+      },
+      {
+        de: 'Der Knüppel sprang heraus und prügelte den Wirt, bis er Tisch und Esel zurückgab.',
+        zh: '棍子跳出來痛打店主，直到他把桌子和驢都還回來。',
+        en: 'The cudgel sprang out and beat the innkeeper until he gave back the table and the donkey.',
+      },
+      {
+        de: 'So brachte der jüngste Sohn alle Zaubergaben heim, und der Schneider lebte mit seinen Söhnen reich und zufrieden.',
+        zh: '於是小兒子把所有寶物都帶回了家，裁縫和兒子們從此富足又滿足地生活在一起。',
+        en: 'So the youngest son brought all the magic gifts home, and the tailor lived rich and content with his sons.',
+      },
+    ],
+  },
+  {
+    id: 'wichtelmaenner',
+    title: 'Die Wichtelmänner',
+    titleZh: '鞋匠與小精靈',
+    emoji: '🥿',
+    level: 'A2',
+    blurb: '窮鞋匠夜裡得到小精靈的幫忙，做出一雙雙好鞋；夫妻倆用一份小禮物回報了牠們。',
+    source: grimmSource,
+    segments: [
+      {
+        de: 'Ein armer Schuster hatte nur noch Leder für ein einziges Paar Schuhe.',
+        zh: '一個窮鞋匠只剩下夠做一雙鞋的皮革。',
+        en: 'A poor shoemaker had only enough leather left for a single pair of shoes.',
+      },
+      {
+        de: 'Am Abend schnitt er das Leder zu und ging schlafen.',
+        zh: '傍晚他把皮革裁好，就去睡了。',
+        en: 'In the evening he cut out the leather and went to sleep.',
+      },
+      {
+        de: 'Am Morgen standen die Schuhe fertig und wunderschön auf dem Tisch.',
+        zh: '早上桌上擺著一雙做好的、漂亮極了的鞋。',
+        en: 'In the morning the shoes stood finished and beautiful on the table.',
+      },
+      {
+        de: 'Ein Käufer zahlte gut, und der Schuster konnte Leder für zwei Paare kaufen.',
+        zh: '一個買家付了好價錢，鞋匠便能買到做兩雙鞋的皮革。',
+        en: 'A buyer paid well, and the shoemaker could buy leather for two pairs.',
+      },
+      {
+        de: 'Auch diese Schuhe waren am Morgen fertig, und so ging es Nacht für Nacht.',
+        zh: '這些鞋也在早上做好了，夜夜如此。',
+        en: 'These shoes too were finished by morning, and so it went night after night.',
+      },
+      {
+        de: 'Bald war der Schuster ein wohlhabender Mann.',
+        zh: '不久鞋匠就成了富裕的人。',
+        en: 'Soon the shoemaker was a well-to-do man.',
+      },
+      {
+        de: 'Einmal wollten er und seine Frau sehen, wer ihnen half, und blieben heimlich wach.',
+        zh: '有一次他和妻子想看看是誰在幫他們，便偷偷熬夜守著。',
+        en: 'Once he and his wife wanted to see who helped them and secretly stayed awake.',
+      },
+      {
+        de: 'Um Mitternacht kamen zwei kleine, nackte Männlein und nähten flink die Schuhe.',
+        zh: '半夜時來了兩個赤裸的小精靈，手腳俐落地縫起鞋來。',
+        en: 'At midnight two little naked men came and nimbly sewed the shoes.',
+      },
+      {
+        de: 'Aus Dankbarkeit nähte die Frau ihnen winzige Kleider, und der Mann machte kleine Schuhe.',
+        zh: '出於感激，妻子給他們縫了小小的衣服，丈夫做了小小的鞋。',
+        en: 'Out of gratitude the wife sewed them tiny clothes, and the man made little shoes.',
+      },
+      {
+        de: 'In der Nacht fanden die Wichtelmänner die Geschenke und zogen sich voller Freude an.',
+        zh: '夜裡小精靈發現了禮物，高高興興地穿了起來。',
+        en: 'In the night the elves found the gifts and joyfully put them on.',
+      },
+      {
+        de: 'Sie tanzten und sprangen vor Glück und liefen zur Tür hinaus.',
+        zh: '他們又跳又蹦，高興得跑出了門。',
+        en: 'They danced and leapt for joy and ran out the door.',
+      },
+      {
+        de: 'Sie kamen nie wieder, doch dem Schuster ging es sein Leben lang gut.',
+        zh: '他們再也沒回來，但鞋匠這一輩子都過得很好。',
+        en: 'They never came again, but the shoemaker fared well all his life.',
+      },
+    ],
+  },
+  {
+    id: 'schneeweisschen-rosenrot',
+    title: 'Schneeweißchen und Rosenrot',
+    titleZh: '白雪與紅玫瑰',
+    emoji: '🐻',
+    level: 'B1',
+    blurb: '善良的姊妹倆收留一隻大熊，又屢次救助忘恩的矮人，最後迎來意想不到的結局。',
+    source: grimmSource,
+    segments: [
+      {
+        de: 'Eine arme Witwe hatte zwei Töchter, die hießen Schneeweißchen und Rosenrot.',
+        zh: '一個貧窮的寡婦有兩個女兒，名叫白雪和紅玫瑰。',
+        en: 'A poor widow had two daughters called Snow-white and Rose-red.',
+      },
+      {
+        de: 'Die beiden waren so gut und fleißig wie die zwei Rosenbäumchen vor dem Haus.',
+        zh: '姊妹倆善良又勤勞，就像屋前的兩棵小玫瑰樹。',
+        en: 'The two were as good and industrious as the two little rose trees in front of the house.',
+      },
+      {
+        de: 'An einem Winterabend klopfte ein großer Bär an die Tür und bat um Wärme.',
+        zh: '一個冬夜，一隻大熊來敲門，求個暖和的地方。',
+        en: 'On a winter evening a great bear knocked at the door and asked for warmth.',
+      },
+      {
+        de: 'Die Familie fürchtete sich zuerst, doch der Bär war sanft und freundlich.',
+        zh: '一家人起初害怕，但這隻熊溫和又友善。',
+        en: 'The family was afraid at first, but the bear was gentle and kind.',
+      },
+      {
+        de: 'Den ganzen Winter spielten die Kinder mit ihm, im Frühling aber musste er fort.',
+        zh: '整個冬天孩子們都和牠玩，可一到春天牠就得走了。',
+        en: 'All winter the children played with him, but in spring he had to leave.',
+      },
+      {
+        de: '"Ich muss meinen Schatz vor den bösen Zwergen hüten", sagte der Bär.',
+        zh: '「我得守護我的寶藏，不讓壞矮人偷走。」熊說。',
+        en: '"I must guard my treasure from the wicked dwarfs," said the bear.',
+      },
+      {
+        de: 'Im Wald trafen die Mädchen oft einen Zwerg, dessen Bart immer irgendwo festsaß.',
+        zh: '在森林裡，姊妹倆常遇到一個矮人，他的鬍子老是卡在什麼地方。',
+        en: 'In the forest the girls often met a dwarf whose beard was always caught somewhere.',
+      },
+      {
+        de: 'Einmal klemmte er im Baum, einmal an der Angel, einmal packte ihn ein Adler.',
+        zh: '一次卡在樹裡，一次卡在魚線上，一次還被老鷹抓住。',
+        en: 'Once it was stuck in a tree, once on a fishing line, once an eagle seized him.',
+      },
+      {
+        de: 'Jedes Mal schnitten die Mädchen ein Stück vom Bart ab und befreiten ihn.',
+        zh: '每一次姊妹倆都剪掉一截鬍子，把他救出來。',
+        en: 'Each time the girls cut off a piece of his beard and freed him.',
+      },
+      {
+        de: 'Doch statt zu danken, schimpfte der undankbare Zwerg jedes Mal.',
+        zh: '但那忘恩負義的矮人非但不謝，每次還破口大罵。',
+        en: 'But instead of thanking them, the ungrateful dwarf scolded them each time.',
+      },
+      {
+        de: 'Eines Tages saß er bei seinen funkelnden Edelsteinen, als der Bär herbeikam.',
+        zh: '有一天他正守著閃亮的寶石，大熊走了過來。',
+        en: 'One day he sat by his sparkling jewels when the bear came up.',
+      },
+      {
+        de: 'Der Zwerg flehte um sein Leben, doch der Bär schlug ihn mit einer Tatze nieder.',
+        zh: '矮人苦苦哀求饒命，熊卻一掌把他打倒。',
+        en: 'The dwarf begged for his life, but the bear struck him down with a paw.',
+      },
+      {
+        de: 'Im selben Augenblick fiel das Bärenfell ab, und ein schöner Königssohn stand da.',
+        zh: '就在那一刻，熊皮落了下來，站著一位英俊的王子。',
+        en: 'At that moment the bearskin fell away, and a handsome prince stood there.',
+      },
+      {
+        de: 'Der Zwerg hatte ihn verzaubert und seinen Schatz gestohlen; nun war der Bann gebrochen.',
+        zh: '原來那矮人施咒害了他，還偷走他的寶藏；如今魔咒解除了。',
+        en: 'The dwarf had bewitched him and stolen his treasure; now the spell was broken.',
+      },
+      {
+        de: 'Schneeweißchen heiratete den Königssohn und Rosenrot seinen Bruder, und alle lebten glücklich.',
+        zh: '白雪嫁給了王子，紅玫瑰嫁給了他的弟弟，大家都幸福地生活著。',
+        en: 'Snow-white married the prince and Rose-red his brother, and all lived happily.',
+      },
+    ],
+  },
+  {
+    id: 'kluge-else',
+    title: 'Die kluge Else',
+    titleZh: '聰明的愛爾莎',
+    emoji: '🤔',
+    level: 'A2',
+    blurb: '「聰明的」愛爾莎凡事想得太遠，為一件還沒發生的事大哭，鬧出一連串荒唐笑話。',
+    source: grimmSource,
+    segments: [
+      {
+        de: 'Es war ein Mädchen, das hieß die kluge Else, weil es über alles weit voraus dachte.',
+        zh: '有個女孩叫聰明的愛爾莎，因為她凡事都想得太遠。',
+        en: 'There was a girl called Clever Else, because she thought far ahead about everything.',
+      },
+      {
+        de: 'Ein Mann namens Hans wollte sie heiraten, wenn sie wirklich so klug wäre.',
+        zh: '一個叫漢斯的人說，只要她真有那麼聰明，他就娶她。',
+        en: 'A man named Hans wanted to marry her, if she really was so clever.',
+      },
+      {
+        de: 'Beim Essen schickte man Else in den Keller, um Bier zu holen.',
+        zh: '吃飯時，家人打發愛爾莎到地窖取啤酒。',
+        en: 'At dinner Else was sent to the cellar to fetch beer.',
+      },
+      {
+        de: 'Dort sah sie eine Kreuzhacke über sich an der Wand hängen.',
+        zh: '她在那裡看見頭頂的牆上掛著一把十字鎬。',
+        en: 'There she saw a pickaxe hanging on the wall above her.',
+      },
+      {
+        de: 'Sie dachte: "Wenn ich Hans heirate und wir ein Kind bekommen, und es kommt hierher, fällt die Hacke herab und schlägt es tot."',
+        zh: '她想：「要是我嫁給漢斯、生了孩子，孩子來到這裡，這鎬掉下來就會把他砸死。」',
+        en: 'She thought: "If I marry Hans and we have a child, and it comes here, the axe will fall and strike it dead."',
+      },
+      {
+        de: 'Da setzte sie sich hin und weinte über das Unglück, das noch gar nicht geschehen war.',
+        zh: '於是她坐下來，為一件根本還沒發生的不幸大哭起來。',
+        en: 'So she sat down and wept over a misfortune that had not even happened.',
+      },
+      {
+        de: 'Weil sie nicht zurückkam, ging einer nach dem anderen hinab – und alle weinten mit.',
+        zh: '因為她久久不回來，家人一個接一個下去——結果全都跟著哭。',
+        en: 'Because she did not come back, one after another went down – and all wept with her.',
+      },
+      {
+        de: 'Zuletzt kam Hans selbst, hörte den Grund und fand Else so klug, dass er sie heiratete.',
+        zh: '最後漢斯親自下去，聽了原由，覺得愛爾莎真聰明，便娶了她。',
+        en: 'At last Hans himself came down, heard the reason, found Else so clever that he married her.',
+      },
+      {
+        de: 'Einmal sollte Else allein das Korn auf dem Feld schneiden.',
+        zh: '有一次愛爾莎得一個人去田裡割麥。',
+        en: 'Once Else was to reap the corn in the field alone.',
+      },
+      {
+        de: 'Doch sie wurde müde, legte sich hin und schlief mitten am Tag ein.',
+        zh: '可她累了，躺下來，大白天就睡著了。',
+        en: 'But she grew tired, lay down and fell asleep in the middle of the day.',
+      },
+      {
+        de: 'Hans band ihr im Scherz ein Netz mit Glöckchen um und ging heim.',
+        zh: '漢斯開玩笑地給她繫上一張掛著小鈴鐺的網，就回家了。',
+        en: 'As a joke Hans tied a net with little bells around her and went home.',
+      },
+      {
+        de: 'Als sie erwachte und es überall klingelte, fragte sie verwirrt: "Bin ich es, oder bin ich es nicht?"',
+        zh: '她醒來時周身叮噹作響，便糊塗地問：「這是我，還是不是我？」',
+        en: 'When she awoke and everything jingled, she asked in confusion: "Is it I, or is it not I?"',
+      },
+      {
+        de: 'Sie lief zum Haus, fragte durchs Fenster nach sich selbst, und als man Ja sagte, rannte sie fort und kam nie wieder.',
+        zh: '她跑到屋前，隔著窗戶問自己在不在，聽到回答「在」，便一路跑走，再也沒回來。',
+        en: 'She ran to the house, asked through the window after herself, and when they said yes, she ran off and never came back.',
+      },
+    ],
+  },
+  {
+    id: 'daumesdick',
+    title: 'Daumesdick',
+    titleZh: '大拇指',
+    emoji: '👍',
+    level: 'A2',
+    blurb: '只有大拇指般大的小男孩，被牛吞、被狼吃，靠機智一次次脫險，回到父母身邊。',
+    source: grimmSource,
+    segments: [
+      {
+        de: 'Ein armes Bauernpaar wünschte sich ein Kind, und wäre es auch nur so groß wie ein Daumen.',
+        zh: '一對貧窮的農夫夫妻盼望一個孩子，哪怕只有大拇指那麼大也好。',
+        en: 'A poor peasant couple wished for a child, even if it were only as big as a thumb.',
+      },
+      {
+        de: 'Bald kam ein winziger Junge zur Welt, den sie Daumesdick nannten.',
+        zh: '不久一個小不點男孩出生了，他們叫他大拇指。',
+        en: 'Soon a tiny boy was born, whom they named Thumbling.',
+      },
+      {
+        de: 'Er blieb klein, war aber klug und half dem Vater, wo er konnte.',
+        zh: '他一直長不大，卻很聰明，總在能幫忙的地方幫父親。',
+        en: 'He stayed small but was clever and helped his father wherever he could.',
+      },
+      {
+        de: 'Im Ohr des Pferdes sitzend, lenkte er den Wagen durch Zurufe.',
+        zh: '他坐在馬耳朵裡，用吆喝聲駕著車。',
+        en: 'Sitting in the horse\'s ear, he steered the cart by calling out.',
+      },
+      {
+        de: 'Zwei fremde Männer sahen das Wunder und wollten Daumesdick kaufen.',
+        zh: '兩個陌生男人看見這奇事，想把大拇指買下來。',
+        en: 'Two strangers saw the wonder and wanted to buy Thumbling.',
+      },
+      {
+        de: 'Er ließ sich mitnehmen, entwischte ihnen aber bald und versteckte sich in einem Mauseloch.',
+        zh: '他任由他們帶走，卻很快溜掉，躲進了一個老鼠洞。',
+        en: 'He let himself be taken but soon slipped away and hid in a mouse-hole.',
+      },
+      {
+        de: 'Müde kroch er in ein leeres Schneckenhaus und schlief darin.',
+        zh: '累了，他鑽進一個空蝸牛殼，在裡面睡著了。',
+        en: 'Tired, he crept into an empty snail shell and slept in it.',
+      },
+      {
+        de: 'Beim Fressen von Heu verschluckte ihn eine Kuh mitsamt dem Gras.',
+        zh: '一頭牛吃乾草時，把他連草一起吞了下去。',
+        en: 'While eating hay, a cow swallowed him along with the grass.',
+      },
+      {
+        de: 'Aus dem Bauch der Kuh rief er so laut, dass man die Kuh schlachtete.',
+        zh: '他在牛肚子裡大喊大叫，叫得人們把牛宰了。',
+        en: 'From the cow\'s belly he called so loudly that the cow was slaughtered.',
+      },
+      {
+        de: 'Doch im Magen lag er noch, und ein Wolf verschlang ihn mit den Resten.',
+        zh: '可他還在牛胃裡，一隻狼把他連同剩餘的東西一起吞了。',
+        en: 'But he still lay in the stomach, and a wolf devoured him with the remains.',
+      },
+      {
+        de: 'Da rief Daumesdick: "Wolf, ich weiß ein Haus voll Speck und Würste!"',
+        zh: '大拇指便喊：「狼啊，我知道有間屋子裝滿了培根和香腸！」',
+        en: 'Then Thumbling cried: "Wolf, I know a house full of bacon and sausages!"',
+      },
+      {
+        de: 'Er führte den Wolf zur Speisekammer seiner Eltern, wo der Wolf sich überfraß.',
+        zh: '他把狼領到父母的食品儲藏室，狼在那裡撐得吃不下了。',
+        en: 'He led the wolf to his parents\' pantry, where the wolf gorged itself.',
+      },
+      {
+        de: 'So dick gefressen, kam der Wolf nicht mehr durch das Loch hinaus.',
+        zh: '吃得太撐，狼再也鑽不出那個洞了。',
+        en: 'So bloated, the wolf could no longer get out through the hole.',
+      },
+      {
+        de: 'Daumesdick schrie, der Vater erschlug den Wolf, und froh hielten die Eltern ihr Söhnchen wieder im Arm.',
+        zh: '大拇指大喊，父親打死了狼，父母歡喜地把小兒子重新抱在懷裡。',
+        en: 'Thumbling shouted, the father killed the wolf, and joyfully the parents held their little son in their arms again.',
+      },
+    ],
+  },
+  {
+    id: 'goldene-vogel',
+    title: 'Der goldene Vogel',
+    titleZh: '金鳥',
+    emoji: '🐤',
+    level: 'B1',
+    blurb: '為了尋找偷金蘋果的金鳥，最小的王子在一隻聰明狐狸的幫助下，闖過重重難關。',
+    source: grimmSource,
+    segments: [
+      {
+        de: 'In einem Garten wuchs ein Baum mit goldenen Äpfeln, doch jede Nacht verschwand einer.',
+        zh: '一座花園裡有棵長金蘋果的樹，可每晚都會少一顆。',
+        en: 'In a garden grew a tree with golden apples, but every night one disappeared.',
+      },
+      {
+        de: 'Der jüngste Königssohn wachte und sah, dass ein goldener Vogel die Äpfel stahl.',
+        zh: '最小的王子守夜，看見是一隻金鳥偷走了蘋果。',
+        en: 'The youngest prince kept watch and saw that a golden bird stole the apples.',
+      },
+      {
+        de: 'Die drei Söhne zogen aus, den wunderbaren Vogel zu suchen.',
+        zh: '三個兒子動身去尋找那神奇的鳥。',
+        en: 'The three sons set out to find the wonderful bird.',
+      },
+      {
+        de: 'Unterwegs gab ein Fuchs jedem den Rat, in das ärmliche Wirtshaus einzukehren.',
+        zh: '途中一隻狐狸勸每個人都去投宿那家簡陋的客棧。',
+        en: 'On the way a fox advised each to stop at the humble inn.',
+      },
+      {
+        de: 'Die älteren Brüder lachten, wählten das lustige Wirtshaus und vergaßen ihre Aufgabe.',
+        zh: '哥哥們嘲笑這話，挑了那家熱鬧的客棧，把任務忘得一乾二淨。',
+        en: 'The elder brothers laughed, chose the merry inn and forgot their task.',
+      },
+      {
+        de: 'Nur der jüngste folgte dem Fuchs und kam so zum Schloss des goldenen Vogels.',
+        zh: '只有最小的聽了狐狸的話，因而來到金鳥所在的城堡。',
+        en: 'Only the youngest followed the fox and so came to the castle of the golden bird.',
+      },
+      {
+        de: '"Nimm den Vogel, aber lass den goldenen Käfig stehen", warnte der Fuchs.',
+        zh: '「拿走鳥，但別碰那金籠子。」狐狸叮囑。',
+        en: '"Take the bird, but leave the golden cage," warned the fox.',
+      },
+      {
+        de: 'Der Sohn griff doch nach dem Käfig, und sogleich wurde er gefangen.',
+        zh: '兒子卻還是去拿籠子，立刻就被抓住了。',
+        en: 'But the son reached for the cage and was caught at once.',
+      },
+      {
+        de: 'Zur Strafe sollte er erst das goldene Pferd holen.',
+        zh: '作為懲罰，他得先去取那匹金馬。',
+        en: 'As punishment he was first to fetch the golden horse.',
+      },
+      {
+        de: 'Wieder vergaß er den Rat des Fuchses, nahm den goldenen Sattel und wurde erneut gefangen.',
+        zh: '他又忘了狐狸的勸告，拿了金馬鞍，再次被擒。',
+        en: 'Again he forgot the fox\'s advice, took the golden saddle and was caught again.',
+      },
+      {
+        de: 'Nun musste er die schöne Prinzessin aus dem goldenen Schloss holen.',
+        zh: '這下他得去把美麗的公主從金色城堡裡帶出來。',
+        en: 'Now he had to fetch the beautiful princess from the golden castle.',
+      },
+      {
+        de: 'Mit Hilfe des klugen Fuchses gelang am Ende alles, und er bekam Prinzessin, Pferd und Vogel.',
+        zh: '在聰明狐狸的幫助下，最後一切都成了，他得到了公主、馬和金鳥。',
+        en: 'With the clever fox\'s help everything succeeded in the end, and he won princess, horse and bird.',
+      },
+      {
+        de: 'Doch seine neidischen Brüder fanden ihn, warfen ihn in einen Brunnen und nahmen alles.',
+        zh: '可他妒忌的哥哥們找到了他，把他扔進井裡，奪走了一切。',
+        en: 'But his envious brothers found him, threw him into a well and took everything.',
+      },
+      {
+        de: 'Der treue Fuchs aber half ihm wieder heraus, und die Wahrheit kam ans Licht.',
+        zh: '忠心的狐狸又把他救了上來，真相也大白於天下。',
+        en: 'But the faithful fox helped him out again, and the truth came to light.',
+      },
+      {
+        de: 'Die falschen Brüder wurden gestraft, der jüngste Sohn heiratete die Prinzessin und erlöste zuletzt auch den Fuchs.',
+        zh: '奸詐的哥哥們受到懲罰，小兒子娶了公主，最後也解救了那隻狐狸。',
+        en: 'The false brothers were punished, the youngest son married the princess and at last freed the fox too.',
+      },
+    ],
+  },
+  {
+    id: 'sechse-durch-die-welt',
+    title: 'Sechse kommen durch die ganze Welt',
+    titleZh: '六個好漢走遍天下',
+    emoji: '💪',
+    level: 'B1',
+    blurb: '一個被虧待的士兵，召集六個各有奇能的夥伴，靠著本領向吝嗇的國王討回公道。',
+    source: grimmSource,
+    segments: [
+      {
+        de: 'Ein Soldat wurde nach dem Krieg ohne Lohn entlassen und beschloss, sich zu rächen.',
+        zh: '一個士兵戰後沒拿到報酬就被遣散，決心要討回公道。',
+        en: 'A soldier was discharged after the war without pay and resolved to get even.',
+      },
+      {
+        de: 'Unterwegs sammelte er sechs Gefährten mit ganz besonderen Gaben.',
+        zh: '途中他召集了六個各有奇特本領的夥伴。',
+        en: 'On the way he gathered six companions with quite special gifts.',
+      },
+      {
+        de: 'Der eine war so stark, dass er Bäume wie Halme ausriss.',
+        zh: '一個力大無窮，能像拔草一樣拔起大樹。',
+        en: 'One was so strong he pulled up trees like blades of grass.',
+      },
+      {
+        de: 'Der zweite traf mit seiner Büchse jedes Ziel in weiter Ferne.',
+        zh: '第二個用他的火槍，再遠的目標都能命中。',
+        en: 'The second hit any target far away with his gun.',
+      },
+      {
+        de: 'Der dritte konnte durch sein Blasen Windmühlen in der Ferne drehen.',
+        zh: '第三個一吹氣，就能讓遠處的風車轉動。',
+        en: 'The third could turn windmills in the distance by blowing.',
+      },
+      {
+        de: 'Der vierte lief so schnell, dass er dafür ein Bein abschnallen musste.',
+        zh: '第四個跑得飛快，跑時還得卸下一條腿。',
+        en: 'The fourth ran so fast that he had to unbuckle one leg for it.',
+      },
+      {
+        de: 'Der fünfte ließ es frieren, wenn er sein Hütchen gerade rückte.',
+        zh: '第五個只要把小帽子擺正，天就會結冰。',
+        en: 'The fifth made it freeze when he set his little hat straight.',
+      },
+      {
+        de: 'So kamen sie zu einem König, dessen Tochter im Wettlauf jeden Freier besiegte.',
+        zh: '他們就這樣來到一位國王那裡，他的女兒賽跑能勝過每個求婚者。',
+        en: 'So they came to a king whose daughter beat every suitor in a race.',
+      },
+      {
+        de: 'Der schnelle Läufer trat für die Gefährten an und war bald weit voraus.',
+        zh: '飛毛腿替夥伴們出賽，很快就遙遙領先。',
+        en: 'The swift runner ran for the companions and was soon far ahead.',
+      },
+      {
+        de: 'Unterwegs legte er sich aber zum Schlafen hin und verlor fast das Rennen.',
+        zh: '可他半路躺下睡著了，差點輸掉比賽。',
+        en: 'But on the way he lay down to sleep and nearly lost the race.',
+      },
+      {
+        de: 'Da schoss der Jäger das Kissen unter seinem Kopf weg und weckte ihn rechtzeitig.',
+        zh: '這時獵人一槍打掉他枕著的枕頭，及時把他喚醒。',
+        en: 'Then the huntsman shot away the pillow under his head and woke him in time.',
+      },
+      {
+        de: 'Der zornige König wollte sie in einer eisernen Stube verbrennen.',
+        zh: '惱怒的國王想把他們關進鐵屋裡燒死。',
+        en: 'The angry king wanted to burn them in an iron room.',
+      },
+      {
+        de: 'Doch der Mann mit dem Hütchen ließ es frieren, und ihnen geschah nichts.',
+        zh: '但戴小帽的人讓屋裡結了冰，他們毫髮無傷。',
+        en: 'But the man with the little hat made it freeze, and nothing happened to them.',
+      },
+      {
+        de: 'Zuletzt trug der Starke das ganze Gold des Königs davon, und die sechs zogen reich nach Hause.',
+        zh: '最後大力士把國王所有的金子都搬走了，六個好漢富足地回了家。',
+        en: 'At last the strong man carried off all the king\'s gold, and the six went home rich.',
+      },
+    ],
+  },
+  {
+    id: 'katze-und-maus',
+    title: 'Katze und Maus in Gesellschaft',
+    titleZh: '貓和老鼠做朋友',
+    emoji: '🐱',
+    level: 'A2',
+    blurb: '貓和老鼠合存了一罐過冬的油，貓卻偷偷吃光，還編出三個謊言來掩飾。',
+    source: grimmSource,
+    segments: [
+      {
+        de: 'Eine Katze und eine Maus wollten zusammen leben und beschlossen, Freunde zu sein.',
+        zh: '一隻貓和一隻老鼠想住在一起，決定做朋友。',
+        en: 'A cat and a mouse wanted to live together and decided to be friends.',
+      },
+      {
+        de: 'Für den Winter kauften sie ein Töpfchen Fett und versteckten es unter dem Altar in der Kirche.',
+        zh: '為了過冬，牠們買了一小罐油脂，藏在教堂的祭壇下。',
+        en: 'For the winter they bought a little pot of fat and hid it under the altar in the church.',
+      },
+      {
+        de: 'Bald aber bekam die Katze großen Appetit auf das Fett.',
+        zh: '但不久貓就很想吃那油脂了。',
+        en: 'But soon the cat got a great craving for the fat.',
+      },
+      {
+        de: '"Ich bin zu einer Taufe eingeladen", log sie und schlich heimlich in die Kirche.',
+        zh: '「我受邀去參加一個洗禮。」牠撒謊，偷偷溜進教堂。',
+        en: '"I am invited to a christening," she lied and secretly slipped into the church.',
+      },
+      {
+        de: 'Dort fraß sie die oberste Schicht des Fettes ab.',
+        zh: '牠在那裡把最上面一層油脂舔吃掉了。',
+        en: 'There she ate off the top layer of the fat.',
+      },
+      {
+        de: 'Auf die Frage nach dem Namen des Kindes sagte sie: "Hautab."',
+        zh: '老鼠問孩子叫什麼名字，牠說：「去皮。」',
+        en: 'Asked the child\'s name, she said: "Skin-off."',
+      },
+      {
+        de: 'Ein zweites Mal log sie wieder und fraß bis zur Hälfte; das Kind hieß angeblich "Halbaus".',
+        zh: '第二次牠又撒謊，把油脂吃到一半；那孩子據說叫「半光」。',
+        en: 'A second time she lied again and ate down to the half; the child was supposedly called "Half-gone."',
+      },
+      {
+        de: 'Beim dritten Mal leerte sie das Töpfchen ganz; dieses Kind hieß "Ganzaus".',
+        zh: '第三次牠把整罐都吃光了；這孩子叫「全光」。',
+        en: 'The third time she emptied the pot completely; this child was called "All-gone."',
+      },
+      {
+        de: 'Als der Winter kam, wollten beide zu ihrem Vorrat.',
+        zh: '冬天來了，兩個都想取出儲糧。',
+        en: 'When winter came, both wanted to go to their store.',
+      },
+      {
+        de: 'Doch das Töpfchen war leer, und die Maus begriff endlich den Betrug.',
+        zh: '可罐子是空的，老鼠終於明白上了當。',
+        en: 'But the pot was empty, and the mouse finally understood the deceit.',
+      },
+      {
+        de: 'Kaum hatte sie es ausgesprochen, da sprang die Katze auf sie zu und fraß sie.',
+        zh: '牠話一說出口，貓就撲上去把牠吃了。',
+        en: 'Hardly had she said it when the cat sprang at her and ate her up.',
+      },
+      {
+        de: '"Siehst du", schließt das Märchen, "so geht es in der Welt."',
+        zh: '「你看，」故事這樣作結，「世道就是如此。」',
+        en: '"You see," the tale concludes, "that is the way of the world."',
+      },
+    ],
+  },
 ];
 
 export const findStory = (id: string): Story | undefined =>
