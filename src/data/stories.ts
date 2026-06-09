@@ -3,13 +3,14 @@ import type { Story } from '../types';
 /**
  * 公共領域故事閱讀：格林童話（Brüder Grimm, Kinder- und Hausmärchen）。
  *
- * 德語原文為公共領域（作者逝世逾百年），可內含全文；逐句切成 StorySegment，
- * 附中/英對照與來源標註。譯文為人工整理，故不標 AI。
+ * 德語原文為公共領域（作者逝世逾百年）。逐句切成 StorySegment，附中/英對照與來源標註。
+ * 拼寫採現代正字法；短篇保留較完整原文，長篇以真實格林句子改寫精簡，便於 A2–B1 跟讀。
+ * 德語故事文本為公共領域，中/英譯文為人工整理，故不標 AI。
  */
 
 const grimmSource = {
   name: 'Brüder Grimm: Kinder- und Hausmärchen',
-  url: 'https://www.gutenberg.org/ebooks/22555',
+  url: 'https://de.wikisource.org/wiki/Kinder-_und_Haus-M%C3%A4rchen_Band_1_(1857)',
   license: 'Public Domain',
   author: 'Jacob & Wilhelm Grimm',
 };
@@ -154,6 +155,931 @@ export const stories: Story[] = [
         de: 'Wer wieder in die Stadt wollte, der musste sich durch den Brei essen.',
         zh: '誰想再進城去，就得從粥裡一路吃過去。',
         en: 'And whoever wanted to go back into town had to eat their way through the porridge.',
+      },
+    ],
+  },
+  {
+    id: 'rotkaeppchen',
+    title: 'Rotkäppchen',
+    titleZh: '小紅帽',
+    emoji: '🔴',
+    level: 'A2',
+    blurb: '一個戴紅帽的小女孩去探望生病的祖母，半路卻遇上狡猾的大野狼。',
+    source: grimmSource,
+    segments: [
+      {
+        de: 'Es war einmal ein kleines, süßes Mädchen, das hatte jeder lieb, der es nur ansah.',
+        zh: '從前有一個可愛的小女孩，每個見到她的人都喜歡她。',
+        en: 'Once upon a time there was a sweet little girl whom everyone loved who only set eyes on her.',
+      },
+      {
+        de: 'Am liebsten aber hatte es seine Großmutter, die ihm einst ein Käppchen aus rotem Samt schenkte.',
+        zh: '但最疼她的是祖母，祖母有一次送她一頂紅絲絨的小帽子。',
+        en: 'But most of all her grandmother loved her, and once gave her a little cap of red velvet.',
+      },
+      {
+        de: 'Weil ihr das so gut stand, wollte sie nichts anderes mehr tragen, und so hieß sie nur Rotkäppchen.',
+        zh: '因為這帽子太適合她了，她再也不肯戴別的，於是大家都叫她小紅帽。',
+        en: 'Because it suited her so well, she would wear nothing else, and so she was called Little Red Riding Hood.',
+      },
+      {
+        de: 'Eines Tages sprach die Mutter: "Komm, Rotkäppchen, bring der Großmutter Kuchen und Wein, sie ist krank und schwach."',
+        zh: '有一天母親說：「來，小紅帽，把蛋糕和酒帶去給祖母，她生病又虛弱。」',
+        en: 'One day her mother said: "Come, Red Cap, take this cake and wine to grandmother; she is ill and weak."',
+      },
+      {
+        de: '"Geh brav und gerade und lauf nicht vom Weg ab", sagte die Mutter noch.',
+        zh: '母親又叮囑：「乖乖走大路，別離開小路。」',
+        en: '"Be good and go straight, and do not leave the path," her mother added.',
+      },
+      {
+        de: 'Die Großmutter wohnte draußen im Wald, eine halbe Stunde vom Dorf.',
+        zh: '祖母住在森林裡，離村子半小時路程。',
+        en: 'The grandmother lived out in the forest, half an hour from the village.',
+      },
+      {
+        de: 'Als Rotkäppchen in den Wald kam, begegnete ihm der Wolf.',
+        zh: '小紅帽走進森林時，遇到了狼。',
+        en: 'When Red Cap entered the forest, the wolf met her.',
+      },
+      {
+        de: '"Guten Tag, Rotkäppchen. Wohin so früh?", fragte er.',
+        zh: '「你好，小紅帽，這麼早要去哪裡？」狼問。',
+        en: '"Good day, Red Cap. Where to so early?" he asked.',
+      },
+      {
+        de: '"Zur Großmutter, sie ist krank", antwortete das Mädchen arglos.',
+        zh: '「去祖母家，她病了。」女孩天真地回答。',
+        en: '"To grandmother\'s, she is ill," the girl answered innocently.',
+      },
+      {
+        de: 'Da dachte der Wolf: "Das junge Ding und die alte Frau, das wäre ein guter Bissen."',
+        zh: '狼心想：「這小女孩和老太婆，會是一頓美餐。」',
+        en: 'Then the wolf thought: "This young thing and the old woman would make a tasty meal."',
+      },
+      {
+        de: '"Sieh nur die schönen Blumen ringsumher", sagte er, und Rotkäppchen lief vom Weg ab, um sie zu pflücken.',
+        zh: '「你看四周這些美麗的花。」狼說，小紅帽便離開小路去採花。',
+        en: '"Just look at the lovely flowers all around," he said, and Red Cap left the path to pick them.',
+      },
+      {
+        de: 'Der Wolf aber lief schnurstracks zum Haus der Großmutter und verschlang sie.',
+        zh: '狼卻直奔祖母家，把她一口吞了。',
+        en: 'But the wolf ran straight to grandmother\'s house and devoured her.',
+      },
+      {
+        de: 'Dann legte er sich in ihr Bett und wartete auf Rotkäppchen.',
+        zh: '然後他躺進她的床上，等著小紅帽。',
+        en: 'Then he lay down in her bed and waited for Red Cap.',
+      },
+      {
+        de: 'Als das Mädchen kam, wunderte es sich: "Großmutter, was hast du für große Ohren!"',
+        zh: '女孩來到時很驚訝：「祖母，你的耳朵好大！」',
+        en: 'When the girl came, she wondered: "Grandmother, what big ears you have!"',
+      },
+      {
+        de: '"Großmutter, was hast du für ein großes Maul!" – "Damit ich dich besser fressen kann!"',
+        zh: '「祖母，你的嘴好大！」——「好把你一口吃掉！」',
+        en: '"Grandmother, what a big mouth you have!" – "All the better to eat you with!"',
+      },
+      {
+        de: 'Kaum hatte der Wolf das gesagt, sprang er aus dem Bett und verschlang auch Rotkäppchen.',
+        zh: '狼剛說完，就跳下床把小紅帽也吞了。',
+        en: 'Hardly had the wolf said this when he sprang from the bed and devoured Red Cap too.',
+      },
+      {
+        de: 'Ein Jäger kam vorbei, schnitt dem schlafenden Wolf den Bauch auf und befreite die beiden.',
+        zh: '一個獵人路過，剖開熟睡的狼的肚子，救出了兩人。',
+        en: 'A huntsman passed by, cut open the sleeping wolf\'s belly and freed them both.',
+      },
+      {
+        de: 'Sie füllten dem Wolf Steine in den Bauch, und Rotkäppchen dachte: "Nie wieder lauf ich allein vom Weg ab."',
+        zh: '他們往狼肚裡塞滿石頭，小紅帽心想：「我再也不獨自離開小路了。」',
+        en: 'They filled the wolf\'s belly with stones, and Red Cap thought: "Never again will I leave the path alone."',
+      },
+    ],
+  },
+  {
+    id: 'haensel-und-gretel',
+    title: 'Hänsel und Gretel',
+    titleZh: '糖果屋',
+    emoji: '🍬',
+    level: 'B1',
+    blurb: '兄妹被丟在森林裡，發現一棟糖果屋——屋主卻是想吃掉他們的女巫。',
+    source: grimmSource,
+    segments: [
+      {
+        de: 'Vor einem großen Wald wohnte ein armer Holzhacker mit seiner Frau und seinen zwei Kindern, Hänsel und Gretel.',
+        zh: '在一片大森林前，住著一個窮樵夫，和他的妻子及兩個孩子韓賽爾與葛蕾特。',
+        en: 'At the edge of a great forest lived a poor woodcutter with his wife and his two children, Hansel and Gretel.',
+      },
+      {
+        de: 'Es kam eine große Teuerung, und sie hatten nichts mehr zu essen.',
+        zh: '來了一場大饑荒，他們再也沒有東西吃了。',
+        en: 'A great famine came, and they had nothing left to eat.',
+      },
+      {
+        de: 'Da sprach die Frau: "Wir bringen die Kinder morgen in den Wald und lassen sie dort allein."',
+        zh: '妻子說：「明天我們把孩子帶進森林，丟下他們不管。」',
+        en: 'Then the wife said: "Tomorrow we\'ll take the children into the forest and leave them there alone."',
+      },
+      {
+        de: 'Hänsel hörte alles und steckte sich heimlich weiße Kieselsteine in die Tasche.',
+        zh: '韓賽爾全聽見了，偷偷在口袋裝滿白色小石子。',
+        en: 'Hansel heard everything and secretly filled his pockets with white pebbles.',
+      },
+      {
+        de: 'Auf dem Weg in den Wald warf er einen Stein nach dem anderen auf den Weg.',
+        zh: '進森林的路上，他一顆一顆把石子丟在路上。',
+        en: 'On the way into the forest he dropped one pebble after another on the path.',
+      },
+      {
+        de: 'Als der Mond schien, leuchteten die Steine, und die Kinder fanden nach Hause zurück.',
+        zh: '月亮升起時，石子發亮，孩子們順著找回了家。',
+        en: 'When the moon shone, the pebbles gleamed, and the children found their way back home.',
+      },
+      {
+        de: 'Beim zweiten Mal hatte Hänsel nur Brot, und die Vögel pickten alle Krümel auf.',
+        zh: '第二次韓賽爾只有麵包，鳥兒把麵包屑全啄光了。',
+        en: 'The second time Hansel had only bread, and the birds pecked up all the crumbs.',
+      },
+      {
+        de: 'So fanden sie den Weg nicht mehr und irrten tief im Wald umher.',
+        zh: '於是他們再也找不到路，在森林深處迷了路。',
+        en: 'So they could not find the way and wandered deep in the forest.',
+      },
+      {
+        de: 'Da sahen sie ein Häuschen, das war ganz aus Brot, Kuchen und Zucker gebaut.',
+        zh: '這時他們看見一間小屋，全是用麵包、蛋糕和糖做成的。',
+        en: 'Then they saw a little house built all of bread, cake and sugar.',
+      },
+      {
+        de: 'Hungrig brachen sie Stücke ab, da rief eine Stimme: "Knusper, knusper, knäuschen, wer knuspert an meinem Häuschen?"',
+        zh: '他們餓著掰下幾塊，這時有聲音喊：「啃啊啃，誰在啃我的小屋？」',
+        en: 'Hungrily they broke off pieces; then a voice called: "Nibble, nibble, little mouse, who is nibbling at my house?"',
+      },
+      {
+        de: 'Eine alte Frau kam heraus und tat freundlich – doch sie war eine böse Hexe.',
+        zh: '一個老婦人走出來，裝得很親切——其實她是個壞女巫。',
+        en: 'An old woman came out and acted kindly – but she was a wicked witch.',
+      },
+      {
+        de: 'Sie sperrte Hänsel in einen Stall und wollte ihn mästen und auffressen.',
+        zh: '她把韓賽爾關進牲口棚，想把他養肥了吃掉。',
+        en: 'She locked Hansel in a stall, meaning to fatten him and eat him.',
+      },
+      {
+        de: 'Gretel musste kochen, und die Hexe rief jeden Tag: "Hänsel, streck deinen Finger heraus!"',
+        zh: '葛蕾特得做飯，女巫每天喊：「韓賽爾，把手指伸出來！」',
+        en: 'Gretel had to cook, and each day the witch called: "Hansel, stick out your finger!"',
+      },
+      {
+        de: 'Hänsel aber hielt ihr ein Knöchlein hin, und die halbblinde Hexe wunderte sich, dass er nicht fett wurde.',
+        zh: '韓賽爾卻伸出一根小骨頭，半瞎的女巫納悶他怎麼不長肉。',
+        en: 'But Hansel held out a little bone, and the half-blind witch wondered why he grew no fatter.',
+      },
+      {
+        de: 'Endlich wollte die Hexe backen und sagte: "Gretel, kriech in den Ofen und sieh nach!"',
+        zh: '最後女巫要烤東西，說：「葛蕾特，爬進爐子看看！」',
+        en: 'At last the witch wanted to bake and said: "Gretel, crawl into the oven and see!"',
+      },
+      {
+        de: 'Gretel merkte die List, stellte sich dumm – und stieß die Hexe selbst in den Ofen.',
+        zh: '葛蕾特看穿詭計，裝傻——反把女巫推進了爐子。',
+        en: 'Gretel saw through the trick, played dumb – and shoved the witch into the oven herself.',
+      },
+      {
+        de: 'Im Haus fanden die Kinder Perlen und Edelsteine und füllten sich die Taschen.',
+        zh: '孩子們在屋裡找到珍珠和寶石，裝滿了口袋。',
+        en: 'In the house the children found pearls and jewels and filled their pockets.',
+      },
+      {
+        de: 'Sie fanden heim zum Vater, und nun hatten sie alle Not überstanden und lebten froh zusammen.',
+        zh: '他們找到了回家的路，從此度過了一切苦難，快樂地生活在一起。',
+        en: 'They found their way home to their father, and now all their troubles were over and they lived happily together.',
+      },
+    ],
+  },
+  {
+    id: 'froschkoenig',
+    title: 'Der Froschkönig',
+    titleZh: '青蛙王子',
+    emoji: '🐸',
+    level: 'B1',
+    blurb: '公主答應青蛙的請求換回金球，卻不想守信；一摔之下，青蛙變回了王子。',
+    source: grimmSource,
+    segments: [
+      {
+        de: 'In alten Zeiten lebte ein König, dessen jüngste Tochter so schön war, dass sich die Sonne darüber wunderte.',
+        zh: '古時候有一位國王，他最小的女兒美得連太陽都驚嘆。',
+        en: 'In olden times there lived a king whose youngest daughter was so beautiful that even the sun marveled at her.',
+      },
+      {
+        de: 'Nahe beim Schloss lag ein dunkler Wald, und darin ein Brunnen.',
+        zh: '城堡附近有一片幽暗的森林，林中有一口井。',
+        en: 'Near the castle lay a dark forest, and in it a well.',
+      },
+      {
+        de: 'An heißen Tagen spielte die Prinzessin dort mit einer goldenen Kugel, die sie in die Höhe warf und wieder fing.',
+        zh: '炎熱的日子，公主在那裡玩一顆金球，把它拋向空中再接住。',
+        en: 'On hot days the princess played there with a golden ball, throwing it up and catching it again.',
+      },
+      {
+        de: 'Einmal aber fiel die Kugel in den Brunnen und versank tief im Wasser.',
+        zh: '但有一次金球掉進井裡，沉入深深的水中。',
+        en: 'But once the ball fell into the well and sank deep into the water.',
+      },
+      {
+        de: 'Die Prinzessin weinte, da rief ein Frosch: "Was weinst du, Königstochter?"',
+        zh: '公主哭了，這時一隻青蛙說：「公主，你為什麼哭？」',
+        en: 'The princess wept; then a frog called: "Why do you weep, king\'s daughter?"',
+      },
+      {
+        de: '"Ich hole dir die Kugel, wenn ich dein Freund sein darf, von deinem Teller essen und in deinem Bettchen schlafen."',
+        zh: '「只要我能當你的朋友、用你的盤子吃飯、睡你的小床，我就把球撈上來。」',
+        en: '"I will fetch your ball if I may be your friend, eat from your plate and sleep in your little bed."',
+      },
+      {
+        de: 'Die Prinzessin versprach alles, dachte aber: "Was der dumme Frosch schwätzt!"',
+        zh: '公主什麼都答應了，心裡卻想：「這蠢青蛙在胡說什麼！」',
+        en: 'The princess promised everything, but thought: "What nonsense the silly frog talks!"',
+      },
+      {
+        de: 'Der Frosch brachte die Kugel, doch das Mädchen lief damit schnell nach Hause.',
+        zh: '青蛙撈上了球，女孩卻拿著球飛快跑回家。',
+        en: 'The frog brought the ball, but the girl ran home with it quickly.',
+      },
+      {
+        de: 'Am nächsten Tag klopfte es an die Tür, und der Frosch rief: "Königstochter, mach mir auf!"',
+        zh: '第二天有人敲門，青蛙喊：「公主，給我開門！」',
+        en: 'The next day there was a knock, and the frog called: "King\'s daughter, open the door for me!"',
+      },
+      {
+        de: 'Der König hörte es und sprach: "Was du versprochen hast, das musst du auch halten."',
+        zh: '國王聽見了，說：「你答應過的事，就必須遵守。」',
+        en: 'The king heard it and said: "What you have promised, you must keep."',
+      },
+      {
+        de: 'Widerwillig ließ ihn die Prinzessin von ihrem Teller essen.',
+        zh: '公主很不情願地讓青蛙在她的盤子裡吃飯。',
+        en: 'Reluctantly the princess let him eat from her plate.',
+      },
+      {
+        de: 'Dann sollte sie ihn mit hinauf in ihr Zimmer nehmen.',
+        zh: '接著她得把青蛙帶上樓，進她的房間。',
+        en: 'Then she had to take him up to her room.',
+      },
+      {
+        de: 'Voller Ekel packte sie den Frosch und warf ihn an die Wand.',
+        zh: '她滿心嫌惡，抓起青蛙摔向牆壁。',
+        en: 'Full of disgust she grabbed the frog and threw him against the wall.',
+      },
+      {
+        de: 'Da fiel er herab – und war auf einmal ein junger Königssohn mit schönen Augen.',
+        zh: '青蛙落下時——忽然變成一位眼睛美麗的年輕王子。',
+        en: 'As he fell, he suddenly became a young prince with beautiful eyes.',
+      },
+      {
+        de: 'Er war von einer bösen Hexe verwünscht worden, und nur sie hatte ihn erlösen können.',
+        zh: '他被一個壞女巫下了咒，只有她能解救他。',
+        en: 'He had been bewitched by a wicked witch, and only she could break the spell.',
+      },
+      {
+        de: 'Die beiden wurden Freunde, und später zog der Königssohn sie als seine Braut heim in sein Reich.',
+        zh: '兩人成了朋友，後來王子娶她為妻，帶她回到自己的國度。',
+        en: 'The two became friends, and later the prince took her home to his kingdom as his bride.',
+      },
+    ],
+  },
+  {
+    id: 'bremer-stadtmusikanten',
+    title: 'Die Bremer Stadtmusikanten',
+    titleZh: '不來梅樂隊',
+    emoji: '🐓',
+    level: 'A2',
+    blurb: '四隻被主人嫌棄的老動物結伴去不來梅，半路用歌聲嚇跑了一窩強盜。',
+    source: grimmSource,
+    segments: [
+      {
+        de: 'Ein Mann hatte einen Esel, der jahrelang die Säcke zur Mühle getragen hatte.',
+        zh: '一個人有一頭驢，多年來一直把麻袋馱到磨坊。',
+        en: 'A man had a donkey that for years had carried the sacks to the mill.',
+      },
+      {
+        de: 'Nun aber wurde der Esel alt und schwach, und der Herr wollte ihn nicht mehr füttern.',
+        zh: '如今驢老了、虛弱了，主人不想再餵牠。',
+        en: 'But now the donkey grew old and weak, and the master no longer wanted to feed him.',
+      },
+      {
+        de: 'Da lief der Esel fort und beschloss, in Bremen Stadtmusikant zu werden.',
+        zh: '於是驢逃走了，決定去不來梅當城市樂手。',
+        en: 'So the donkey ran away, deciding to become a town musician in Bremen.',
+      },
+      {
+        de: 'Unterwegs traf er einen alten Hund, eine Katze und einen Hahn, die alle zu nichts mehr taugen sollten.',
+        zh: '路上牠遇到一隻老狗、一隻貓和一隻公雞，主人都嫌牠們沒用了。',
+        en: 'On the way he met an old dog, a cat and a rooster, all said to be of no more use.',
+      },
+      {
+        de: '"Komm mit uns nach Bremen und mach Musik", sagte der Esel, und alle vier zogen zusammen los.',
+        zh: '「跟我們去不來梅奏樂吧。」驢說，四個夥伴便一起上路。',
+        en: '"Come with us to Bremen and make music," said the donkey, and all four set off together.',
+      },
+      {
+        de: 'Bis Bremen war es weit, und im Wald wollten sie übernachten.',
+        zh: '到不來梅還很遠，牠們想在森林裡過夜。',
+        en: 'Bremen was far, and they wanted to spend the night in the forest.',
+      },
+      {
+        de: 'Da sah der Hahn von einem Baum aus ein Licht: Dort stand ein Räuberhaus.',
+        zh: '這時公雞從樹上看見一點燈光：那裡有一間強盜的房子。',
+        en: 'From a tree the rooster saw a light: there stood a robbers\' house.',
+      },
+      {
+        de: 'Die Tiere stellten sich vor dem Fenster übereinander: Esel, Hund, Katze und Hahn.',
+        zh: '動物們疊在一起站到窗前：驢、狗、貓和公雞。',
+        en: 'The animals stood one on top of the other at the window: donkey, dog, cat and rooster.',
+      },
+      {
+        de: 'Dann fingen sie alle zusammen an zu schreien: Der Esel iahte, der Hund bellte, die Katze miaute, der Hahn krähte.',
+        zh: '然後牠們一起大叫：驢叫、狗吠、貓喵、雞啼。',
+        en: 'Then they all began to cry out together: the donkey brayed, the dog barked, the cat meowed, the rooster crowed.',
+      },
+      {
+        de: 'Mit Gepolter sprangen sie durch das Fenster, und die erschrockenen Räuber flohen in den Wald.',
+        zh: '牠們轟然跳進窗子，受驚的強盜逃進了森林。',
+        en: 'With a crash they leapt through the window, and the frightened robbers fled into the forest.',
+      },
+      {
+        de: 'Die vier setzten sich an den Tisch und aßen sich satt.',
+        zh: '四個夥伴坐到桌邊，吃了個飽。',
+        en: 'The four sat down at the table and ate their fill.',
+      },
+      {
+        de: 'In der Nacht schickten die Räuber einen Mann zurück, um nachzusehen.',
+        zh: '半夜強盜派一個人回來查看。',
+        en: 'In the night the robbers sent one man back to check.',
+      },
+      {
+        de: 'Im Dunkeln kratzte ihn die Katze, der Hund biss ihn, der Esel schlug aus, und der Hahn schrie.',
+        zh: '黑暗中貓抓他、狗咬他、驢踢他、雞啼叫。',
+        en: 'In the dark the cat scratched him, the dog bit him, the donkey kicked, and the rooster screamed.',
+      },
+      {
+        de: 'Der Räuber floh entsetzt und rief, im Haus sitze ein schreckliches Ungeheuer.',
+        zh: '強盜嚇得逃走，喊說屋裡有個可怕的怪物。',
+        en: 'The robber fled in terror, crying that a dreadful monster sat in the house.',
+      },
+      {
+        de: 'Die Räuber kamen nie wieder, und den Tieren gefiel das Haus so gut, dass sie für immer darin blieben.',
+        zh: '強盜再也沒回來，動物們很喜歡那房子，從此永遠住了下來。',
+        en: 'The robbers never returned, and the animals liked the house so well that they stayed there forever.',
+      },
+    ],
+  },
+  {
+    id: 'rapunzel',
+    title: 'Rapunzel',
+    titleZh: '長髮姑娘',
+    emoji: '👸',
+    level: 'B1',
+    blurb: '長髮姑娘被女巫鎖在高塔裡，王子靠著她的長髮爬上塔，卻引來一場波折。',
+    source: grimmSource,
+    segments: [
+      {
+        de: 'Ein Mann und eine Frau wünschten sich lange vergeblich ein Kind.',
+        zh: '一對夫妻渴望孩子，卻久久未能如願。',
+        en: 'A man and a woman long wished in vain for a child.',
+      },
+      {
+        de: 'Hinter ihrem Haus lag der Garten einer mächtigen Zauberin, voller Rapunzeln.',
+        zh: '他們屋後是一位強大女巫的花園，長滿了萵苣。',
+        en: 'Behind their house lay the garden of a powerful sorceress, full of rapunzel lettuce.',
+      },
+      {
+        de: 'Die Frau bekam solche Lust auf die Rapunzeln, dass sie zu sterben meinte.',
+        zh: '妻子非常想吃那萵苣，覺得不吃就要死了。',
+        en: 'The wife so craved the rapunzel that she thought she would die.',
+      },
+      {
+        de: 'Der Mann stieg heimlich über die Mauer und stahl davon – doch die Zauberin ertappte ihn.',
+        zh: '丈夫偷偷翻牆去摘——卻被女巫逮個正著。',
+        en: 'The husband secretly climbed the wall and stole some – but the sorceress caught him.',
+      },
+      {
+        de: '"Du darfst nehmen, so viel du willst, doch dafür musst du mir euer Kind geben", sagte sie.',
+        zh: '「你要多少都行，但你們的孩子得給我。」她說。',
+        en: '"You may take as much as you like, but you must give me your child," she said.',
+      },
+      {
+        de: 'Als das Mädchen geboren war, nahm die Zauberin es mit und nannte es Rapunzel.',
+        zh: '女孩出生後，女巫把她帶走，取名萵苣姑娘。',
+        en: 'When the girl was born, the sorceress took her and named her Rapunzel.',
+      },
+      {
+        de: 'Mit zwölf Jahren sperrte sie das schöne Kind in einen hohen Turm ohne Tür und Treppe.',
+        zh: '女孩十二歲時，女巫把這美麗的孩子關進一座沒有門也沒有樓梯的高塔。',
+        en: 'When she was twelve, she shut the lovely child in a high tower with no door and no stairs.',
+      },
+      {
+        de: 'Rapunzel hatte lange, goldene Haare; rief die Zauberin, ließ sie die Zöpfe zum Fenster herab.',
+        zh: '萵苣姑娘有一頭金色長髮；女巫一喊，她就把辮子從窗口垂下。',
+        en: 'Rapunzel had long golden hair; when the sorceress called, she let her braids down from the window.',
+      },
+      {
+        de: '"Rapunzel, Rapunzel, lass dein Haar herunter!", rief sie, und daran stieg die Alte hinauf.',
+        zh: '「萵苣姑娘，萵苣姑娘，把頭髮放下來！」她喊著，便順著辮子爬上去。',
+        en: '"Rapunzel, Rapunzel, let down your hair!" she called, and climbed up by it.',
+      },
+      {
+        de: 'Eines Tages hörte ein Königssohn Rapunzel singen und sah, wie die Zauberin hinaufstieg.',
+        zh: '有一天一位王子聽見萵苣姑娘唱歌，看見女巫如何爬上塔去。',
+        en: 'One day a prince heard Rapunzel sing and saw how the sorceress climbed up.',
+      },
+      {
+        de: 'Am Abend rief er dieselben Worte, und Rapunzel ließ ihr Haar für ihn herab.',
+        zh: '傍晚他喊出同樣的話，萵苣姑娘也為他垂下頭髮。',
+        en: 'In the evening he called the same words, and Rapunzel let down her hair for him.',
+      },
+      {
+        de: 'Die beiden hatten sich lieb, und Rapunzel versprach, mit ihm fortzugehen.',
+        zh: '兩人相愛了，萵苣姑娘答應跟他一起離開。',
+        en: 'The two grew fond of each other, and Rapunzel promised to go away with him.',
+      },
+      {
+        de: 'Doch sie verriet sich, und die zornige Zauberin schnitt ihr die Haare ab und verstieß sie in die Wüste.',
+        zh: '但她說漏了嘴，憤怒的女巫剪掉她的頭髮，把她趕到荒野。',
+        en: 'But she gave herself away, and the angry sorceress cut off her hair and cast her out into the wilderness.',
+      },
+      {
+        de: 'Als der Königssohn kam, hängte die Zauberin die abgeschnittenen Haare hinaus – und er stürzte in die Dornen und erblindete.',
+        zh: '王子來時，女巫把剪下的頭髮垂出窗外——他摔進荊棘，雙眼瞎了。',
+        en: 'When the prince came, the sorceress hung out the cut-off hair – and he fell into the thorns and was blinded.',
+      },
+      {
+        de: 'Jahrelang irrte der blinde Königssohn umher, bis er Rapunzels Stimme wiederfand.',
+        zh: '瞎眼的王子流浪多年，直到再次聽見萵苣姑娘的聲音。',
+        en: 'For years the blind prince wandered until he found Rapunzel\'s voice again.',
+      },
+      {
+        de: 'Ihre Tränen fielen ihm in die Augen, und er konnte wieder sehen; zusammen zogen sie froh in sein Reich.',
+        zh: '她的眼淚落進他的眼睛，他重見光明；兩人一同快樂地回到他的國度。',
+        en: 'Her tears fell into his eyes, and he could see again; together they went happily to his kingdom.',
+      },
+    ],
+  },
+  {
+    id: 'schneewittchen',
+    title: 'Schneewittchen',
+    titleZh: '白雪公主',
+    emoji: '🍎',
+    level: 'B1',
+    blurb: '善妒的王后一再加害白雪公主，最後一顆毒蘋果讓她沉睡，直到王子出現。',
+    source: grimmSource,
+    segments: [
+      {
+        de: 'Eine Königin wünschte sich ein Kind, so weiß wie Schnee, so rot wie Blut und so schwarz wie das Holz am Fensterrahmen.',
+        zh: '一位王后盼望一個孩子，皮膚白如雪、唇紅如血、髮黑如窗框的木頭。',
+        en: 'A queen wished for a child as white as snow, as red as blood, and as black as the wood of the window frame.',
+      },
+      {
+        de: 'Bald bekam sie ein solches Mädchen und nannte es Schneewittchen, starb aber bei der Geburt.',
+        zh: '不久她生下這樣一個女孩，取名白雪公主，自己卻在生產時去世了。',
+        en: 'Soon she had such a girl and named her Snow White, but died at her birth.',
+      },
+      {
+        de: 'Der König nahm eine neue Frau, schön, aber stolz und neidisch.',
+        zh: '國王娶了新王后，美麗卻驕傲又善妒。',
+        en: 'The king took a new wife, beautiful but proud and envious.',
+      },
+      {
+        de: 'Sie hatte einen Zauberspiegel und fragte: "Spieglein, Spieglein an der Wand, wer ist die Schönste im ganzen Land?"',
+        zh: '她有一面魔鏡，問道：「魔鏡魔鏡牆上掛，誰是全國最美的人？」',
+        en: 'She had a magic mirror and asked: "Mirror, mirror on the wall, who is the fairest of them all?"',
+      },
+      {
+        de: 'Lange hieß die Antwort: "Ihr, Frau Königin." Doch Schneewittchen wurde immer schöner.',
+        zh: '長久以來答案是：「王后，是您。」可白雪公主越長越美。',
+        en: 'For a long time the answer was: "You, my queen." But Snow White grew ever more beautiful.',
+      },
+      {
+        de: 'Eines Tages sprach der Spiegel: "Schneewittchen ist tausendmal schöner als Ihr."',
+        zh: '有一天魔鏡說：「白雪公主比您美一千倍。」',
+        en: 'One day the mirror said: "Snow White is a thousand times fairer than you."',
+      },
+      {
+        de: 'Da befahl die Königin einem Jäger, das Kind im Wald zu töten.',
+        zh: '王后於是命令一個獵人，到森林裡殺掉那孩子。',
+        en: 'Then the queen ordered a huntsman to kill the child in the forest.',
+      },
+      {
+        de: 'Der Jäger aber hatte Mitleid und ließ Schneewittchen laufen.',
+        zh: '獵人卻動了憐憫，放走了白雪公主。',
+        en: 'But the huntsman took pity and let Snow White go.',
+      },
+      {
+        de: 'Das Mädchen fand ein kleines Haus, in dem sieben Zwerge wohnten.',
+        zh: '女孩找到一間小屋，裡面住著七個小矮人。',
+        en: 'The girl found a little house where seven dwarfs lived.',
+      },
+      {
+        de: 'Die Zwerge nahmen sie auf, wenn sie ihnen den Haushalt führte.',
+        zh: '矮人們收留了她，條件是她替他們料理家務。',
+        en: 'The dwarfs took her in if she kept house for them.',
+      },
+      {
+        de: 'Der Spiegel verriet der Königin, dass Schneewittchen noch lebte.',
+        zh: '魔鏡向王后透露白雪公主還活著。',
+        en: 'The mirror told the queen that Snow White was still alive.',
+      },
+      {
+        de: 'Verkleidet kam die Königin zum Haus und schnürte Schneewittchen mit einem Mieder fast zu Tode.',
+        zh: '王后喬裝來到小屋，用胸帶把白雪公主勒得幾乎斷氣。',
+        en: 'In disguise the queen came to the house and laced Snow White nearly to death with a bodice.',
+      },
+      {
+        de: 'Die Zwerge retteten sie, doch die Königin kam wieder und kämmte sie mit einem giftigen Kamm.',
+        zh: '矮人救了她，但王后又來，用一把毒梳子梳她的頭。',
+        en: 'The dwarfs saved her, but the queen came again and combed her with a poisoned comb.',
+      },
+      {
+        de: 'Zuletzt brachte sie einen halb vergifteten Apfel; Schneewittchen biss hinein und fiel wie tot um.',
+        zh: '最後王后帶來一顆一半有毒的蘋果；白雪公主咬了一口，倒下像死了一樣。',
+        en: 'At last she brought a half-poisoned apple; Snow White bit into it and fell as if dead.',
+      },
+      {
+        de: 'Diesmal konnten die Zwerge sie nicht erwecken und legten sie in einen gläsernen Sarg.',
+        zh: '這次矮人喚不醒她，把她放進一具玻璃棺。',
+        en: 'This time the dwarfs could not wake her and laid her in a glass coffin.',
+      },
+      {
+        de: 'Ein Königssohn kam vorbei, verliebte sich und bat, den Sarg mitnehmen zu dürfen.',
+        zh: '一位王子路過，愛上了她，請求帶走那口棺材。',
+        en: 'A prince passed by, fell in love and begged to be allowed to take the coffin with him.',
+      },
+      {
+        de: 'Als die Diener ihn trugen, fiel das Stück Apfel aus Schneewittchens Mund, und sie erwachte.',
+        zh: '僕人抬棺時，蘋果碎塊從白雪公主口中掉出，她甦醒了。',
+        en: 'As the servants carried it, the piece of apple fell from Snow White\'s mouth, and she awoke.',
+      },
+      {
+        de: 'Die beiden heirateten, und die böse Königin wurde für all ihren Neid gestraft.',
+        zh: '兩人結了婚，惡毒的王后為她所有的嫉妒受到了懲罰。',
+        en: 'The two married, and the wicked queen was punished for all her envy.',
+      },
+    ],
+  },
+  {
+    id: 'aschenputtel',
+    title: 'Aschenputtel',
+    titleZh: '灰姑娘',
+    emoji: '👠',
+    level: 'B1',
+    blurb: '受繼母與姊姊欺負的灰姑娘，靠母親墳上小樹的幫助赴宴，掉下一隻金鞋。',
+    source: grimmSource,
+    segments: [
+      {
+        de: 'Einem reichen Mann wurde die Frau krank, und sterbend sagte sie zu ihrer Tochter: "Bleib fromm und gut."',
+        zh: '一個富人的妻子病了，臨終對女兒說：「要保持虔誠善良。」',
+        en: 'A rich man\'s wife fell ill, and dying she said to her daughter: "Stay devout and good."',
+      },
+      {
+        de: 'Der Mann nahm eine neue Frau, die zwei stolze Töchter mitbrachte.',
+        zh: '富人娶了新妻子，她帶來兩個驕傲的女兒。',
+        en: 'The man took a new wife, who brought two proud daughters with her.',
+      },
+      {
+        de: 'Sie quälten das Mädchen, nahmen ihm die Kleider und ließen es in der Asche schlafen – darum hieß es Aschenputtel.',
+        zh: '她們折磨女孩，奪走她的衣服，讓她睡在灰燼裡——因此叫她灰姑娘。',
+        en: 'They tormented the girl, took her clothes and made her sleep in the ashes – so she was called Cinderella.',
+      },
+      {
+        de: 'Auf das Grab der Mutter pflanzte Aschenputtel ein Reis, das zu einem Bäumchen wuchs.',
+        zh: '灰姑娘在母親墳上種了一枝樹苗，長成一棵小樹。',
+        en: 'On her mother\'s grave Cinderella planted a twig that grew into a little tree.',
+      },
+      {
+        de: 'Ein Vöglein auf dem Baum warf ihr herab, was sie sich wünschte.',
+        zh: '樹上一隻小鳥，會把她想要的東西扔下來給她。',
+        en: 'A little bird on the tree threw down to her whatever she wished for.',
+      },
+      {
+        de: 'Der König gab ein Fest, drei Tage lang, damit sein Sohn eine Braut wähle.',
+        zh: '國王舉辦為期三天的舞會，好讓王子挑選新娘。',
+        en: 'The king held a feast for three days so that his son might choose a bride.',
+      },
+      {
+        de: 'Aschenputtel durfte nicht mit, doch das Bäumchen schenkte ihr ein silbernes Kleid und goldene Schuhe.',
+        zh: '灰姑娘不准去，但小樹送了她一件銀色禮服和金鞋。',
+        en: 'Cinderella was not allowed to go, but the little tree gave her a silver dress and golden shoes.',
+      },
+      {
+        de: 'Auf dem Fest tanzte der Königssohn nur mit ihr und ließ keinen anderen an sie heran.',
+        zh: '舞會上王子只和她跳舞，不讓別人靠近她。',
+        en: 'At the feast the prince danced only with her and let no one else near her.',
+      },
+      {
+        de: 'Jeden Abend lief sie vor Mitternacht heimlich davon, und niemand wusste, wer sie war.',
+        zh: '每晚她都在午夜前偷偷溜走，沒人知道她是誰。',
+        en: 'Each evening she slipped away before midnight, and no one knew who she was.',
+      },
+      {
+        de: 'Am dritten Abend blieb ihr goldener Schuh an einer mit Pech bestrichenen Treppe hängen.',
+        zh: '第三晚，她的金鞋黏在塗了瀝青的台階上。',
+        en: 'On the third evening her golden shoe stuck to a staircase smeared with pitch.',
+      },
+      {
+        de: 'Der Königssohn sprach: "Keine andere wird meine Frau als die, der dieser Schuh passt."',
+        zh: '王子說：「除了能穿上這隻鞋的人，我不娶別人。」',
+        en: 'The prince said: "No other shall be my wife than the one this shoe fits."',
+      },
+      {
+        de: 'Die erste Schwester schnitt sich eine Zehe ab, die zweite die Ferse, um in den Schuh zu passen.',
+        zh: '大姊削掉一根腳趾，二姊削掉腳跟，好擠進鞋裡。',
+        en: 'The first sister cut off a toe, the second her heel, to fit into the shoe.',
+      },
+      {
+        de: 'Doch das Vöglein rief: "Blut ist im Schuh", und der Betrug kam heraus.',
+        zh: '但小鳥喊：「鞋裡有血」，騙局被揭穿了。',
+        en: 'But the little bird cried: "There\'s blood in the shoe," and the deceit was discovered.',
+      },
+      {
+        de: 'Endlich probierte Aschenputtel den Schuh, und er passte ihr wie angegossen.',
+        zh: '最後灰姑娘試了鞋，正好合腳。',
+        en: 'At last Cinderella tried the shoe, and it fit her perfectly.',
+      },
+      {
+        de: 'Da erkannte der Königssohn sie und rief: "Das ist die rechte Braut!"',
+        zh: '王子認出了她，喊道：「這才是真正的新娘！」',
+        en: 'Then the prince knew her and cried: "This is the true bride!"',
+      },
+      {
+        de: 'Für ihre Bosheit wurden die falschen Schwestern gestraft, und Aschenputtel lebte glücklich mit dem Königssohn.',
+        zh: '兩個壞姊姊因惡行受到懲罰，灰姑娘和王子幸福地生活在一起。',
+        en: 'The false sisters were punished for their wickedness, and Cinderella lived happily with the prince.',
+      },
+    ],
+  },
+  {
+    id: 'dornroeschen',
+    title: 'Dornröschen',
+    titleZh: '睡美人',
+    emoji: '🌹',
+    level: 'A2',
+    blurb: '被詛咒的公主在十五歲刺到紡錘，沉睡百年，直到一位王子穿過荊棘喚醒她。',
+    source: grimmSource,
+    segments: [
+      {
+        de: 'Ein König und eine Königin bekamen endlich ein Töchterchen und gaben ein großes Fest.',
+        zh: '一位國王和王后終於有了一個小女兒，便舉辦盛大的慶典。',
+        en: 'A king and queen at last had a little daughter and held a great feast.',
+      },
+      {
+        de: 'Sie luden die weisen Frauen ein, doch eine wurde vergessen.',
+        zh: '他們邀請了智慧仙女，卻漏掉了其中一位。',
+        en: 'They invited the wise women, but one was forgotten.',
+      },
+      {
+        de: 'Die weisen Frauen schenkten dem Kind Tugend, Schönheit und Reichtum.',
+        zh: '仙女們賜給孩子美德、美貌和財富。',
+        en: 'The wise women gave the child virtue, beauty and riches.',
+      },
+      {
+        de: 'Da kam die vergessene Frau zornig herein und rief: "Mit fünfzehn Jahren wird sich die Prinzessin an einer Spindel stechen und tot fallen!"',
+        zh: '那位被遺忘的仙女氣憤地進來，喊道：「公主十五歲時將被紡錘刺到，倒地死去！」',
+        en: 'Then the forgotten woman came in angrily and cried: "At fifteen the princess will prick herself on a spindle and fall down dead!"',
+      },
+      {
+        de: 'Eine andere weise Frau aber milderte den Fluch: nicht Tod, nur hundert Jahre Schlaf.',
+        zh: '但另一位仙女減輕了詛咒：不是死，而是沉睡一百年。',
+        en: 'But another wise woman softened the curse: not death, only a hundred years\' sleep.',
+      },
+      {
+        de: 'Der König ließ alle Spindeln im Reich verbrennen.',
+        zh: '國王下令燒掉全國所有的紡錘。',
+        en: 'The king had all the spindles in the kingdom burned.',
+      },
+      {
+        de: 'An ihrem fünfzehnten Geburtstag fand die Prinzessin ein altes Türmchen, in dem eine alte Frau spann.',
+        zh: '在十五歲生日那天，公主發現一座古老的小塔，裡面有個老婦人在紡紗。',
+        en: 'On her fifteenth birthday the princess found an old little tower where an old woman sat spinning.',
+      },
+      {
+        de: 'Kaum berührte sie die Spindel, da stach sie sich und sank in tiefen Schlaf.',
+        zh: '她剛碰到紡錘，就被刺到，沉入了深深的睡眠。',
+        en: 'Hardly had she touched the spindle when she pricked herself and sank into a deep sleep.',
+      },
+      {
+        de: 'Mit ihr schlief das ganze Schloss ein: König, Hofstaat, Pferde, Hunde, sogar das Feuer im Herd.',
+        zh: '整座城堡也隨她沉睡：國王、群臣、馬、狗，連爐裡的火都靜止了。',
+        en: 'With her the whole castle fell asleep: king, court, horses, dogs, even the fire in the hearth.',
+      },
+      {
+        de: 'Rings um das Schloss wuchs eine dichte Dornenhecke und verbarg es ganz.',
+        zh: '城堡四周長出濃密的荊棘籬，把它整個遮住。',
+        en: 'Around the castle grew a thick hedge of thorns that hid it completely.',
+      },
+      {
+        de: 'Viele Königssöhne wollten hindurch, doch die Dornen hielten sie fest, und sie kamen elend um.',
+        zh: '許多王子想穿越，卻被荊棘困住，悲慘地喪命。',
+        en: 'Many princes tried to get through, but the thorns held them fast, and they died miserably.',
+      },
+      {
+        de: 'Nach hundert Jahren kam wieder ein Königssohn; gerade da war die Zeit erfüllt.',
+        zh: '一百年後又來了一位王子；正巧期限已滿。',
+        en: 'After a hundred years another prince came; just then the time was fulfilled.',
+      },
+      {
+        de: 'Die Dornenhecke verwandelte sich in Blumen und ließ ihn ungehindert hindurch.',
+        zh: '荊棘籬化作鮮花，讓他毫無阻礙地穿過。',
+        en: 'The thorn hedge turned into flowers and let him pass unhindered.',
+      },
+      {
+        de: 'Er fand Dornröschen und küsste sie, da schlug sie die Augen auf.',
+        zh: '他找到睡美人，吻了她，她便睜開了眼睛。',
+        en: 'He found Sleeping Beauty and kissed her, and she opened her eyes.',
+      },
+      {
+        de: 'Mit ihr erwachte das ganze Schloss, und der Königssohn feierte mit Dornröschen Hochzeit.',
+        zh: '整座城堡也隨她甦醒，王子與睡美人舉行了婚禮。',
+        en: 'With her the whole castle awoke, and the prince celebrated his wedding with Sleeping Beauty.',
+      },
+    ],
+  },
+  {
+    id: 'rumpelstilzchen',
+    title: 'Rumpelstilzchen',
+    titleZh: '名字古怪的小矮人',
+    emoji: '🧵',
+    level: 'B1',
+    blurb: '少女靠神秘小矮人把稻草紡成金子，代價是她的孩子——除非她猜出他的名字。',
+    source: grimmSource,
+    segments: [
+      {
+        de: 'Ein armer Müller prahlte vor dem König: "Meine Tochter kann Stroh zu Gold spinnen."',
+        zh: '一個窮磨坊主在國王面前吹噓：「我女兒能把稻草紡成金子。」',
+        en: 'A poor miller boasted to the king: "My daughter can spin straw into gold."',
+      },
+      {
+        de: 'Der König ließ das Mädchen holen, sperrte es in eine Kammer voll Stroh und sprach: "Spinn bis morgen, sonst musst du sterben."',
+        zh: '國王把女孩帶來，關進一間滿是稻草的房間，說：「天亮前紡完，否則你得死。」',
+        en: 'The king had the girl brought, shut her in a room full of straw and said: "Spin until morning, or you must die."',
+      },
+      {
+        de: 'Das Mädchen konnte es nicht und weinte.',
+        zh: '女孩做不到，哭了起來。',
+        en: 'The girl could not do it and wept.',
+      },
+      {
+        de: 'Da trat ein kleines Männchen herein und sagte: "Was gibst du mir, wenn ich für dich spinne?"',
+        zh: '這時一個小矮人走進來，說：「如果我替你紡，你給我什麼？」',
+        en: 'Then a little man stepped in and said: "What will you give me if I spin for you?"',
+      },
+      {
+        de: 'Es nahm ihr Halsband, und über Nacht war alles Stroh zu Gold gesponnen.',
+        zh: '他拿走她的項鍊，一夜之間所有稻草都紡成了金子。',
+        en: 'He took her necklace, and overnight all the straw was spun into gold.',
+      },
+      {
+        de: 'Der gierige König gab ihr noch mehr Stroh, und das Männchen nahm diesmal ihren Ring.',
+        zh: '貪心的國王給了她更多稻草，小矮人這次拿走她的戒指。',
+        en: 'The greedy king gave her still more straw, and this time the little man took her ring.',
+      },
+      {
+        de: 'In der dritten Nacht hatte das Mädchen nichts mehr zu geben.',
+        zh: '第三晚，女孩再也沒有東西可給了。',
+        en: 'On the third night the girl had nothing left to give.',
+      },
+      {
+        de: '"So versprich mir dein erstes Kind, wenn du Königin bist", sagte das Männchen, und sie versprach es.',
+        zh: '「那就答應我，等你當上王后，把你的第一個孩子給我。」小矮人說，她答應了。',
+        en: '"Then promise me your first child when you are queen," said the little man, and she promised.',
+      },
+      {
+        de: 'Der König heiratete das Mädchen, und ein Jahr später bekam sie ein Kind.',
+        zh: '國王娶了女孩，一年後她生下一個孩子。',
+        en: 'The king married the girl, and a year later she had a child.',
+      },
+      {
+        de: 'Da kam das Männchen und forderte das Kind.',
+        zh: '這時小矮人來了，索討那孩子。',
+        en: 'Then the little man came and demanded the child.',
+      },
+      {
+        de: 'Die Königin weinte so sehr, dass es ihr eine Frist gab: "Rätst du in drei Tagen meinen Namen, darfst du das Kind behalten."',
+        zh: '王后哭得很傷心，他便給了她期限：「三天內猜出我的名字，孩子就歸你。」',
+        en: 'The queen wept so much that he gave her a reprieve: "If you guess my name in three days, you may keep the child."',
+      },
+      {
+        de: 'Die Königin schickte Boten aus und sammelte alle Namen, die sie finden konnte.',
+        zh: '王后派出使者，蒐集所有能找到的名字。',
+        en: 'The queen sent out messengers and gathered every name she could find.',
+      },
+      {
+        de: 'Am dritten Tag sah ein Bote tief im Wald das Männchen ums Feuer tanzen und singen.',
+        zh: '第三天，一個使者在森林深處看見小矮人繞著火堆又唱又跳。',
+        en: 'On the third day a messenger deep in the forest saw the little man dancing and singing around a fire.',
+      },
+      {
+        de: 'Es sang: "Ach, wie gut, dass niemand weiß, dass ich Rumpelstilzchen heiß!"',
+        zh: '他唱著：「啊，真好，沒人知道我叫倫佩斯提爾欽！」',
+        en: 'He sang: "Oh how good that no one knows that Rumpelstiltskin is my name!"',
+      },
+      {
+        de: 'Als das Männchen wiederkam, fragte die Königin: "Heißt du etwa Rumpelstilzchen?"',
+        zh: '小矮人再來時，王后問：「你該不會叫倫佩斯提爾欽吧？」',
+        en: 'When the little man returned, the queen asked: "Is your name perhaps Rumpelstiltskin?"',
+      },
+      {
+        de: '"Das hat dir der Teufel gesagt!", schrie es voller Wut und verschwand für immer.',
+        zh: '「這是魔鬼告訴你的！」他憤怒地大叫，從此消失不見。',
+        en: '"The devil told you that!" he screamed in fury and vanished forever.',
+      },
+    ],
+  },
+  {
+    id: 'wolf-und-sieben-geisslein',
+    title: 'Der Wolf und die sieben jungen Geißlein',
+    titleZh: '狼與七隻小羊',
+    emoji: '🐺',
+    level: 'A2',
+    blurb: '老山羊出門前叮囑七隻小羊提防大野狼，狼卻用詭計騙開了門。',
+    source: grimmSource,
+    segments: [
+      {
+        de: 'Eine alte Geiß hatte sieben junge Geißlein, die sie von Herzen liebte.',
+        zh: '一隻老山羊有七隻小羊，牠全心全意地愛牠們。',
+        en: 'An old goat had seven little kids whom she loved with all her heart.',
+      },
+      {
+        de: 'Eines Tages wollte sie in den Wald und warnte: "Hütet euch vor dem Wolf!"',
+        zh: '有一天牠要進森林，警告說：「小心那隻狼！」',
+        en: 'One day she wanted to go into the forest and warned: "Beware of the wolf!"',
+      },
+      {
+        de: '"Ihr erkennt ihn an seiner rauen Stimme und seinen schwarzen Füßen", sagte die Mutter.',
+        zh: '「你們可以從他粗啞的嗓音和黑色的腳認出他。」母親說。',
+        en: '"You will know him by his rough voice and his black feet," said the mother.',
+      },
+      {
+        de: 'Bald klopfte der Wolf und rief: "Macht auf, ich bin es, eure Mutter."',
+        zh: '不久狼來敲門，喊道：「開門，是我，你們的媽媽。」',
+        en: 'Soon the wolf knocked and called: "Open up, it is me, your mother."',
+      },
+      {
+        de: 'Doch an der rauen Stimme erkannten ihn die Geißlein und öffneten nicht.',
+        zh: '但小羊們從粗啞的嗓音認出了他，沒有開門。',
+        en: 'But by the rough voice the kids knew him and did not open.',
+      },
+      {
+        de: 'Da fraß der Wolf Kreide, um seine Stimme fein zu machen.',
+        zh: '於是狼吃了白堊，好讓嗓音變細。',
+        en: 'Then the wolf ate chalk to make his voice soft.',
+      },
+      {
+        de: 'Aber als er die schwarze Pfote ans Fenster legte, riefen sie: "Du bist der Wolf!"',
+        zh: '但他把黑色的爪子放上窗口時，牠們喊：「你是狼！」',
+        en: 'But when he put his black paw on the window, they cried: "You are the wolf!"',
+      },
+      {
+        de: 'Da bestrich der Wolf seine Pfote mit Teig und Mehl, bis sie weiß war.',
+        zh: '於是狼把爪子塗上麵團和麵粉，直到變白。',
+        en: 'Then the wolf smeared his paw with dough and flour until it was white.',
+      },
+      {
+        de: 'Nun glaubten ihm die Geißlein und machten die Tür auf.',
+        zh: '這下小羊們信了，把門打開。',
+        en: 'Now the kids believed him and opened the door.',
+      },
+      {
+        de: 'Erschrocken versteckten sie sich, doch der Wolf fand und verschlang sechs von ihnen.',
+        zh: '牠們嚇得躲起來，但狼找到並吞下了其中六隻。',
+        en: 'Terrified they hid, but the wolf found and devoured six of them.',
+      },
+      {
+        de: 'Nur das jüngste blieb im Uhrkasten verborgen.',
+        zh: '只有最小的躲在時鐘盒裡，沒被發現。',
+        en: 'Only the youngest stayed hidden in the clock case.',
+      },
+      {
+        de: 'Als die Mutter heimkam, erzählte ihr das Geißlein alles.',
+        zh: '母親回家後，小羊把一切都告訴了牠。',
+        en: 'When the mother came home, the little kid told her everything.',
+      },
+      {
+        de: 'Draußen fanden sie den satten Wolf schlafend; in seinem Bauch zappelte etwas.',
+        zh: '在外面牠們發現吃飽的狼睡著了，肚子裡有東西在動。',
+        en: 'Outside they found the full wolf asleep; something wriggled in his belly.',
+      },
+      {
+        de: 'Die Mutter schnitt den Bauch auf, und heraus sprangen lebendig alle sechs Geißlein.',
+        zh: '母親剖開狼肚，六隻小羊全都活蹦亂跳地跳了出來。',
+        en: 'The mother cut open the belly, and out sprang all six kids alive.',
+      },
+      {
+        de: 'Sie füllten den Bauch mit Steinen; der Wolf erwachte, fiel in den Brunnen und ertrank.',
+        zh: '牠們往狼肚裡塞滿石頭；狼醒來，跌進井裡淹死了。',
+        en: 'They filled the belly with stones; the wolf woke, fell into the well and drowned.',
       },
     ],
   },
