@@ -1,0 +1,9240 @@
+[
+  {
+    "lemma": "Abbildung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Abend",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Abenteuer",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Abfahrt",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Abfall",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Abfalleimer",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Abflug",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Abo",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-s",
+    "level": "B1"
+  },
+  {
+    "lemma": "Absender",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Absenderin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Abwartin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Adresse",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A1"
+  },
+  {
+    "lemma": "Affe",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Ahnung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A2"
+  },
+  {
+    "lemma": "Akku",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-s",
+    "level": "B1"
+  },
+  {
+    "lemma": "Aktion",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Aktivität",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Alarm",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Alkohol",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Allgemeinbildende",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Alltag",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Alter",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Alternative",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Altersheim",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Ampel",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Amt",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "¨-er",
+    "level": "B1"
+  },
+  {
+    "lemma": "Anbieter",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Änderung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Anfang",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Angabe",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Angaben",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Angebot",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "A1"
+  },
+  {
+    "lemma": "Angehörige",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Angestellte",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Angst",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "¨-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Ankunft",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Anlage",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Anleitung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Anmeldung",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Annonce",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Anrede",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Anruf",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "A1"
+  },
+  {
+    "lemma": "Ansage",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Anschluss",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Anspruch",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Antrag",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Antwort",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A1"
+  },
+  {
+    "lemma": "Antwortbogen",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Anzeige",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Anzug",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Apartment",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-s",
+    "level": "A1"
+  },
+  {
+    "lemma": "Apfel",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-Ä",
+    "level": "A1"
+  },
+  {
+    "lemma": "Apotheke",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Apparat",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Appetit",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "April",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Arbeit",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A1"
+  },
+  {
+    "lemma": "Arbeiter",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Arbeitslosigkeit",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Arbeitsplatz",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-ä",
+    "level": "A1"
+  },
+  {
+    "lemma": "Architekt",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Architektin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Ärger",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Arm",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "A1"
+  },
+  {
+    "lemma": "Art",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Artikel",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Arzt",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-Ä",
+    "level": "A1"
+  },
+  {
+    "lemma": "Ärztin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Asyl",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Atem",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Auf",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2"
+  },
+  {
+    "lemma": "Aufgabe",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Auftrag",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Auftritt",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Aufzug",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-ü",
+    "level": "A1"
+  },
+  {
+    "lemma": "Auge",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Augenblick",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Ausbildung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A2"
+  },
+  {
+    "lemma": "Ausflug",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Ausgang",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Aushilfe",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Auskunft",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-ü",
+    "level": "A1"
+  },
+  {
+    "lemma": "Ausland",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Ausländer",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "A1"
+  },
+  {
+    "lemma": "Ausländerin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Ausnahme",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Aussage",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Ausstellung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A2"
+  },
+  {
+    "lemma": "Ausweis",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Auto",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-s",
+    "level": "A1"
+  },
+  {
+    "lemma": "Autobahn",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A1"
+  },
+  {
+    "lemma": "Automat",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Azubi",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-s",
+    "level": "B1"
+  },
+  {
+    "lemma": "Baby",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-s",
+    "level": "A1"
+  },
+  {
+    "lemma": "Babysitter",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Bäckerei",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Bad",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Badewanne",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Bahn",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Bahnhof",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Bahnsteig",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Balkon",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Ball",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Ballett",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Banane",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Bancomat",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Band",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-s",
+    "level": "A2"
+  },
+  {
+    "lemma": "Bank",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Bankleitzahl",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Bankomat-Karte",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Bar",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-s",
+    "level": "B1"
+  },
+  {
+    "lemma": "Bär",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Basketball",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Batterie",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Bauch",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Bauernhof",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Baum",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-ä",
+    "level": "A1"
+  },
+  {
+    "lemma": "Baustelle",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Beamte",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Beamtin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Bearbeiten",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2"
+  },
+  {
+    "lemma": "Bedeutung",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Bedienungsanleitung",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Bedingung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Beginn",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Begründung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Bein",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "A1"
+  },
+  {
+    "lemma": "Beispiel",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "A1"
+  },
+  {
+    "lemma": "Bekannte",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Beleg",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Benzin",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Beratung",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2"
+  },
+  {
+    "lemma": "Bereich",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Berg",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Bericht",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Beruf",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "A1"
+  },
+  {
+    "lemma": "Berufsbildende",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Berufsschule",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "die Berufsmittelschule",
+    "level": "B1"
+  },
+  {
+    "lemma": "Beschäftigung",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Beschreibung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Besprechung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Besserung",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Bestätigung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Besuch",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Betrag",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Betreuung",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Betriebsrat",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Bett",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-en",
+    "level": "A1"
+  },
+  {
+    "lemma": "Bewegung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Bewerbung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A2"
+  },
+  {
+    "lemma": "Bewohner",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Bewohnerin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Beziehung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Bibliothek",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A2"
+  },
+  {
+    "lemma": "Biene",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Bier",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Bikini",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-s",
+    "level": "B1"
+  },
+  {
+    "lemma": "Bild",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-er",
+    "level": "A1"
+  },
+  {
+    "lemma": "Bildschirm",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Billett",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Biologie",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Birne",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Bitte",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Blatt",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "¨-er",
+    "level": "A2"
+  },
+  {
+    "lemma": "Bleistift",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "A1"
+  },
+  {
+    "lemma": "Blick",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Blitz",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Blog",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-s",
+    "level": "B1"
+  },
+  {
+    "lemma": "Blume",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Blut",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Boden",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Bogen",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Bohne",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Boot",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Botschaft",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Braten",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Breite",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Bremse",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Brief",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "A1"
+  },
+  {
+    "lemma": "Briefmarke",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Brot",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "A1"
+  },
+  {
+    "lemma": "Brötchen",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Bruder",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-ü",
+    "level": "A1"
+  },
+  {
+    "lemma": "Buch",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-ü",
+    "level": "A1"
+  },
+  {
+    "lemma": "Büchse",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Buchstabe",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Buffet",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-s",
+    "level": "B1"
+  },
+  {
+    "lemma": "Bühne",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Bund",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Bundeskanzler",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Bundeskanzlerin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Bundespräsident",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Bundespräsidentin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Bundesrätin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Bundestag",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Burg",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Bürger",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Bürgerin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Bürgermeister",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Bürgermeisterin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Büro",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-s",
+    "level": "A2"
+  },
+  {
+    "lemma": "Bürste",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Bus",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-se",
+    "level": "A1"
+  },
+  {
+    "lemma": "Butter",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Caf",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Cafeteria",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-s",
+    "level": "A2"
+  },
+  {
+    "lemma": "Camp",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-s",
+    "level": "B1"
+  },
+  {
+    "lemma": "Castingshow",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-s",
+    "level": "B1"
+  },
+  {
+    "lemma": "CD",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-s",
+    "level": "A1"
+  },
+  {
+    "lemma": "CD-Player",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Chance",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Chat",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Chef",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Chefin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "A2"
+  },
+  {
+    "lemma": "Chip",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-s",
+    "level": "B1"
+  },
+  {
+    "lemma": "Chipkarte",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "City",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-s",
+    "level": "B1"
+  },
+  {
+    "lemma": "Club",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-s",
+    "level": "A2"
+  },
+  {
+    "lemma": "Coiffeur",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Coiffeuse",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Computer",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Cousin",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-s",
+    "level": "B1"
+  },
+  {
+    "lemma": "Couvert",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-s",
+    "level": "B1"
+  },
+  {
+    "lemma": "Creme",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-s",
+    "level": "A2"
+  },
+  {
+    "lemma": "Dame",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Dank",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Darstellung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Datei",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A2"
+  },
+  {
+    "lemma": "Daten",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Datum",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Dauer",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Demokratie",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Der",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Detail",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-s",
+    "level": "B1"
+  },
+  {
+    "lemma": "Deutsch",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Deutsche",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Deutschland",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Dialekt",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Dialog",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Diät",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Dieb",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Dienst",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Dienstag",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Ding",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Diplom",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Direktor",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Direktorin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Disco",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Disko",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-s",
+    "level": "A2"
+  },
+  {
+    "lemma": "Diskothek",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Diskussion",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Doktor",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Donner",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Donnerstag",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Doppelzimmer",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Dorf",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-ö",
+    "level": "A1"
+  },
+  {
+    "lemma": "Dose",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Droge",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Drogerie",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Druck",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Drucker",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Durchsage",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Durst",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Dusche",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "DVD",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-s",
+    "level": "B1"
+  },
+  {
+    "lemma": "E-Bike",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-s",
+    "level": "B1"
+  },
+  {
+    "lemma": "E-Book",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-s",
+    "level": "A2"
+  },
+  {
+    "lemma": "E-Mail",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-s",
+    "level": "A1"
+  },
+  {
+    "lemma": "Eck",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Ecke",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "EG",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Ehe",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Ehefrau",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A1"
+  },
+  {
+    "lemma": "Ehemann",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Ehepaar",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Ehepartner",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Ei",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-er",
+    "level": "A1"
+  },
+  {
+    "lemma": "Einbrecherin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Eindruck",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Einführung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Eingang",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Einkauf",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Einkommen",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Einladung",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Einleitung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Einrichtung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Eintritt",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Einzahlung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Einzelheit",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Einzelzimmer",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Eis",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Eisenbahn",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Elefant",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Eltern",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Empfang",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Empfänger",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Empfehlung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Ende",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Ente",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Entscheidung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Entschuldigung",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Enttäuschung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Entwicklung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Erde",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Erdgescho",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Erdgeschoss",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Erfahrung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A2"
+  },
+  {
+    "lemma": "Erfindung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Erfolg",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Ergebnis",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-se",
+    "level": "A1"
+  },
+  {
+    "lemma": "Erhöhung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Erholung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Erinnerung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Erkältung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Erklärung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Erlaubnis",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2"
+  },
+  {
+    "lemma": "Erlebnis",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-se",
+    "level": "B1"
+  },
+  {
+    "lemma": "Ermäßigung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A2"
+  },
+  {
+    "lemma": "Ersatz",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Erwachsene",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Erzählung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Erziehung",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Essen",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Essig",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Etage",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Europa",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Europäer",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Europäerin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Europäische",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Fach",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "¨-er",
+    "level": "A2"
+  },
+  {
+    "lemma": "Fachleute",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Fahrbahn",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Fahrer",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Fahrkarte",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Fahrplan",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Fahrrad",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-ä",
+    "level": "A1"
+  },
+  {
+    "lemma": "Fahrzeug",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Faktor",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Fall",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Familie",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Familienname",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Familienstand",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Fan",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-s",
+    "level": "B1"
+  },
+  {
+    "lemma": "Fantasie",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Farbe",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Faschierte",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Fasching",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Fauteuil",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-s",
+    "level": "B1"
+  },
+  {
+    "lemma": "Fax",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "A1"
+  },
+  {
+    "lemma": "Februar",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Fehler",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Feier",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Feiertag",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Feld",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-er",
+    "level": "B1"
+  },
+  {
+    "lemma": "Fenster",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Ferien",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Fernbedienung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Fernsehen",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Fernseher",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Fest",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Festival",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-s",
+    "level": "A2"
+  },
+  {
+    "lemma": "Festplatte",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Feuer",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Feuerzeug",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Fieber",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Film",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "A1"
+  },
+  {
+    "lemma": "Finger",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Firma",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Fisch",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "A1"
+  },
+  {
+    "lemma": "Flasche",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Fleisch",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Fliege",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Flohmarkt",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Flöte",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Flucht",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Flug",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Flughafen",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Flugzeug",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Flur",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Fluss",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Flüssigkeit",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Folge",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Folie",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Forderung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Förderung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Form",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Formular",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "A1"
+  },
+  {
+    "lemma": "Forum",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Foto",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-s",
+    "level": "A1"
+  },
+  {
+    "lemma": "Fotoapparat",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Fotograf",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Frage",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Frau",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A1"
+  },
+  {
+    "lemma": "Freitag",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Freizeit",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Fremdsprache",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Freude",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Freund",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "A1"
+  },
+  {
+    "lemma": "Freundin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "A2"
+  },
+  {
+    "lemma": "Freundschaft",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Friede",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Friseur",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Friseurin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Frist",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Frisur",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Frucht",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Frühling",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Frühstück",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Fu",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Führerausweis",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Führung",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Fundsachen",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2"
+  },
+  {
+    "lemma": "Fußball",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Fußballmannschaft",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Fußgänger",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Fußgängerin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Fußgängerzone",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Gabel",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Galerie",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Gang",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Garage",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Garantie",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Garderobe",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Garten",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Gas",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Gast",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-ä",
+    "level": "A1"
+  },
+  {
+    "lemma": "Gasthaus",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "¨-er",
+    "level": "B1"
+  },
+  {
+    "lemma": "Gaststätte",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Gebäck",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Gebäude",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Gebiet",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Gebühr",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Geburt",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Geburtsjahr",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Geburtsort",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Geburtstag",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Gedicht",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Gefahr",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Gefängnis",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-se",
+    "level": "B1"
+  },
+  {
+    "lemma": "Gefühl",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Gegend",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Gegensatz",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Gegenstand",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Gegenteil",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Gegner",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Gehalt",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "¨-er",
+    "level": "A2"
+  },
+  {
+    "lemma": "Gehsteig",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Geld",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Geldbörse",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Gemeinde",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Gemeinschaft",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Gemüse",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Generation",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Gepäck",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Gerät",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Gericht",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Geschäft",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "A1"
+  },
+  {
+    "lemma": "Geschenk",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "A1"
+  },
+  {
+    "lemma": "Geschichte",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Geschirr",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Geschwister",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Gesicht",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-er",
+    "level": "A2"
+  },
+  {
+    "lemma": "Gespräch",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "A1"
+  },
+  {
+    "lemma": "Gesundheit",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2"
+  },
+  {
+    "lemma": "Getränk",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "A1"
+  },
+  {
+    "lemma": "Getränke",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Gewalt",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Gewerkschaft",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Gewicht",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Gewinn",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Gewissen",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Gewitter",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Gewohnheit",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Gift",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Giraffe",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Gitarre",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Glas",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-ä",
+    "level": "A1"
+  },
+  {
+    "lemma": "Gleis",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "A1"
+  },
+  {
+    "lemma": "Glück",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Glückwunsch",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Gold",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Golf",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Gott",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-er",
+    "level": "B1"
+  },
+  {
+    "lemma": "Grafik",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Gras",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Gratulation",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Grenze",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Grill",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Grippe",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2"
+  },
+  {
+    "lemma": "Größe",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Großeltern",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Großmutter",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Großvater",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Gru",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Grund",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Grundschule",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Gruppe",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Gymnasium",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Haar",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "A1"
+  },
+  {
+    "lemma": "Hackfleisch",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Hafen",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Hähnchen",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-",
+    "level": "A1"
+  },
+  {
+    "lemma": "Halbpension",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Hälfte",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Halle",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Hallenbad",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "¨-er",
+    "level": "B1"
+  },
+  {
+    "lemma": "Hals",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Haltestelle",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Hamburger",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Hand",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-ä",
+    "level": "A1"
+  },
+  {
+    "lemma": "Handtuch",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "¨-er",
+    "level": "A2"
+  },
+  {
+    "lemma": "Handy",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-s",
+    "level": "A1"
+  },
+  {
+    "lemma": "Hat",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Hauptbahnhof",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Hauptstadt",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "¨-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Haus",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-ä",
+    "level": "A1"
+  },
+  {
+    "lemma": "Hausaufgabe",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Hausfrau",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A1"
+  },
+  {
+    "lemma": "Haushalt",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Hausmann",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Hausmeister",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Hausmeisterin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Haustier",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Haut",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Heft",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Heim",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Heimat",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Heimweh",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Heizung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A2"
+  },
+  {
+    "lemma": "Hemd",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-en",
+    "level": "A2"
+  },
+  {
+    "lemma": "Hend",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Herd",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Herr",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-en",
+    "level": "A1"
+  },
+  {
+    "lemma": "Hersteller",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Herz",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Hilfe",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Hilfsmittel",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Himmel",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2"
+  },
+  {
+    "lemma": "Hobby",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-s",
+    "level": "A1"
+  },
+  {
+    "lemma": "Hochzeit",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Homepage",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-s",
+    "level": "A2"
+  },
+  {
+    "lemma": "Honig",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Hör",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Hörer",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Hörerin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Hose",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Hotel",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-s",
+    "level": "A1"
+  },
+  {
+    "lemma": "Hügel",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Humor",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Hund",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "A1"
+  },
+  {
+    "lemma": "Hunger",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Husten",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Hut",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Hütte",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Idee",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Ihnen",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Imbiss",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Import",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Infektion",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Information",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A1"
+  },
+  {
+    "lemma": "Ingenieur",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Inhalt",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Insel",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Inserat",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Institut",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Instrument",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Integration",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Intelligenz",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Intensivkurs",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Interesse",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Interessen",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Internet",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Interview",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-s",
+    "level": "A2"
+  },
+  {
+    "lemma": "Ist",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "die Anmeldung",
+    "level": "A1"
+  },
+  {
+    "lemma": "Ja",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Jacke",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Januar",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Jeans",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2"
+  },
+  {
+    "lemma": "Job",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-s",
+    "level": "A1"
+  },
+  {
+    "lemma": "Journalist",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Journalistin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Jugend",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Jugendherberge",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Jugendliche",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Junge",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Juni",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Kabine",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Kaffee",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Kalender",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Kamera",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-s",
+    "level": "A2"
+  },
+  {
+    "lemma": "Kantine",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Kapitel",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Karneval",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-s",
+    "level": "B1"
+  },
+  {
+    "lemma": "Karotte",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Karriere",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Karte",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Kartoffel",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Käse",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Kasse",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Kassette",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Kasten",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Katalog",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Katastrophe",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Katze",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Kauf",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Kaufhaus",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-¨er",
+    "level": "A2"
+  },
+  {
+    "lemma": "Kellner",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Kenntnisse",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2"
+  },
+  {
+    "lemma": "Kerze",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Kette",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Kind",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-er",
+    "level": "A1"
+  },
+  {
+    "lemma": "Kindergarten",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Kindheit",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Kino",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-s",
+    "level": "A1"
+  },
+  {
+    "lemma": "Kiosk",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Kirche",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Kissen",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Kiste",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Klasse",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Klassenarbeit",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Klavier",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Kleid",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-er",
+    "level": "A2"
+  },
+  {
+    "lemma": "Kleidung",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Klick",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Klima",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Klimaanlage",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Koch",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Koffer",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Kollege",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Kollegin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "A2"
+  },
+  {
+    "lemma": "Kommentar",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Kommunikation",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Kompromiss",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Konferenz",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Konfitüre",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Konflikt",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "König",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Konkurrenz",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Kontakt",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Konto",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Konzert",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Kopf",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Kopie",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Körper",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Kosmetik",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2"
+  },
+  {
+    "lemma": "Kosten",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Kostüm",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Kraft",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Kraftfahrzeug",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Kraftwerk",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Kranke",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Kranken",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Krankenhaus",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "¨-er",
+    "level": "B1"
+  },
+  {
+    "lemma": "Krankenkasse",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Krankenpfleger",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Krankenschwester",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Krankenwagen",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Krankheit",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A2"
+  },
+  {
+    "lemma": "Kredit",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Kreuz",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Kreuzung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A2"
+  },
+  {
+    "lemma": "Krimi",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-s",
+    "level": "A2"
+  },
+  {
+    "lemma": "Krise",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Kritik",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Küche",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Kuchen",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Kugelschreiber",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Kühl",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Kühlschrank",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Kuli",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-s",
+    "level": "B1"
+  },
+  {
+    "lemma": "Kultur",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A2"
+  },
+  {
+    "lemma": "Kultusminister",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Kunde",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Kündigung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Kundin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "A2"
+  },
+  {
+    "lemma": "Kunst",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Künstler",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Künstlerin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Kunststoff",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Kurs",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "A1"
+  },
+  {
+    "lemma": "Kursleiter",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Kurve",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Kuss",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Laden",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-ä",
+    "level": "A1"
+  },
+  {
+    "lemma": "Lage",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Land",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-ä",
+    "level": "A1"
+  },
+  {
+    "lemma": "Landung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Länge",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Langeweile",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Lärm",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Laster",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Leben",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Lebens",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-",
+    "level": "A1"
+  },
+  {
+    "lemma": "Lebenslauf",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Lehrer",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Lehrerin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Lehrling",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Lehrstelle",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Leistung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Leiter",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Leiterin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Leitung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Leserin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Leute",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Licht",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Lied",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-er",
+    "level": "A1"
+  },
+  {
+    "lemma": "Lift",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Limonade",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Linie",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Lippe",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Liste",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Literatur",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Lkw",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-s",
+    "level": "A1"
+  },
+  {
+    "lemma": "Loch",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "¨-er",
+    "level": "B1"
+  },
+  {
+    "lemma": "Löffel",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Lohn",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Lokal",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Lösung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A1"
+  },
+  {
+    "lemma": "Luft",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Lüge",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Lust",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2"
+  },
+  {
+    "lemma": "Mach",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2"
+  },
+  {
+    "lemma": "Mädchen",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Mai",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Mal",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Maler",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Malerin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Mangel",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Mann",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-ä",
+    "level": "A1"
+  },
+  {
+    "lemma": "Mannschaft",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A2"
+  },
+  {
+    "lemma": "Mantel",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Mappe",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Märchen",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Margarine",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Marille",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Marke",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Markt",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "März",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Maschine",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Mechaniker",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Medikament",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Medizin",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Meer",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Mehrheit",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Meinung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A2"
+  },
+  {
+    "lemma": "Meister",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Meldung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Men",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Menge",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Mensa",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-s",
+    "level": "B1"
+  },
+  {
+    "lemma": "Mensch",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-en",
+    "level": "A1"
+  },
+  {
+    "lemma": "Messe",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Messer",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Methode",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Metzger",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Miete",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Migration",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Milch",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Minderheit",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Mineral",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Minister",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Ministerin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Minute",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Mitarbeiter",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Mitarbeiterin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Mitglied",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-er",
+    "level": "B1"
+  },
+  {
+    "lemma": "Mitschüler",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "die Zahlung",
+    "level": "A2"
+  },
+  {
+    "lemma": "Mittag",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Mittagessen",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Mitte",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Mittel",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Mitternacht",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Mittwoch",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Möbel",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Mobil",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Mobilbox",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Mobilität",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Mode",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Modul",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Möglichkeit",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Moment",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Montag",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Morgen",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Müesli",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Müll",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2"
+  },
+  {
+    "lemma": "Müllabfuhr",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Mülltonne",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Mund",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Münze",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Museum",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-een",
+    "level": "A2"
+  },
+  {
+    "lemma": "Musik",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2"
+  },
+  {
+    "lemma": "Musiker",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Musikerin",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Muskel",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Mut",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Mutter",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-ü",
+    "level": "A1"
+  },
+  {
+    "lemma": "Muttersprache",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Mütze",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Nach",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2"
+  },
+  {
+    "lemma": "Nachbar",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Nachbarin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "A2"
+  },
+  {
+    "lemma": "Nachfrage",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Nachhilfe",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Nachmittag",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Nacht",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Nachteil",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Nachwuchs",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Nagel",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Nähe",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2"
+  },
+  {
+    "lemma": "Nahrungsmittel",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Name",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Nase",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Nationalrat",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Natur",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2"
+  },
+  {
+    "lemma": "Nebel",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Neffe",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Netzwerk",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Nord",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Norden",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Notaufnahme",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Notausgang",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Note",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Notfall",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Notiz",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A2"
+  },
+  {
+    "lemma": "Nudel",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Nummer",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Ober",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Obergeschoss",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Obst",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Öffentlichkeit",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Öl",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Oma",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-s",
+    "level": "A1"
+  },
+  {
+    "lemma": "Opa",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-s",
+    "level": "A1"
+  },
+  {
+    "lemma": "Oper",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Ordination",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Ordner",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Ordnung",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Organisation",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Original",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Ort",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "A1"
+  },
+  {
+    "lemma": "Osten",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Österreich",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Österreicher",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Österreicherin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Ozean",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Paar",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Pädagogische",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Paket",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Papier",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Papiere",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Parfüm",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-s",
+    "level": "A2"
+  },
+  {
+    "lemma": "Park",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-s",
+    "level": "A2"
+  },
+  {
+    "lemma": "Parlament",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Partei",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Partner",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "A1"
+  },
+  {
+    "lemma": "Partnerin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "A1"
+  },
+  {
+    "lemma": "Party",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Pass",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-ä",
+    "level": "A1"
+  },
+  {
+    "lemma": "Passagierin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Passwort",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "¨-er",
+    "level": "A2"
+  },
+  {
+    "lemma": "Patient",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Patientin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Pause",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Pech",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Pension",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Pensionist",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Perron",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-s",
+    "level": "B1"
+  },
+  {
+    "lemma": "Person",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A2"
+  },
+  {
+    "lemma": "Personal",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Personalien",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Personenstand",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Pfanne",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Pferd",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Pflanze",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Pflaume",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Pfleger",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Pflicht",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Pilz",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Pizza",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-s",
+    "level": "A2"
+  },
+  {
+    "lemma": "Plakat",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Plan",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-ä",
+    "level": "A1"
+  },
+  {
+    "lemma": "Platz",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-ä",
+    "level": "A1"
+  },
+  {
+    "lemma": "Politik",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Politiker",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Politikerin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Polizei",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Polizist",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Polizistin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Pommes",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Portemonnaie",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Portion",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A2"
+  },
+  {
+    "lemma": "Post",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Poster",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Postkarte",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Postleit",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Postleitzahl",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Pöstler",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Poulet",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-s",
+    "level": "B1"
+  },
+  {
+    "lemma": "Praktikant",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Praktikantin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Praktikum",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Praxis",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Preis",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "A1"
+  },
+  {
+    "lemma": "Presse",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Primarschule",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Problem",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "A1"
+  },
+  {
+    "lemma": "Produkt",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Produktion",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Profisportler",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Profisportlerin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Programm",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Projekt",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Prospekt",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "A1"
+  },
+  {
+    "lemma": "Protest",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Prozess",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Prüfung",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Publikum",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Pullover",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Punkt",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Puppe",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Qualifikation",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Qualität",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A2"
+  },
+  {
+    "lemma": "Quiz",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Rabatt",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Rad",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "¨-er",
+    "level": "B1"
+  },
+  {
+    "lemma": "Radio",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-s",
+    "level": "A2"
+  },
+  {
+    "lemma": "Rathaus",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "¨-er",
+    "level": "A2"
+  },
+  {
+    "lemma": "Raucher",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Raucherin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Raum",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-ä",
+    "level": "A1"
+  },
+  {
+    "lemma": "Reaktion",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Realität",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Recherche",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Rechner",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Rechnung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A1"
+  },
+  {
+    "lemma": "Recht",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Rechtslage",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2"
+  },
+  {
+    "lemma": "Referat",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Reform",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Regel",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Regen",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Regierung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Regierungsrätin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Reifen",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Reihe",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Reihenfolge",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Reinigung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A2"
+  },
+  {
+    "lemma": "Reis",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Reise",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Reisebüro",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-s",
+    "level": "A1"
+  },
+  {
+    "lemma": "Reiseführer",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Reklame",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Rekord",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Religion",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Rente",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Rentner",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Rentnerin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "A2"
+  },
+  {
+    "lemma": "Reparatur",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Reportage",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Rest",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Restaurant",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-s",
+    "level": "A1"
+  },
+  {
+    "lemma": "Rezept",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Rezeption",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Rind",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Ring",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Risiko",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Rock",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Rolle",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Roman",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Rose",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Rücken",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Rückfahrt",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Rückkehr",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Rucksack",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Rücksicht",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Rüebli",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Rufnummer",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Ruhe",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2"
+  },
+  {
+    "lemma": "S-Bahn",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Saal",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Sache",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Sack",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Saft",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Salat",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Salz",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Samstag",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Sand",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Sänger",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Sängerin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Satz",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Schachtel",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Schaden",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Schalter",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Schatten",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Schild",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-er",
+    "level": "A1"
+  },
+  {
+    "lemma": "Schinken",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Schirm",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Schlaf",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Schlafzimmer",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Schlange",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Schloss",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "¨-er",
+    "level": "A2"
+  },
+  {
+    "lemma": "Schluss",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Schlüssel",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Schmerz",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-en",
+    "level": "A2"
+  },
+  {
+    "lemma": "Schmerzmittel",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Schnee",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2"
+  },
+  {
+    "lemma": "Schnitzel",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Schnupfen",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Schokolade",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2"
+  },
+  {
+    "lemma": "Schrank",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-ä",
+    "level": "A1"
+  },
+  {
+    "lemma": "Schreck",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Schriftstellerin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Schuh",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "A1"
+  },
+  {
+    "lemma": "Schularbeit",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Schule",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Schüler",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Schülerin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "A2"
+  },
+  {
+    "lemma": "Schüssel",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Schutz",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Schwammerl",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Schwangerschaft",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Schwein",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Schweiz",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2"
+  },
+  {
+    "lemma": "Schwester",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Schwierigkeit",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Schwimm",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Schwimmbad",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "See",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Sehenswürdigkeit",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A1"
+  },
+  {
+    "lemma": "Seife",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Seite",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Sekretärin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Sekunde",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Semester",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Seminar",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Semmel",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Sender",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Sendung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A2"
+  },
+  {
+    "lemma": "Senioren",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Serie",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Service",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2"
+  },
+  {
+    "lemma": "Serviceangestellte",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Sessel",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Show",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-s",
+    "level": "B1"
+  },
+  {
+    "lemma": "Sicherheit",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Situation",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A2"
+  },
+  {
+    "lemma": "Ski",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Smartphone",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-s",
+    "level": "B1"
+  },
+  {
+    "lemma": "Snack",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-s",
+    "level": "B1"
+  },
+  {
+    "lemma": "So",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Socke",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Sofa",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Software",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-s",
+    "level": "B1"
+  },
+  {
+    "lemma": "Sohn",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-ö",
+    "level": "A1"
+  },
+  {
+    "lemma": "Sommer",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Sonderangebot",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Song",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-s",
+    "level": "B1"
+  },
+  {
+    "lemma": "Sonne",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Sonntag",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Sorge",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Soße",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Sozialarbeiterin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Spa",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2"
+  },
+  {
+    "lemma": "Spazier",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Speisekarte",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Speisewagen",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Spezialist",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Spezialistin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Spiegel",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Spiel",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Spieler",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Spielerin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Spielplatz",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Spielzeug",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Sport",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Sportart",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Sportler",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Sportlerin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Sportplatz",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Spot",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-s",
+    "level": "B1"
+  },
+  {
+    "lemma": "Sprache",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Sprech",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Sprechstunde",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Staat",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Stadt",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-ä",
+    "level": "A1"
+  },
+  {
+    "lemma": "Stadtplan",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Stadtpräsident",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Start",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-s",
+    "level": "B1"
+  },
+  {
+    "lemma": "Station",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Statistik",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Stau",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-s",
+    "level": "B1"
+  },
+  {
+    "lemma": "Staub",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Steak",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-s",
+    "level": "B1"
+  },
+  {
+    "lemma": "Steckdose",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Stecker",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Stelle",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Stewardess",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Stiefel",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Stiege",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Stift",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Stimme",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Stimmung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Stipen",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Stock",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Stockwerk",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Stoff",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Störung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Strafe",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Strafzettel",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Strand",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Straße",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Straßenbahn",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Strecke",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Stress",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2"
+  },
+  {
+    "lemma": "Strom",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Struktur",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Strumpf",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Stück",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Student",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-en",
+    "level": "A1"
+  },
+  {
+    "lemma": "Studentin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "A2"
+  },
+  {
+    "lemma": "Studio",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-s",
+    "level": "B1"
+  },
+  {
+    "lemma": "Studium",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Stuhl",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Stunde",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Sturm",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Sucht",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Suchtmittel",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Süden",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Summe",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Supermarkt",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Suppe",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Süßigkeiten",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2"
+  },
+  {
+    "lemma": "Swimmingpool",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-s",
+    "level": "B1"
+  },
+  {
+    "lemma": "Symbol",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "System",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Szene",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "T-Shirt",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-s",
+    "level": "A2"
+  },
+  {
+    "lemma": "Tablet",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-s",
+    "level": "A2"
+  },
+  {
+    "lemma": "Tablette",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Tafel",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Tag",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Tal",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "¨-er",
+    "level": "B1"
+  },
+  {
+    "lemma": "Tankstelle",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Tasche",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Taschengeld",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Tasse",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Täterin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Tätigkeit",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Tatsache",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Taxi",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-s",
+    "level": "A1"
+  },
+  {
+    "lemma": "Team",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-s",
+    "level": "A2"
+  },
+  {
+    "lemma": "Technik",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Technologie",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Tee",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Teil",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "A1"
+  },
+  {
+    "lemma": "Teilnahme",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Teilnehmer",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Teilnehmerin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Teilzeit",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Telefon",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Teller",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Tempo",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Tennis",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Termin",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "A1"
+  },
+  {
+    "lemma": "Test",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Text",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "A1"
+  },
+  {
+    "lemma": "Theater",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Thema",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Ticket",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-s",
+    "level": "A1"
+  },
+  {
+    "lemma": "Tier",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Tierpark",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-s",
+    "level": "B1"
+  },
+  {
+    "lemma": "Tipp",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-s",
+    "level": "A2"
+  },
+  {
+    "lemma": "Tisch",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "A1"
+  },
+  {
+    "lemma": "Titel",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Tochter",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-ö",
+    "level": "A1"
+  },
+  {
+    "lemma": "Tod",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Toilette",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A1"
+  },
+  {
+    "lemma": "Tomate",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Topf",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Tor",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Torte",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Tote",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Tourismus",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Tourist",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Touristin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Trainer",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Tram",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-s",
+    "level": "B1"
+  },
+  {
+    "lemma": "Träne",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Transport",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Traum",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Treppe",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Treppenhaus",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "¨-er",
+    "level": "B1"
+  },
+  {
+    "lemma": "Trinkgeld",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-er",
+    "level": "B1"
+  },
+  {
+    "lemma": "Tropfen",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Trottoir",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-s",
+    "level": "B1"
+  },
+  {
+    "lemma": "Tuch",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "¨-er",
+    "level": "B1"
+  },
+  {
+    "lemma": "Tür",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A2"
+  },
+  {
+    "lemma": "Turm",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "U-Bahn",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Über",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Übernachtung",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Überraschung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Überschrift",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Übersetzer",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Übersetzerin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Übersetzung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Überstunde",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Überweisung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Uhr",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Umfrage",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Umgebung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Umleitung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Umtausch",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Umwelt",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Umweltschutz",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Umweltver",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Umzug",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Unfall",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Unglück",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Universität",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A2"
+  },
+  {
+    "lemma": "Untergescho",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Untergeschoss",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Unterkunft",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "¨-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Unternehmer",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Unterricht",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Unterschrift",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Unterstützung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Untersuchung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Urkunde",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Urlaub",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Ursache",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Urteil",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Vater",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-ä",
+    "level": "A1"
+  },
+  {
+    "lemma": "Veranstal",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Verantwortung",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Verbindung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Verbrecher",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Verbrecherin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Verdacht",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Verein",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Vergangenheit",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Vergleich",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Verhalten",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Verhältnis",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-se",
+    "level": "B1"
+  },
+  {
+    "lemma": "Verkäufer",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Verkehr",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2"
+  },
+  {
+    "lemma": "Verkehrs",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Verkehrszeichen",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Verletzung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Verlierer",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Verliererin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Verlust",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Vermieter",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Vermieterin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "A2"
+  },
+  {
+    "lemma": "Vermietung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Vermittlung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Verspätung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A2"
+  },
+  {
+    "lemma": "Verständnis",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Versuch",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Vertrag",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Vertrauen",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Vertreter",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Vertreterin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Vertretung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Verwaltung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Verwandte",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Virus",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Visitenkarte",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Vitamin",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Vogel",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Volkshochschule",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Volksschule",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Vollzeit",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Voraussetzung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Vorbereitung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Vorfahrt",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Vormittag",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "A1"
+  },
+  {
+    "lemma": "Vorname",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Vorort",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Vorschlag",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Vorsicht",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Vorstellungsgespräch",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Vorteil",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Vortrag",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Vorwahl",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Vorwurf",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Wagen",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2"
+  },
+  {
+    "lemma": "Wahl",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Wahrheit",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Wald",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-er",
+    "level": "A2"
+  },
+  {
+    "lemma": "Wand",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Wanderung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Wäsche",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Wasser",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Webseite",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Wecker",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Weg",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Wein",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Weiterbildung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Welt",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Werkstatt",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "¨-en",
+    "level": "A2"
+  },
+  {
+    "lemma": "Werkzeug",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Westen",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Wettbewerb",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Wetter",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Wetterbericht",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Wettervorhersage",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Wie",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Wiederholung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Wiederhören",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Wiedersehen",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Wiese",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Wind",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Wirklichkeit",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Wirt",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Wissenschaft",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Wissenschaftlerin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Woche",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Wochenende",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Wochentag",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "A1"
+  },
+  {
+    "lemma": "Wohnort",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Wohnsitz",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Wohnung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A1"
+  },
+  {
+    "lemma": "Wohnzimmer",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Wolke",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A2"
+  },
+  {
+    "lemma": "Wolle",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Workshop",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-s",
+    "level": "A2"
+  },
+  {
+    "lemma": "Wort",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-ö",
+    "level": "A1"
+  },
+  {
+    "lemma": "Wörter",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2"
+  },
+  {
+    "lemma": "Wörterbuch",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "¨-er",
+    "level": "B1"
+  },
+  {
+    "lemma": "Wortschatzliste",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2"
+  },
+  {
+    "lemma": "Wunde",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Wunder",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Wunsch",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Wurst",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "¨-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Zahl",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A2"
+  },
+  {
+    "lemma": "Zahlung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Zahn",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Zahnbürste",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Zahncreme",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Zeichen",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Zeichnung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Zeile",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Zeit",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1"
+  },
+  {
+    "lemma": "Zeitpunkt",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Zeitschrift",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A2"
+  },
+  {
+    "lemma": "Zeitung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "A1"
+  },
+  {
+    "lemma": "Zelt",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Zentrum",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-en",
+    "level": "A2"
+  },
+  {
+    "lemma": "Zertifikat",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Zettel",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "A2"
+  },
+  {
+    "lemma": "Zeug",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Zeuge",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Zeugin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Zeugnis",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-se",
+    "level": "A2"
+  },
+  {
+    "lemma": "Ziel",
+    "pos": "noun",
+    "gender": "n",
+    "plural": "-e",
+    "level": "A2"
+  },
+  {
+    "lemma": "Zigarette",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Zimmer",
+    "pos": "noun",
+    "gender": "n",
+    "level": "A1"
+  },
+  {
+    "lemma": "Zitrone",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Zivilstand",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Zoll",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Zoo",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-s",
+    "level": "A2"
+  },
+  {
+    "lemma": "Zucker",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Zufall",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Zug",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-ü",
+    "level": "A1"
+  },
+  {
+    "lemma": "Zugang",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Zuhause",
+    "pos": "noun",
+    "gender": "n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Zuhörer",
+    "pos": "noun",
+    "gender": "m",
+    "level": "B1"
+  },
+  {
+    "lemma": "Zuhörerin",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-nen",
+    "level": "B1"
+  },
+  {
+    "lemma": "Zukunft",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Zusammenstellung",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1"
+  },
+  {
+    "lemma": "Zustand",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "¨-e",
+    "level": "B1"
+  },
+  {
+    "lemma": "Zustimmung",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-en",
+    "level": "B1"
+  },
+  {
+    "lemma": "Zutaten",
+    "pos": "noun",
+    "gender": "f",
+    "level": "B1"
+  },
+  {
+    "lemma": "Zweifel",
+    "pos": "noun",
+    "gender": "m",
+    "plural": "-",
+    "level": "B1"
+  },
+  {
+    "lemma": "Zweitsprache",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  },
+  {
+    "lemma": "Zwiebel",
+    "pos": "noun",
+    "gender": "f",
+    "plural": "-n",
+    "level": "B1"
+  }
+]

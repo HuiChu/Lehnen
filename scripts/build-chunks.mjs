@@ -42,6 +42,8 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const CACHE = path.join(__dirname, '.cache');
 const OUT = path.join(__dirname, '..', 'src', 'data', 'topics.generated.ts');
 const VOCAB = path.join(__dirname, 'data', 'goethe-vocab.json');
+const TO_TRANSLATE = path.join(CACHE, 'to-translate.json');
+const TRANSLATIONS = path.join(CACHE, 'translations.json');
 const MODEL = 'claude-opus-4-8';
 
 const files = {
@@ -145,6 +147,53 @@ async function aiTranslateBatch(items) {
     });
     console.log(`  …已補譯 ${Math.min(i + BATCH, items.length)}/${items.length}`);
   }
+  return results;
+}
+
+/**
+ * 檔案式補譯（不需計費 API 金鑰）：用「訂閱版 Claude」在 session 內補譯的兩趟流程。
+ *  - 讀 scripts/.cache/translations.json（[{de,zh?,en?}] 或 {de:{zh,en}}），依 de 比對填入。
+ *  - 仍缺的（依各句 need）以 de 去重，寫到 scripts/.cache/to-translate.json，
+ *    提示補譯後存回 translations.json 再跑一次。
+ * 回傳與 items 對齊的 [{en?,zh?}]。
+ */
+function fileTranslateBatch(items) {
+  let table = new Map();
+  if (fs.existsSync(TRANSLATIONS)) {
+    const raw = JSON.parse(fs.readFileSync(TRANSLATIONS, 'utf8'));
+    const arr = Array.isArray(raw) ? raw : Object.entries(raw).map(([de, v]) => ({ de, ...v }));
+    table = new Map(arr.map((r) => [r.de, r]));
+    console.log(`  讀入 translations.json：${table.size} 筆譯文`);
+  } else {
+    console.warn(`  未找到 ${TRANSLATIONS}（首趟正常，補譯後再放回即可）。`);
+  }
+
+  const results = items.map((it) => {
+    const r = table.get(it.de) || {};
+    return { en: r.en, zh: r.zh };
+  });
+
+  // 找出仍缺的（依 need），以 de 去重後寫出待譯清單
+  const pending = new Map(); // de → Set(need)
+  items.forEach((it, i) => {
+    const r = results[i];
+    const stillNeed = it.need.filter((n) => !r[n]);
+    if (stillNeed.length) {
+      let s = pending.get(it.de);
+      if (!s) pending.set(it.de, (s = new Set()));
+      stillNeed.forEach((n) => s.add(n));
+    }
+  });
+
+  if (pending.size) {
+    const list = [...pending.entries()].map(([de, s]) => ({ de, need: [...s] }));
+    fs.writeFileSync(TO_TRANSLATE, JSON.stringify(list, null, 2) + '\n', 'utf8');
+    console.warn(`\n⚠ 尚有 ${list.length} 句待補譯，已寫出：${TO_TRANSLATE}`);
+    console.warn('  請翻成繁中（必要時補英文），存成 scripts/.cache/translations.json（[{de,zh,en?}]），再跑一次本腳本。\n');
+  } else if (table.size) {
+    console.log('  所有待譯句皆已從 translations.json 補齊。');
+  }
+
   return results;
 }
 
@@ -273,9 +322,11 @@ async function main() {
     }
   }
 
-  // AI 補譯
+  // 補譯：有金鑰走 API；否則走檔案式（訂閱版 Claude 在 session 內補譯，兩趟流程）
   console.log(`需補譯 ${toTranslate.length} 句…`);
-  const filled = await aiTranslateBatch(toTranslate);
+  const filled = process.env.ANTHROPIC_API_KEY
+    ? await aiTranslateBatch(toTranslate)
+    : fileTranslateBatch(toTranslate);
   toTranslate.forEach((item, i) => {
     const r = filled[i] || {};
     const ai = [];

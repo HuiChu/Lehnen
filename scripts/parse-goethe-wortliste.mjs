@@ -31,7 +31,6 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { execFileSync } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
-import { scenarioForTheme } from './data/scenario-map.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const CACHE = path.join(__dirname, '.cache');
@@ -71,9 +70,39 @@ async function pdfjsText(file) {
   for (let p = 1; p <= doc.numPages; p++) {
     const page = await doc.getPage(p);
     const content = await page.getTextContent();
-    out += content.items.map((i) => i.str).join(' ') + '\n';
+    out += reconstructLines(content.items) + '\n';
   }
   return out;
+}
+
+/**
+ * 由 text item 的座標重建近似原始排版的「行」。
+ * pdfjs 預設會把整頁 item 串成一段，導致 parseNoun() 的「行首」regex 全部失效；
+ * 這裡依 Y（transform[5]，容差 LINE_TOL）分桶成行、行內依 X（transform[4]）由左到右排序，
+ * 行再依 Y 由大到小（頁面由上到下）輸出，還原成逐行文字。
+ */
+function reconstructLines(items) {
+  const LINE_TOL = 3; // 同一行的 Y 容差
+  const rows = []; // { y, parts: [{ x, str }] }
+  for (const it of items) {
+    if (!it.str) continue;
+    const x = it.transform[4];
+    const y = it.transform[5];
+    let row = rows.find((r) => Math.abs(r.y - y) <= LINE_TOL);
+    if (!row) rows.push((row = { y, parts: [] }));
+    row.parts.push({ x, str: it.str });
+  }
+  rows.sort((a, b) => b.y - a.y);
+  return rows
+    .map((r) =>
+      r.parts
+        .sort((a, b) => a.x - b.x)
+        .map((p) => p.str)
+        .join(' ')
+        .replace(/\s+/g, ' ')
+        .trim()
+    )
+    .join('\n');
 }
 
 const GENDER = { der: 'm', die: 'f', das: 'n' };
@@ -102,29 +131,15 @@ function parseNoun(line) {
   return { lemma, pos: 'noun', gender, plural: plural || undefined };
 }
 
-/** 偵測主題標題行（粗略）：短、無冠詞、像分類名 */
-function maybeTheme(line) {
-  const t = line.trim();
-  if (t.length < 3 || t.length > 40) return null;
-  if (/\b(der|die|das)\b/.test(t)) return null;
-  if (/[.!?]/.test(t)) return null;
-  return scenarioForTheme(t) ? t : null;
-}
-
 function parseLevel(text, level) {
   const byLemma = new Map();
-  let currentTheme = null;
+  // 註：歌德 Wortliste 為「字母順序」清單，無主題分節，因此不推斷 theme
+  // （先前的標題啟發式在字母清單上只會誤判，例如把含 "Ort" 的字判成情境）。
   for (const raw of text.split(/\r?\n/)) {
     const line = raw.replace(/ /g, ' ');
-    const themeHit = maybeTheme(line);
-    if (themeHit) currentTheme = themeHit;
     const noun = parseNoun(line);
     if (noun && !byLemma.has(noun.lemma)) {
-      byLemma.set(noun.lemma, {
-        ...noun,
-        level,
-        theme: currentTheme ? scenarioForTheme(currentTheme) : undefined,
-      });
+      byLemma.set(noun.lemma, { ...noun, level });
     }
   }
   return [...byLemma.values()];
