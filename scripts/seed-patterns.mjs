@@ -87,4 +87,15 @@ export const seeds = [
     match: /\b(es regnet|es schneit)\b/i,
     max: 3,
   },
+
+  // ── 依歌德 Themen 擴充的情境（topicId 對齊 scenario-map.mjs / src/data/topics.ts）──
+  { topicId: 'family', topicTitle: 'Familie & Freunde', topicTitleZh: '家庭與朋友', emoji: '👪', level: 'A1', chunkId: 'family-gen-1', pattern: 'Meine Schwester / Mein Bruder …', patternZh: '談家人。', match: /\b(Schwester|Bruder)\b/, max: 3 },
+  { topicId: 'housing', topicTitle: 'Wohnung & Wohnen', topicTitleZh: '居住與租屋', emoji: '🏠', level: 'A2', chunkId: 'housing-gen-1', pattern: 'Die Wohnung / Die Miete …', patternZh: '談住處與租金。', match: /\b(Wohnung|Miete)\b/, max: 3 },
+  { topicId: 'daily', topicTitle: 'Tagesablauf', topicTitleZh: '日常作息與時間', emoji: '⏰', level: 'A1', chunkId: 'daily-gen-1', pattern: 'Ich stehe … auf.', patternZh: '起床／作息。', match: /\b(stehe ich auf|stehe auf|aufstehen)\b/i, max: 3 },
+  { topicId: 'food', topicTitle: 'Essen & Einkaufen', topicTitleZh: '飲食與採買', emoji: '🛒', level: 'A1', chunkId: 'food-gen-1', pattern: 'Ich esse / trinke …', patternZh: '飲食描述。', match: /\b(Gemüse|Obst|frühstück)\b/i, max: 3 },
+  { topicId: 'health', topicTitle: 'Beim Arzt', topicTitleZh: '健康與看醫生', emoji: '🩺', level: 'A2', chunkId: 'health-gen-1', pattern: 'Ich gehe zum Arzt.', patternZh: '看醫生／身體不適。', match: /\b(Arzt|Ärztin|Schmerzen)\b/, max: 3 },
+  { topicId: 'work', topicTitle: 'Arbeit & Beruf', topicTitleZh: '工作與職業', emoji: '💼', level: 'A2', chunkId: 'work-gen-1', pattern: 'Ich arbeite als …', patternZh: '工作與職業。', match: /\b(arbeite als|von Beruf|Kollege|Kollegen)\b/i, max: 3 },
+  { topicId: 'freetime', topicTitle: 'Freizeit & Hobbys', topicTitleZh: '休閒與嗜好', emoji: '⚽', level: 'A1', chunkId: 'freetime-gen-1', pattern: 'In meiner Freizeit …', patternZh: '休閒嗜好。', match: /\b(Freizeit|Hobby|Fußball)\b/i, max: 3 },
+  { topicId: 'communication', topicTitle: 'Post, Bank & Telefon', topicTitleZh: '郵局、銀行與電話', emoji: '📮', level: 'A2', chunkId: 'communication-gen-1', pattern: 'Ich möchte … schicken / bezahlen.', patternZh: '寄件／付款。', match: /\b(schicken|bezahlen|Konto)\b/i, max: 3 },
+  { topicId: 'travel', topicTitle: 'Reisen & Verkehr', topicTitleZh: '旅行與交通', emoji: '🚆', level: 'A2', chunkId: 'travel-gen-1', pattern: 'Eine Fahrkarte nach …', patternZh: '買票／搭車。', match: /\b(Fahrkarte|Bahnsteig|Flughafen)\b/, max: 3 },
 ];

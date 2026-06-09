@@ -12,6 +12,7 @@
   - ▶ **聽我** — 回放剛剛的錄音
   - 🗣 **聽 AI** — `speechSynthesis` 以德語朗讀例句
 - **三語對照**（德 / 中 / 英）切換、**收藏**語塊（存 localStorage）
+- **文法標記**：例句中的名詞依 **der/die/das** 上色、介係詞標出**支配的格**，點單字看冠詞/複數/格說明（可開關）
 - **探索德語內容**：App 內讀公共領域格林童話（逐句朗讀），外連官方新聞/課程/podcast
 - 五個分頁：HOME / LEARN / MY（進度統計）/ SAVED / SETTING（語速、語音選擇）
 - **PWA**：可加到主畫面、離線可用
@@ -80,6 +81,35 @@ node scripts/build-chunks.mjs
 
 > 編輯句型/搜尋鍵：改 `scripts/seed-patterns.mjs`。
 > 環境無網路/金鑰時，腳本會給出提示並略過補譯——`topics.generated.ts` 預設為空，App 仍正常運作。
+
+## 文法標記與歌德詞表解析（建置期手動執行）
+
+例句中的**名詞陰陽性（der/die/das）與介係詞支配的格**可自動標記，標記資料的權威來源是
+**歌德官方 Wortliste**（只取「字＋冠詞＋複數」等事實，**不擷取其有版權的例句**）。
+
+```bash
+# 1. 下載歌德官方詞表 PDF 到 scripts/.cache/
+mkdir -p scripts/.cache && cd scripts/.cache
+curl -LO https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf
+curl -LO https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf
+curl -LO https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_B1_Wortliste.pdf
+cd ../..
+
+# 2. 解析 PDF → 事實型詞彙庫（建議先裝 poppler 取得 pdftotext；或 npm i -D pdfjs-dist）
+node scripts/parse-goethe-wortliste.mjs     # 產出 scripts/data/goethe-vocab.json
+
+# 3. 產生語塊時自動帶文法標記（沿用上節 Tatoeba 流程）
+node scripts/build-chunks.mjs               # 例句會帶 marks（gender + 介係詞格）
+```
+
+相關檔案：
+- `scripts/parse-goethe-wortliste.mjs` — PDF → `scripts/data/goethe-vocab.json`（`{ lemma, pos, gender, plural, level, theme }`）。
+- `scripts/data/prep-case.mjs` — 介係詞→格的靜態對照（決定論；Wechselpräp. 附方向/地點說明）。
+- `scripts/data/scenario-map.mjs` — 情境登錄表，把歌德 Themen 對應到 App 情境。
+- `scripts/build-chunks.mjs` — 取句後用上述資料自動產生 `marks`（手寫 `src/data/topics.ts` 的標記同型別）。
+
+> 無 `goethe-vocab.json` 時仍會標介係詞格，只是略過名詞性別標記。
+> PDF 抽取文字的排版因版本而異，`parse-goethe-wortliste.mjs` 的 regex 可能需依實際輸出微調。
 
 ## 新增語塊內容（手寫）
 
