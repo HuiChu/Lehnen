@@ -5,6 +5,7 @@ export default function GrammarLegend() {
     { label: 'die（陰）', cls: 'text-rose-600' },
     { label: 'das（中）', cls: 'text-emerald-600' },
     { label: '介係詞+格', cls: 'text-amber-600' },
+    { label: '動詞+時態', cls: 'text-indigo-600' },
   ];
   return (
     <div className="flex flex-wrap items-center justify-center gap-x-3 gap-y-1 text-[11px] text-ink/40">
