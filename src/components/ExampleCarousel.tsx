@@ -1,9 +1,12 @@
 import { useRef } from 'react';
 import type { Example } from '../types';
+import GrammarText from './GrammarText';
+import GrammarLegend from './GrammarLegend';
 import {
   ChevronLeft,
   ChevronRight,
   GlobeIcon,
+  GrammarIcon,
   HeartIcon,
   SlidersIcon,
 } from './icons';
@@ -14,6 +17,8 @@ interface Props {
   onIndexChange: (i: number) => void;
   showTranslation: boolean;
   onToggleTranslation: () => void;
+  showGrammar: boolean;
+  onToggleGrammar: () => void;
   favorite: boolean;
   onToggleFavorite: () => void;
 }
@@ -33,6 +38,8 @@ export default function ExampleCarousel({
   onIndexChange,
   showTranslation,
   onToggleTranslation,
+  showGrammar,
+  onToggleGrammar,
   favorite,
   onToggleFavorite,
 }: Props) {
@@ -66,6 +73,13 @@ export default function ExampleCarousel({
             <SlidersIcon width={22} height={22} />
           </button>
           <button
+            onClick={onToggleGrammar}
+            aria-label="切換文法標記"
+            className={showGrammar ? 'text-orange' : 'hover:text-orange'}
+          >
+            <GrammarIcon width={22} height={22} />
+          </button>
+          <button
             onClick={onToggleTranslation}
             aria-label="切換對照翻譯"
             className={showTranslation ? 'text-orange' : 'hover:text-orange'}
@@ -97,8 +111,17 @@ export default function ExampleCarousel({
         </button>
         <div className="flex-1 text-center">
           <p className="text-xl font-semibold leading-snug text-ink">
-            {current.de}
+            <GrammarText
+              text={current.de}
+              marks={current.marks}
+              enabled={showGrammar}
+            />
           </p>
+          {showGrammar && current.marks?.length ? (
+            <div className="mt-2">
+              <GrammarLegend />
+            </div>
+          ) : null}
           {showTranslation && (
             <div className="mt-3 space-y-1">
               <p className="text-sm text-ink/50">

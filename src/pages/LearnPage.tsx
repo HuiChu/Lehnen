@@ -98,6 +98,10 @@ export default function LearnPage() {
           onToggleTranslation={() =>
             updateSettings({ showTranslation: !settings.showTranslation })
           }
+          showGrammar={settings.showGrammar}
+          onToggleGrammar={() =>
+            updateSettings({ showGrammar: !settings.showGrammar })
+          }
           favorite={favorite}
           onToggleFavorite={() => toggleFavorite(chunk.id)}
         />
