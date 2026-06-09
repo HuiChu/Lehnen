@@ -46,6 +46,11 @@ const TO_TRANSLATE = path.join(CACHE, 'to-translate.json');
 const TRANSLATIONS = path.join(CACHE, 'translations.json');
 const MODEL = 'claude-opus-4-8';
 
+/** 每個 seed 最多補譯幾句（缺人工中文時才補；控制翻譯量、優先用真譯文）。 */
+const MAX_AI_FILL = 6;
+/** 近似句去重：忽略大小寫與標點/空白。 */
+const norm = (s) => s.toLowerCase().replace(/[^a-zäöüß0-9]+/g, '');
+
 const files = {
   deu: path.join(CACHE, 'deu_sentences.tsv'),
   eng: path.join(CACHE, 'eng_sentences.tsv'),
@@ -299,18 +304,31 @@ async function main() {
       };
       topicMap.set(seed.topicId, topic);
     }
-    const examples = [];
+    // 候選收集：去重近似句後，分成「已有人工中文」與「無中文」兩堆。
+    // 優先用已有 zh 的真譯文；不足才從無中文堆少量補譯（上限 MAX_AI_FILL）。
+    const withZh = [];
+    const noZh = [];
+    const seenNorm = new Set();
     for (const [id, de] of deuList) {
-      if (examples.length >= seed.max) break;
       if (de.length > 80) continue; // 太長略過
       if (!seed.match.test(de)) continue;
+      const key = norm(de);
+      if (seenNorm.has(key)) continue; // 去重近似句
+      seenNorm.add(key);
       const { en, zh } = transOf(id);
       const ex = { de, zh: zh || '', en: en || undefined, source: tatoebaSource(id) };
-      const need = [];
-      if (!zh) need.push('zh');
-      if (!en) need.push('en');
-      if (need.length) toTranslate.push({ ref: ex, de, need });
-      examples.push(ex);
+      if (zh) {
+        withZh.push(ex);
+        if (withZh.length >= seed.max) break; // 人工中文已足量，停止掃描
+      } else if (noZh.length < 50) {
+        noZh.push(ex); // 僅保留少量備援供補譯挑選
+      }
+    }
+    const examples = withZh.slice(0, seed.max);
+    if (examples.length < seed.max) {
+      const fill = noZh.slice(0, Math.min(MAX_AI_FILL, seed.max - examples.length));
+      for (const ex of fill) toTranslate.push({ ref: ex, de: ex.de, need: ['zh'] });
+      examples.push(...fill);
     }
     if (examples.length) {
       topic.chunks.push({
