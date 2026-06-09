@@ -2713,6 +2713,841 @@ export const stories: Story[] = [
       },
     ],
   },
+  {
+    id: 'teufel-drei-goldene-haare',
+    title: 'Der Teufel mit den drei goldenen Haaren',
+    titleZh: '魔鬼的三根金髮',
+    emoji: '😈',
+    level: 'B1',
+    blurb: '一個帶著「幸運胎膜」出生的男孩，注定娶到公主，還得從魔鬼頭上取下三根金髮。',
+    source: grimmSource,
+    segments: [
+      {
+        de: 'Einem armen Paar wurde ein Sohn mit einer Glückshaut geboren; man weissagte, er werde mit vierzehn die Königstochter heiraten.',
+        zh: '一對窮夫妻生了個帶著「幸運胎膜」的兒子；有人預言他十四歲時會娶到公主。',
+        en: 'A poor couple had a son born with a caul; it was foretold he would marry the king\'s daughter at fourteen.',
+      },
+      {
+        de: 'Der habgierige König kaufte das Kind, steckte es in eine Schachtel und warf es ins Wasser.',
+        zh: '貪心的國王買下這孩子，把他裝進一個盒子，扔進了水裡。',
+        en: 'The greedy king bought the child, put it in a box and threw it into the water.',
+      },
+      {
+        de: 'Doch das Kind ertrank nicht; ein Müller fand es und zog es auf.',
+        zh: '但孩子沒淹死；一個磨坊主發現了他，把他養大。',
+        en: 'But the child did not drown; a miller found it and raised it.',
+      },
+      {
+        de: 'Jahre später erkannte der König den Jungen und schickte ihn mit einem Brief zur Königin.',
+        zh: '多年後國王認出了這男孩，叫他帶一封信去交給王后。',
+        en: 'Years later the king recognized the boy and sent him with a letter to the queen.',
+      },
+      {
+        de: 'In dem Brief stand, man solle den Boten sofort töten.',
+        zh: '信上寫著：要立刻殺掉送信的人。',
+        en: 'The letter said the messenger was to be killed at once.',
+      },
+      {
+        de: 'Unterwegs übernachtete der Junge bei Räubern, die den Brief heimlich austauschten.',
+        zh: '途中男孩在強盜窩過夜，強盜偷偷把信換了。',
+        en: 'On the way the boy spent the night with robbers, who secretly swapped the letter.',
+      },
+      {
+        de: 'Nun stand darin, der Bote solle sogleich die Königstochter heiraten – und so geschah es.',
+        zh: '現在信上改成：要立刻讓送信人娶公主——事情果然就這樣成了。',
+        en: 'Now it said the messenger should marry the princess at once – and so it happened.',
+      },
+      {
+        de: 'Der zornige König verlangte als Bedingung drei goldene Haare vom Kopf des Teufels.',
+        zh: '憤怒的國王便提出條件：要拿到魔鬼頭上的三根金髮。',
+        en: 'The angry king demanded as a condition three golden hairs from the Devil\'s head.',
+      },
+      {
+        de: 'Auf der langen Reise stellte man dem Jungen drei Fragen, die niemand beantworten konnte.',
+        zh: '在漫長的旅途中，人們向男孩提出三個誰也答不出的問題。',
+        en: 'On the long journey the boy was asked three questions no one could answer.',
+      },
+      {
+        de: 'Beim Teufel verbarg ihn die alte Großmutter und versprach zu helfen.',
+        zh: '到了魔鬼家，年邁的祖母把他藏了起來，答應幫忙。',
+        en: 'At the Devil\'s house, the old grandmother hid him and promised to help.',
+      },
+      {
+        de: 'Während der Teufel schlief, riss sie ihm dreimal ein goldenes Haar aus.',
+        zh: '趁魔鬼睡著時，她拔下了他三根金髮。',
+        en: 'While the Devil slept, she plucked out a golden hair three times.',
+      },
+      {
+        de: 'Jedes Mal tat sie, als habe sie einen seltsamen Traum, und der Teufel erzählte die Lösungen.',
+        zh: '每一次她都假裝做了個古怪的夢，魔鬼便把答案說了出來。',
+        en: 'Each time she pretended she had a strange dream, and the Devil told the answers.',
+      },
+      {
+        de: 'So erfuhr der Junge, warum der Brunnen versiegt, der Baum verdorrt und der Fährmann gefangen war.',
+        zh: '男孩因此得知：那口井為何乾涸、那棵樹為何枯萎、那擺渡人為何脫不了身。',
+        en: 'So the boy learned why the well had dried up, the tree had withered, and the ferryman was trapped.',
+      },
+      {
+        de: 'Mit den drei Haaren und den Antworten kehrte er reich beschenkt zurück.',
+        zh: '他帶著三根金髮和那些答案，滿載著賞賜回來了。',
+        en: 'With the three hairs and the answers he returned richly rewarded.',
+      },
+      {
+        de: 'Der gierige König lief selbst zum Fluss, um auch Gold zu holen.',
+        zh: '貪心的國王親自跑到河邊，也想去拿金子。',
+        en: 'The greedy king ran to the river himself, to fetch gold too.',
+      },
+      {
+        de: 'Doch der Fährmann drückte ihm die Stange in die Hand, und nun muss der König für immer rudern.',
+        zh: '可擺渡人把篙塞進他手裡，如今國王只得永遠擺渡下去。',
+        en: 'But the ferryman pressed the pole into his hand, and now the king must ferry forever.',
+      },
+    ],
+  },
+  {
+    id: 'treue-johannes',
+    title: 'Der treue Johannes',
+    titleZh: '忠實的約翰',
+    emoji: '🤝',
+    level: 'B1',
+    blurb: '忠僕約翰為了保護年輕的國王，獨自承擔了三場災禍的祕密，甚至甘願變成石頭。',
+    source: grimmSource,
+    segments: [
+      {
+        de: 'Ein sterbender König vertraute seinen Sohn dem treuen Diener Johannes an.',
+        zh: '一位垂死的國王把兒子託付給忠心的僕人約翰。',
+        en: 'A dying king entrusted his son to the faithful servant John.',
+      },
+      {
+        de: '"Zeig ihm alles", sagte er, "nur nicht das Zimmer mit dem Bild der Königstochter vom goldenen Dach."',
+        zh: '「什麼都給他看，」他說，「只有那間掛著『金頂公主』畫像的房間不行。」',
+        en: '"Show him everything," he said, "but not the room with the portrait of the Princess of the Golden Roof."',
+      },
+      {
+        de: 'Doch der junge König drängte, bis Johannes ihm das Zimmer öffnete.',
+        zh: '但年輕的國王一再堅持，約翰只好為他打開那房間。',
+        en: 'But the young king pressed until John opened the room for him.',
+      },
+      {
+        de: 'Beim Anblick des Bildes verliebte er sich so sehr, dass er ohnmächtig wurde.',
+        zh: '一看到那畫像，他愛得如此之深，竟昏了過去。',
+        en: 'At the sight of the portrait he fell so in love that he fainted.',
+      },
+      {
+        de: 'Als Kaufleute verkleidet segelten sie mit goldenen Schätzen in das Land der Prinzessin.',
+        zh: '他們扮成商人，載著金色珍寶航向公主的國度。',
+        en: 'Disguised as merchants, they sailed with golden treasures to the princess\'s land.',
+      },
+      {
+        de: 'Sie lockten die Prinzessin auf das Schiff, fuhren davon, und sie willigte ein, ihn zu heiraten.',
+        zh: '他們把公主誘上船，揚帆而去，她也答應嫁給他。',
+        en: 'They lured the princess onto the ship, sailed away, and she agreed to marry him.',
+      },
+      {
+        de: 'Auf der Fahrt hörte Johannes drei Raben von drei Gefahren weissagen.',
+        zh: '航行途中，約翰聽見三隻烏鴉預言三場災難。',
+        en: 'On the voyage John heard three ravens foretell three dangers.',
+      },
+      {
+        de: 'Wer das Geheimnis verriete, würde zu Stein, sagten sie.',
+        zh: '牠們說，誰要是洩露這祕密，就會變成石頭。',
+        en: 'Whoever revealed the secret would turn to stone, they said.',
+      },
+      {
+        de: 'An Land sprang ein fuchsroter Hengst herbei; Johannes erschoss ihn rasch.',
+        zh: '上岸時奔來一匹火紅的駿馬；約翰迅速把牠射死。',
+        en: 'On land a fiery red horse came bounding; John quickly shot it dead.',
+      },
+      {
+        de: 'Ein prächtiges Brauthemd lag bereit; Johannes warf es ins Feuer, ehe der König es anzog.',
+        zh: '一件華麗的新郎襯衣已備好；約翰趁國王還沒穿，就把它扔進了火裡。',
+        en: 'A splendid bridal shirt lay ready; John threw it into the fire before the king put it on.',
+      },
+      {
+        de: 'Niemand verstand sein seltsames Tun, und der König wurde immer misstrauischer.',
+        zh: '沒人明白他這些古怪舉動，國王也越來越疑心。',
+        en: 'No one understood his strange deeds, and the king grew ever more suspicious.',
+      },
+      {
+        de: 'Beim Hochzeitstanz sank die Braut wie tot zu Boden; Johannes eilte herbei und rettete sie.',
+        zh: '婚禮舞會上，新娘像死了一樣倒下；約翰急忙趕來救了她。',
+        en: 'At the wedding dance the bride sank down as if dead; John rushed up and saved her.',
+      },
+      {
+        de: 'Doch nun schien er ein Verräter, und man verurteilte ihn zum Tode.',
+        zh: '可這下他看來像個叛徒，被判了死刑。',
+        en: 'But now he seemed a traitor, and he was condemned to death.',
+      },
+      {
+        de: 'Auf dem Schafott erzählte Johannes endlich die ganze Wahrheit – und wurde dabei zu Stein.',
+        zh: '在斷頭台上，約翰終於說出全部真相——話一說完便化成了石頭。',
+        en: 'On the scaffold John at last told the whole truth – and as he did, he turned to stone.',
+      },
+      {
+        de: 'Voll Reue ließ der König die steinerne Gestalt in seinem Schlafzimmer aufstellen.',
+        zh: '國王滿懷悔恨，把那石像立在自己的臥室裡。',
+        en: 'Full of remorse, the king had the stone figure set up in his bedroom.',
+      },
+      {
+        de: 'Durch ein großes Opfer erweckte er Johannes schließlich wieder zum Leben, und alle waren versöhnt.',
+        zh: '國王最終以一場巨大的犧牲讓約翰復活，眾人盡釋前嫌。',
+        en: 'Through a great sacrifice the king at last brought John back to life, and all were reconciled.',
+      },
+    ],
+  },
+  {
+    id: 'allerleirauh',
+    title: 'Allerleirauh',
+    titleZh: '千皮獸',
+    emoji: '🧥',
+    level: 'B1',
+    blurb: '公主披著千種毛皮做的斗篷逃離王宮，藏身為廚房女傭，靠三件華服重獲身分。',
+    source: grimmSource,
+    segments: [
+      {
+        de: 'Eine sterbende Königin nahm dem König das Versprechen ab, nur eine ebenso schöne Frau mit goldenem Haar zu heiraten.',
+        zh: '一位垂死的王后要國王答應，只娶一個和她一樣美、一樣有金髮的女人。',
+        en: 'A dying queen made the king promise to marry only a woman as beautiful with golden hair as she.',
+      },
+      {
+        de: 'Doch nur seine eigene Tochter war so schön, und der König wollte sie zur Frau nehmen.',
+        zh: '可只有他自己的女兒這麼美，國王竟想娶她為妻。',
+        en: 'But only his own daughter was so beautiful, and the king wanted to take her as his wife.',
+      },
+      {
+        de: 'Entsetzt verlangte die Tochter drei unmögliche Kleider und einen Mantel aus tausenderlei Pelz.',
+        zh: '女兒驚駭萬分，便要求三件不可能的禮服和一件用千種毛皮做的斗篷。',
+        en: 'Horrified, the daughter demanded three impossible dresses and a cloak of a thousand kinds of fur.',
+      },
+      {
+        de: 'Eines sollte wie die Sonne, eines wie der Mond und eines wie die Sterne glänzen.',
+        zh: '一件要像太陽，一件要像月亮，一件要像星星那樣閃亮。',
+        en: 'One was to shine like the sun, one like the moon, and one like the stars.',
+      },
+      {
+        de: 'Als der König alles beschaffte, floh sie nachts im Pelzmantel und nannte sich Allerleirauh.',
+        zh: '國王把一切都備齊後，她趁夜披著毛皮斗篷逃走，自稱「千皮獸」。',
+        en: 'When the king procured it all, she fled by night in the fur cloak and called herself Allerleirauh.',
+      },
+      {
+        de: 'Sie schwärzte sich Gesicht und Hände und versteckte sich in einem hohlen Baum.',
+        zh: '她把臉和手抹黑，躲進一棵空心的樹裡。',
+        en: 'She blackened her face and hands and hid in a hollow tree.',
+      },
+      {
+        de: 'In einem fremden Schloss fand man sie und nahm sie als Küchenmagd auf.',
+        zh: '在一座陌生的城堡裡，人們發現了她，收她做廚房女傭。',
+        en: 'In a foreign castle she was found and taken on as a kitchen maid.',
+      },
+      {
+        de: 'Eines Abends gab der König ein Fest, und heimlich legte Allerleirauh ihren Pelz ab.',
+        zh: '一天晚上國王舉辦宴會，千皮獸偷偷脫下了毛皮。',
+        en: 'One evening the king held a feast, and secretly Allerleirauh took off her fur.',
+      },
+      {
+        de: 'Im Sonnenkleid erschien sie im Saal, und der König tanzte nur mit ihr.',
+        zh: '她穿著太陽禮服出現在大廳，國王只和她跳舞。',
+        en: 'In the sun dress she appeared in the hall, and the king danced only with her.',
+      },
+      {
+        de: 'Danach kochte sie ihm eine Suppe und ließ heimlich einen goldenen Ring hineinfallen.',
+        zh: '之後她替他煮了湯，偷偷把一枚金戒指放了進去。',
+        en: 'Afterwards she cooked him a soup and secretly let a golden ring fall into it.',
+      },
+      {
+        de: 'Beim zweiten Fest kam sie im Mondkleid und ließ ein winziges goldenes Spinnrad in die Suppe gleiten.',
+        zh: '第二場宴會她穿著月亮禮服而來，把一個小巧的金紡車放進湯裡。',
+        en: 'At the second feast she came in the moon dress and slipped a tiny golden spinning wheel into the soup.',
+      },
+      {
+        de: 'Beim dritten Mal trug sie das Sternenkleid, und der König steckte ihr unbemerkt einen Ring an den Finger.',
+        zh: '第三次她穿上星星禮服，國王悄悄在她手指上戴了一枚戒指。',
+        en: 'The third time she wore the star dress, and unnoticed the king slipped a ring onto her finger.',
+      },
+      {
+        de: 'In der Eile vergaß sie, sich wieder ganz zu schwärzen.',
+        zh: '匆忙之間，她忘了把自己重新抹黑。',
+        en: 'In her haste she forgot to blacken herself completely again.',
+      },
+      {
+        de: 'So entdeckte der König unter dem Pelz das goldene Haar und den Ring.',
+        zh: '於是國王在毛皮底下發現了金髮和那枚戒指。',
+        en: 'So the king discovered the golden hair and the ring beneath the fur.',
+      },
+      {
+        de: 'Allerleirauh war keine Magd, sondern eine Königstochter, und der König machte sie zu seiner Braut.',
+        zh: '千皮獸原來不是女傭，而是位公主，國王便娶她為新娘。',
+        en: 'Allerleirauh was no maid but a king\'s daughter, and the king made her his bride.',
+      },
+    ],
+  },
+  {
+    id: 'jorinde-und-joringel',
+    title: 'Jorinde und Joringel',
+    titleZh: '約琳德和約林格爾',
+    emoji: '🌼',
+    level: 'B1',
+    blurb: '少女約琳德被女巫變成夜鶯，未婚夫靠一朵夢中的血紅花，解開了魔咒。',
+    source: grimmSource,
+    segments: [
+      {
+        de: 'Mitten im Wald stand ein altes Schloss, in dem eine böse Zauberin wohnte.',
+        zh: '森林中央有一座古堡，裡面住著一個壞女巫。',
+        en: 'In the middle of the forest stood an old castle where a wicked sorceress lived.',
+      },
+      {
+        de: 'Am Tag verwandelte sie sich in eine Katze oder Eule, in der Nacht wieder in einen Menschen.',
+        zh: '白天她變成貓或貓頭鷹，夜裡又變回人。',
+        en: 'By day she turned into a cat or an owl, by night back into a person.',
+      },
+      {
+        de: 'Wer dem Schloss zu nahe kam, blieb wie erstarrt stehen und konnte sich nicht rühren.',
+        zh: '誰走得離城堡太近，就會像凝固了一樣站住，動彈不得。',
+        en: 'Whoever came too near the castle stood frozen and could not move.',
+      },
+      {
+        de: 'Junge Mädchen verwandelte sie in Vögel und sperrte sie in Käfige.',
+        zh: '她把年輕女孩變成鳥，關進籠子裡。',
+        en: 'Young girls she turned into birds and locked them in cages.',
+      },
+      {
+        de: 'Jorinde und Joringel, ein verlobtes Paar, gingen am Abend im Wald spazieren.',
+        zh: '約琳德和約林格爾這對未婚夫妻，傍晚在森林裡散步。',
+        en: 'Jorinde and Joringel, an engaged couple, walked in the forest one evening.',
+      },
+      {
+        de: 'Ohne es zu merken, kamen sie dem verzauberten Schloss zu nahe.',
+        zh: '他們沒留意，竟走得離那座著魔的城堡太近了。',
+        en: 'Without noticing, they came too near the enchanted castle.',
+      },
+      {
+        de: 'Da wurde Jorinde in eine Nachtigall verwandelt, und Joringel konnte sich nicht bewegen.',
+        zh: '約琳德於是變成了一隻夜鶯，約林格爾則動彈不得。',
+        en: 'Then Jorinde was turned into a nightingale, and Joringel could not move.',
+      },
+      {
+        de: 'Die Eule trug die Nachtigall fort, und als Joringel sich wieder regen konnte, war Jorinde verschwunden.',
+        zh: '貓頭鷹把夜鶯叼走了，等約林格爾能動時，約琳德已不見蹤影。',
+        en: 'The owl carried the nightingale away, and when Joringel could move again, Jorinde was gone.',
+      },
+      {
+        de: 'Verzweifelt diente er lange als Hirt in einem fremden Dorf.',
+        zh: '他絕望之下，在一個陌生的村子裡放了很久的牧。',
+        en: 'In despair he served a long time as a shepherd in a strange village.',
+      },
+      {
+        de: 'Eines Nachts träumte er von einer blutroten Blume mit einer Perle in der Mitte.',
+        zh: '一天夜裡，他夢見一朵血紅的花，花心有一顆珍珠。',
+        en: 'One night he dreamed of a blood-red flower with a pearl in its center.',
+      },
+      {
+        de: 'Neun Tage suchte er, bis er die Blume endlich fand.',
+        zh: '他找了九天，終於找到了那朵花。',
+        en: 'He searched for nine days until he finally found the flower.',
+      },
+      {
+        de: 'Mit der Blume berührte er das Schlosstor, und alle Zauber wichen vor ihm.',
+        zh: '他用那朵花碰了城堡的門，所有的魔法都在他面前退去。',
+        en: 'With the flower he touched the castle gate, and all the magic gave way before him.',
+      },
+      {
+        de: 'Er erlöste Jorinde und die vielen anderen Vögel, und die beiden lebten lange glücklich zusammen.',
+        zh: '他解救了約琳德和許許多多其他的鳥，兩人從此長久幸福地生活在一起。',
+        en: 'He freed Jorinde and the many other birds, and the two lived happily together for a long time.',
+      },
+    ],
+  },
+  {
+    id: 'zwoelf-brueder',
+    title: 'Die zwölf Brüder',
+    titleZh: '十二兄弟',
+    emoji: '👬',
+    level: 'B1',
+    blurb: '十二個哥哥因妹妹的出生變成烏鴉，妹妹為了解救他們，立誓七年不開口說話。',
+    source: grimmSource,
+    segments: [
+      {
+        de: 'Ein König hatte zwölf Söhne und bestimmte: Würde das dreizehnte Kind ein Mädchen, so müssten die Brüder sterben.',
+        zh: '一位國王有十二個兒子，並下令：若第十三個孩子是女孩，哥哥們就得死。',
+        en: 'A king had twelve sons and decreed: if the thirteenth child were a girl, the brothers must die.',
+      },
+      {
+        de: 'Heimlich warnte die Königin den jüngsten Sohn Benjamin, und die zwölf flohen in den Wald.',
+        zh: '王后偷偷警告最小的兒子本雅明，十二兄弟便逃進了森林。',
+        en: 'Secretly the queen warned the youngest son Benjamin, and the twelve fled into the forest.',
+      },
+      {
+        de: 'Aus Trauer schworen sie, jedes Mädchen zu töten, das ihnen begegnete.',
+        zh: '出於悲憤，他們發誓要殺掉每一個遇見的女孩。',
+        en: 'Out of grief they swore to kill every girl they met.',
+      },
+      {
+        de: 'Das Schwesterchen wuchs heran und erfuhr von seinen zwölf Brüdern.',
+        zh: '小妹妹漸漸長大，得知自己有十二個哥哥。',
+        en: 'The little sister grew up and learned of her twelve brothers.',
+      },
+      {
+        de: 'Es machte sich auf, sie zu suchen, und fand zuerst den guten Benjamin.',
+        zh: '她動身去尋找他們，最先找到了善良的本雅明。',
+        en: 'She set out to find them and first found the kind Benjamin.',
+      },
+      {
+        de: 'Als die Brüder hörten, wie lieb ihre Schwester war, nahmen sie sie freudig auf.',
+        zh: '哥哥們聽說妹妹這麼可愛，便歡喜地接納了她。',
+        en: 'When the brothers heard how dear their sister was, they joyfully took her in.',
+      },
+      {
+        de: 'Eines Tages pflückte sie im Garten zwölf weiße Lilien, um den Brüdern eine Freude zu machen.',
+        zh: '有一天她在花園裡摘了十二朵白百合，想讓哥哥們高興。',
+        en: 'One day she picked twelve white lilies in the garden to please her brothers.',
+      },
+      {
+        de: 'Da verwandelten sich die zwölf Brüder im selben Augenblick in Raben und flogen davon.',
+        zh: '就在那一刻，十二個哥哥變成了烏鴉，飛走了。',
+        en: 'At that moment the twelve brothers turned into ravens and flew away.',
+      },
+      {
+        de: 'Eine alte Frau sagte: "Du kannst sie nur erlösen, wenn du sieben Jahre lang nicht sprichst."',
+        zh: '一個老婦人說：「只有你七年不說話，才能解救他們。」',
+        en: 'An old woman said: "You can free them only if you do not speak for seven years."',
+      },
+      {
+        de: 'Das Mädchen schwieg von da an und lebte still in einem Baum im Wald.',
+        zh: '女孩從此沉默不語，靜靜地住在森林裡的一棵樹上。',
+        en: 'From then on the girl was silent and lived quietly in a tree in the forest.',
+      },
+      {
+        de: 'Ein König fand sie, gewann sie lieb und nahm die schöne Stumme zur Frau.',
+        zh: '一位國王找到了她，愛上了她，娶了這位美麗的啞女。',
+        en: 'A king found her, came to love her, and took the beautiful mute girl as his wife.',
+      },
+      {
+        de: 'Doch die böse Mutter des Königs verleumdete sie, weil sie nie ein Wort sprach.',
+        zh: '可國王那惡毒的母親因她從不開口，便誣陷她。',
+        en: 'But the king\'s wicked mother slandered her because she never spoke a word.',
+      },
+      {
+        de: 'Man verurteilte die junge Königin zum Tode auf dem Scheiterhaufen.',
+        zh: '年輕的王后被判處火刑。',
+        en: 'The young queen was condemned to die at the stake.',
+      },
+      {
+        de: 'Doch im letzten Augenblick waren die sieben Jahre um, und zwölf Raben rauschten herbei.',
+        zh: '可就在最後一刻，七年期滿了，十二隻烏鴉呼嘯而至。',
+        en: 'But at the last moment the seven years were over, and twelve ravens came rushing in.',
+      },
+      {
+        de: 'Sie wurden wieder zu Brüdern, retteten die Schwester, und die böse Mutter wurde gestraft.',
+        zh: '牠們又變回了哥哥，救下了妹妹，惡毒的母親則受到懲罰。',
+        en: 'They became brothers again, saved their sister, and the wicked mother was punished.',
+      },
+    ],
+  },
+  {
+    id: 'einaeuglein-zweiaeuglein-dreiaeuglein',
+    title: 'Einäuglein, Zweiäuglein und Dreiäuglein',
+    titleZh: '一隻眼、兩隻眼和三隻眼',
+    emoji: '👁️',
+    level: 'B1',
+    blurb: '長著兩隻眼睛的「平凡」女孩被姊妹欺負，靠一隻神奇山羊和一棵金樹改變了命運。',
+    source: grimmSource,
+    segments: [
+      {
+        de: 'Eine Frau hatte drei Töchter: Einäuglein mit einem Auge, Zweiäuglein mit zweien und Dreiäuglein mit dreien.',
+        zh: '一個女人有三個女兒：長一隻眼的一隻眼、長兩隻眼的兩隻眼、長三隻眼的三隻眼。',
+        en: 'A woman had three daughters: One-eye with one eye, Two-eyes with two, and Three-eyes with three.',
+      },
+      {
+        de: 'Weil Zweiäuglein aussah wie alle Menschen, verachteten es Mutter und Schwestern.',
+        zh: '因為兩隻眼長得和常人一樣，母親和姊妹都瞧不起她。',
+        en: 'Because Two-eyes looked like ordinary people, her mother and sisters despised her.',
+      },
+      {
+        de: 'Es bekam nur die Reste und musste oft hungern.',
+        zh: '她只能吃殘羹剩飯，常常挨餓。',
+        en: 'She got only the leftovers and often went hungry.',
+      },
+      {
+        de: 'Eines Tages weinte es auf der Wiese, da erschien eine weise Frau.',
+        zh: '有一天她在草地上哭泣，這時出現了一位智慧的婦人。',
+        en: 'One day she wept on the meadow, and a wise woman appeared.',
+      },
+      {
+        de: '"Sag zu deiner Ziege: Zicklein, meck, Tischlein, deck – dann hast du genug zu essen", riet sie.',
+        zh: '她出主意：「對你的山羊說：小羊咩咩、桌子擺擺——你就有得吃了。」',
+        en: 'She advised: "Say to your goat – little goat bleat, little table be set – and you will have enough to eat."',
+      },
+      {
+        de: 'Von nun an war Zweiäuglein satt, und die Schwestern wunderten sich.',
+        zh: '從此兩隻眼不再餓肚子，姊妹們都很納悶。',
+        en: 'From then on Two-eyes was full, and the sisters wondered.',
+      },
+      {
+        de: 'Einäuglein sollte aufpassen, doch Zweiäuglein sang es in den Schlaf.',
+        zh: '一隻眼奉命監視，可兩隻眼把她唱得睡著了。',
+        en: 'One-eye was to keep watch, but Two-eyes sang her to sleep.',
+      },
+      {
+        de: 'Dreiäuglein aber vergaß Zweiäuglein einzuschläfern, und das dritte Auge sah alles.',
+        zh: '但兩隻眼忘了哄三隻眼的第三隻眼睛入睡，那隻眼把一切都看見了。',
+        en: 'But Two-eyes forgot to lull Three-eyes\' third eye, and that eye saw everything.',
+      },
+      {
+        de: 'Aus Neid schlachteten sie die gute Ziege.',
+        zh: '出於嫉妒，她們把那隻好山羊宰了。',
+        en: 'Out of envy they slaughtered the good goat.',
+      },
+      {
+        de: 'Die weise Frau riet Zweiäuglein, die Eingeweide der Ziege im Garten zu vergraben.',
+        zh: '智慧的婦人勸兩隻眼把山羊的內臟埋在花園裡。',
+        en: 'The wise woman advised Two-eyes to bury the goat\'s entrails in the garden.',
+      },
+      {
+        de: 'Am Morgen stand dort ein Baum mit silbernen Blättern und goldenen Früchten.',
+        zh: '早上那裡長出一棵樹，銀色的葉子、金色的果實。',
+        en: 'In the morning a tree stood there with silver leaves and golden fruit.',
+      },
+      {
+        de: 'Nur Zweiäuglein konnte die goldenen Früchte pflücken; den Schwestern wichen die Zweige aus.',
+        zh: '只有兩隻眼摘得到金果子；樹枝會躲開兩個姊姊。',
+        en: 'Only Two-eyes could pluck the golden fruit; the branches drew away from the sisters.',
+      },
+      {
+        de: 'Ein Ritter kam vorbei, und Zweiäuglein reichte ihm heimlich einen goldenen Zweig.',
+        zh: '一位騎士路過，兩隻眼偷偷遞給他一根金樹枝。',
+        en: 'A knight came by, and Two-eyes secretly handed him a golden branch.',
+      },
+      {
+        de: 'Der Ritter nahm das gute Mädchen mit und machte es zu seiner Frau.',
+        zh: '騎士把這善良的女孩帶走，娶她為妻。',
+        en: 'The knight took the good girl with him and made her his wife.',
+      },
+      {
+        de: 'Der wunderbare Baum folgte ihr, und später verzieh sie sogar ihren reuigen Schwestern.',
+        zh: '那棵神奇的樹也跟著她去了，後來她甚至原諒了悔悟的姊姊們。',
+        en: 'The wonderful tree followed her, and later she even forgave her repentant sisters.',
+      },
+    ],
+  },
+  {
+    id: 'wasser-des-lebens',
+    title: 'Das Wasser des Lebens',
+    titleZh: '生命之水',
+    emoji: '💧',
+    level: 'B1',
+    blurb: '三個王子去尋找能救活父王的生命之水，只有謙和有禮的小王子得到了矮人的指點。',
+    source: grimmSource,
+    segments: [
+      {
+        de: 'Ein alter König lag todkrank, und seine drei Söhne zogen aus, das Wasser des Lebens zu suchen.',
+        zh: '一位老國王病危垂死，三個兒子動身去尋找生命之水。',
+        en: 'An old king lay mortally ill, and his three sons set out to seek the water of life.',
+      },
+      {
+        de: 'Die beiden älteren Söhne antworteten einem Zwerg grob und blieben darauf in engen Schluchten stecken.',
+        zh: '兩個哥哥粗魯地回答一個矮人，結果被困在狹窄的山谷裡。',
+        en: 'The two elder sons answered a dwarf rudely and afterwards got stuck in narrow ravines.',
+      },
+      {
+        de: 'Der jüngste aber war höflich, und der Zwerg zeigte ihm den Weg.',
+        zh: '但最小的兒子很有禮貌，矮人便為他指了路。',
+        en: 'But the youngest was polite, and the dwarf showed him the way.',
+      },
+      {
+        de: '"In einem verzauberten Schloss findest du das Wasser, doch sei vor zwölf Uhr wieder draußen."',
+        zh: '「在一座著魔的城堡裡你能找到那水，但十二點前一定要出來。」',
+        en: '"In an enchanted castle you will find the water, but be out again before twelve o\'clock."',
+      },
+      {
+        de: 'Mit einer eisernen Rute öffnete er die Tore und ging an zwei Löwen vorbei.',
+        zh: '他用一根鐵杖打開了城門，走過兩頭獅子。',
+        en: 'With an iron wand he opened the gates and passed two lions.',
+      },
+      {
+        de: 'Im Schloss traf er eine schöne Prinzessin, die ihn bat, in einem Jahr zur Hochzeit wiederzukommen.',
+        zh: '城堡裡他遇到一位美麗的公主，她請他一年後回來成婚。',
+        en: 'In the castle he met a beautiful princess, who asked him to return in a year for the wedding.',
+      },
+      {
+        de: 'Er schöpfte das Wasser des Lebens und eilte kurz vor zwölf Uhr hinaus.',
+        zh: '他舀起生命之水，趕在十二點前匆匆出來。',
+        en: 'He drew the water of life and hurried out just before twelve.',
+      },
+      {
+        de: 'Gegen den Rat des Zwerges befreite er unterwegs seine beiden Brüder.',
+        zh: '他違背矮人的勸告，途中救出了兩個哥哥。',
+        en: 'Against the dwarf\'s advice he freed his two brothers on the way.',
+      },
+      {
+        de: 'Doch die neidischen Brüder vertauschten heimlich das Wasser gegen Salzwasser.',
+        zh: '可妒忌的哥哥們偷偷把那水換成了鹹水。',
+        en: 'But the envious brothers secretly swapped the water for salt water.',
+      },
+      {
+        de: 'So schien es, als wolle der jüngste den Vater vergiften, und der König wurde zornig.',
+        zh: '於是看來像是小兒子想毒害父親，國王大怒。',
+        en: 'So it seemed the youngest wanted to poison their father, and the king grew angry.',
+      },
+      {
+        de: 'Erst die echten Wasser der Brüder heilten den König, und er hielt sie für die Guten.',
+        zh: '後來是哥哥們那份真水治好了國王，他便以為他們才是好兒子。',
+        en: 'Only the brothers\' real water healed the king, and he took them for the good ones.',
+      },
+      {
+        de: 'Inzwischen ließ die Prinzessin eine goldene Straße zu ihrem Schloss bauen.',
+        zh: '與此同時，公主下令修一條通往她城堡的金色大道。',
+        en: 'Meanwhile the princess had a golden road built to her castle.',
+      },
+      {
+        de: 'Nur der wahre Bräutigam sollte mitten darauf hereinreiten.',
+        zh: '只有真正的新郎才能從正中央騎馬進來。',
+        en: 'Only the true bridegroom was to ride straight up the middle of it.',
+      },
+      {
+        de: 'Die älteren Brüder ritten scheu daneben, doch der jüngste ritt geradewegs hinauf.',
+        zh: '哥哥們膽怯地從旁邊繞行，小兒子卻一直騎到正中央上去。',
+        en: 'The elder brothers timidly rode beside it, but the youngest rode straight up.',
+      },
+      {
+        de: 'So erkannte man den treuen Sohn; er heiratete die Prinzessin, und die falschen Brüder flohen davon.',
+        zh: '於是人們認出了那忠厚的兒子；他娶了公主，奸詐的哥哥們則逃之夭夭。',
+        en: 'So the faithful son was known; he married the princess, and the false brothers fled.',
+      },
+    ],
+  },
+  {
+    id: 'alter-sultan',
+    title: 'Der alte Sultan',
+    titleZh: '老蘇丹',
+    emoji: '🐕',
+    level: 'A2',
+    blurb: '一隻又老又沒牙的忠狗差點被主人射殺，靠狼的一個計謀重獲信任，卻始終守著忠義。',
+    source: grimmSource,
+    segments: [
+      {
+        de: 'Ein Bauer hatte einen treuen Hund namens Sultan, der nun alt und zahnlos geworden war.',
+        zh: '一個農夫有一隻忠心的狗叫蘇丹，如今牠老了，牙也掉光了。',
+        en: 'A farmer had a faithful dog named Sultan, who had now grown old and toothless.',
+      },
+      {
+        de: 'Der Bauer wollte ihn erschießen, weil er zu nichts mehr nütze sei.',
+        zh: '農夫想把牠射死，因為牠再也沒用了。',
+        en: 'The farmer wanted to shoot him because he was of no more use.',
+      },
+      {
+        de: 'Traurig klagte Sultan dem Wolf sein Leid.',
+        zh: '蘇丹傷心地向狼訴說自己的苦處。',
+        en: 'Sadly Sultan told the wolf his sorrow.',
+      },
+      {
+        de: 'Der Wolf gab ihm einen Rat: "Ich trage das Kind des Bauern fort, und du rettest es."',
+        zh: '狼給牠出了個主意：「我把農夫的孩子叼走，你再把牠救回來。」',
+        en: 'The wolf gave him advice: "I will carry off the farmer\'s child, and you rescue it."',
+      },
+      {
+        de: 'So geschah es: Sultan brachte das Kind zurück, und der Bauer war voller Dankbarkeit.',
+        zh: '事情果然如此：蘇丹把孩子帶了回來，農夫滿懷感激。',
+        en: 'So it happened: Sultan brought the child back, and the farmer was full of gratitude.',
+      },
+      {
+        de: 'Von nun an durfte der alte Hund es sich gut gehen lassen.',
+        zh: '從此這隻老狗可以好好享清福了。',
+        en: 'From then on the old dog could take his ease.',
+      },
+      {
+        de: 'Bald aber verlangte der Wolf zum Dank, ein Schaf stehlen zu dürfen.',
+        zh: '但不久狼便要求作為回報，讓牠偷一隻羊。',
+        en: 'But soon the wolf demanded, as thanks, to be allowed to steal a sheep.',
+      },
+      {
+        de: 'Sultan blieb treu und warnte den Bauern, und der Wolf musste mit leerem Magen fliehen.',
+        zh: '蘇丹依然忠心，警告了農夫，狼只得餓著肚子逃走。',
+        en: 'Sultan stayed loyal and warned the farmer, and the wolf had to flee with an empty stomach.',
+      },
+      {
+        de: 'Beleidigt forderte der Wolf den Hund zum Kampf und brachte ein Wildschwein als Helfer mit.',
+        zh: '狼受了氣，向狗下了戰書，還帶來一頭野豬當幫手。',
+        en: 'Offended, the wolf challenged the dog to a fight and brought a wild boar as a helper.',
+      },
+      {
+        de: 'Sultan aber kam nur mit einer alten Katze, die auf drei Beinen humpelte.',
+        zh: '蘇丹卻只帶來一隻瘸著三條腿的老貓。',
+        en: 'But Sultan came only with an old cat that hobbled on three legs.',
+      },
+      {
+        de: 'Das Schwein versteckte sich im Gebüsch, doch seine Ohren schauten heraus.',
+        zh: '野豬躲進灌木叢，可耳朵露在外面。',
+        en: 'The boar hid in the bushes, but its ears stuck out.',
+      },
+      {
+        de: 'Die Katze hielt sie für eine Maus, biss zu, und voller Schreck flohen Wolf und Schwein für immer.',
+        zh: '貓把那耳朵當成老鼠，一口咬下去，狼和野豬嚇得永遠逃走了。',
+        en: 'The cat took them for a mouse and bit; in terror the wolf and boar fled for good.',
+      },
+    ],
+  },
+  {
+    id: 'drei-spinnerinnen',
+    title: 'Die drei Spinnerinnen',
+    titleZh: '三個紡織女',
+    emoji: '🧶',
+    level: 'A2',
+    blurb: '一個懶得紡紗的女孩，靠三個長相奇特的紡織女幫忙，最後反而再也不用紡紗了。',
+    source: grimmSource,
+    segments: [
+      {
+        de: 'Ein Mädchen war so faul, dass es um nichts in der Welt spinnen wollte.',
+        zh: '一個女孩懶得要命，說什麼也不肯紡紗。',
+        en: 'A girl was so lazy that she would not spin for anything in the world.',
+      },
+      {
+        de: 'Eines Tages schlug die Mutter es vor Zorn, gerade als die Königin vorbeikam.',
+        zh: '有一天母親一氣之下打了她，正巧王后經過。',
+        en: 'One day the mother beat her in anger, just as the queen passed by.',
+      },
+      {
+        de: 'Aus Scham log die Mutter: "Sie spinnt so gern, dass ich nicht genug Flachs kaufen kann."',
+        zh: '母親羞愧地撒謊：「她太愛紡紗了，我都買不起那麼多亞麻。」',
+        en: 'Out of shame the mother lied: "She loves spinning so much that I cannot buy enough flax."',
+      },
+      {
+        de: 'Die Königin freute sich und nahm das Mädchen mit in ihr Schloss.',
+        zh: '王后聽了很高興，把女孩帶回了宮裡。',
+        en: 'The queen was delighted and took the girl with her to the castle.',
+      },
+      {
+        de: 'Sie zeigte ihr Zimmer voller Flachs: "Spinnst du das alles, sollst du meinen Sohn heiraten."',
+        zh: '她讓女孩看滿是亞麻的房間：「你把這些都紡完，就嫁給我兒子。」',
+        en: 'She showed her rooms full of flax: "If you spin all this, you shall marry my son."',
+      },
+      {
+        de: 'Das Mädchen verzweifelte, denn es konnte gar nicht spinnen.',
+        zh: '女孩絕望了，因為她根本不會紡紗。',
+        en: 'The girl despaired, for she could not spin at all.',
+      },
+      {
+        de: 'Da traten drei hässliche Frauen herein und boten ihre Hilfe an.',
+        zh: '這時三個醜陋的女人走進來，主動提出幫忙。',
+        en: 'Then three ugly women came in and offered their help.',
+      },
+      {
+        de: 'Die eine hatte einen breiten Plattfuß, die zweite eine herabhängende Lippe, die dritte einen breiten Daumen.',
+        zh: '一個有寬扁的腳，一個有下垂的嘴唇，一個有寬大的拇指。',
+        en: 'One had a broad flat foot, the second a drooping lip, the third a broad thumb.',
+      },
+      {
+        de: '"Wir spinnen dir alles, wenn du uns zur Hochzeit einlädst und dich unser nicht schämst."',
+        zh: '「只要你請我們去參加婚禮、不嫌棄我們，我們就替你把一切都紡好。」',
+        en: '"We will spin it all for you if you invite us to the wedding and are not ashamed of us."',
+      },
+      {
+        de: 'Das Mädchen versprach es, und die drei spannen den ganzen Flachs in kurzer Zeit.',
+        zh: '女孩答應了，三人很快就把所有亞麻都紡完了。',
+        en: 'The girl promised, and the three spun all the flax in a short time.',
+      },
+      {
+        de: 'Hocherfreut richtete die Königin die Hochzeit aus.',
+        zh: '王后大喜，便為他們籌辦了婚禮。',
+        en: 'Overjoyed, the queen arranged the wedding.',
+      },
+      {
+        de: 'Bei der Feier fragte der Bräutigam die drei, woher ihre seltsamen Gestalten kämen.',
+        zh: '婚宴上，新郎問那三人怎麼長成這奇怪的模樣。',
+        en: 'At the feast the bridegroom asked the three how they came by their strange shapes.',
+      },
+      {
+        de: '"Vom vielen Spinnen", sagten sie; da verbot der Prinz seiner Braut, je wieder zu spinnen.',
+        zh: '「都是紡紗紡多了。」她們說；王子於是禁止新娘再碰紡車。',
+        en: '"From all the spinning," they said; so the prince forbade his bride ever to spin again.',
+      },
+    ],
+  },
+  {
+    id: 'eisenhans',
+    title: 'Der Eisenhans',
+    titleZh: '鐵漢斯',
+    emoji: '🧔',
+    level: 'B1',
+    blurb: '一個男孩放走了被囚的野人鐵漢斯，在他的暗中相助下，從園丁一路成為公主的丈夫。',
+    source: grimmSource,
+    segments: [
+      {
+        de: 'In einem Wald lebte ein wilder Mann, der auf dem Grund eines Teiches hauste.',
+        zh: '在一座森林裡住著一個野人，他棲身在一個池塘的底部。',
+        en: 'In a forest lived a wild man who dwelt at the bottom of a pool.',
+      },
+      {
+        de: 'Man fing ihn und sperrte ihn in einen eisernen Käfig im Schlosshof.',
+        zh: '人們把他捉住，關進城堡庭院裡的一個鐵籠子。',
+        en: 'He was caught and locked in an iron cage in the castle courtyard.',
+      },
+      {
+        de: 'Eines Tages rollte dem Königssohn seine goldene Kugel in den Käfig.',
+        zh: '有一天王子的金球滾進了籠子裡。',
+        en: 'One day the prince\'s golden ball rolled into the cage.',
+      },
+      {
+        de: 'Um sie zurückzubekommen, holte der Junge heimlich den Schlüssel und ließ den wilden Mann frei.',
+        zh: '為了把球要回來，男孩偷偷拿來鑰匙，放走了那野人。',
+        en: 'To get it back, the boy secretly fetched the key and set the wild man free.',
+      },
+      {
+        de: 'Aus Furcht vor Strafe floh er mit Eisenhans in den Wald.',
+        zh: '因為怕受罰，他便跟著鐵漢斯逃進了森林。',
+        en: 'Out of fear of punishment, he fled into the forest with Iron Hans.',
+      },
+      {
+        de: 'Eisenhans ließ ihn einen goldenen Brunnen hüten und verbot ihm, ihn zu berühren.',
+        zh: '鐵漢斯叫他看守一口金井，禁止他碰它。',
+        en: 'Iron Hans set him to guard a golden well and forbade him to touch it.',
+      },
+      {
+        de: 'Doch das Haar des Jungen fiel hinein und wurde ganz golden.',
+        zh: '可男孩的頭髮掉了進去，整個變成了金色。',
+        en: 'But the boy\'s hair fell in and turned all golden.',
+      },
+      {
+        de: 'Eisenhans schickte ihn fort, versprach aber: "Rufst du mich, so komme ich dir zu Hilfe."',
+        zh: '鐵漢斯打發他走，卻答應：「只要你呼喚我，我就會來幫你。」',
+        en: 'Iron Hans sent him away but promised: "If you call me, I will come to your aid."',
+      },
+      {
+        de: 'Der Junge wurde Gärtner an einem fremden Hof und verbarg sein goldenes Haar unter einer Mütze.',
+        zh: '男孩在一個陌生的宮廷當園丁，把金髮藏在帽子底下。',
+        en: 'The boy became a gardener at a foreign court and hid his golden hair under a cap.',
+      },
+      {
+        de: 'Als Krieg ausbrach, rief er Eisenhans, der ihm ein Pferd und ein ganzes Heer gab.',
+        zh: '戰爭爆發時，他呼喚鐵漢斯，鐵漢斯給了他一匹馬和一整支軍隊。',
+        en: 'When war broke out, he called Iron Hans, who gave him a horse and a whole army.',
+      },
+      {
+        de: 'Heimlich gewann der Junge die Schlacht und kehrte unerkannt zurück.',
+        zh: '男孩暗中贏得了戰役，無人認出地回來了。',
+        en: 'Secretly the boy won the battle and returned unrecognized.',
+      },
+      {
+        de: 'Später warf die Königstochter bei einem Fest goldene Äpfel unter die Ritter.',
+        zh: '後來在一場慶典上，公主向騎士們拋出金蘋果。',
+        en: 'Later, at a feast, the princess threw golden apples among the knights.',
+      },
+      {
+        de: 'Dreimal fing der Junge auf andersfarbigen Pferden die Äpfel und ritt jedes Mal davon.',
+        zh: '男孩三次騎著不同顏色的馬接住蘋果，每次都騎走了。',
+        en: 'Three times the boy caught the apples on differently colored horses and rode off each time.',
+      },
+      {
+        de: 'Schließlich wurde er entdeckt, und unter der Mütze kam das goldene Haar zum Vorschein.',
+        zh: '最後他被發現了，帽子底下露出了金色的頭髮。',
+        en: 'At last he was discovered, and beneath the cap the golden hair came to light.',
+      },
+      {
+        de: 'Da erschien Eisenhans: Er war ein verwunschener König gewesen, nun erlöst, und brachte reiche Schätze.',
+        zh: '這時鐵漢斯出現了：他原是一位被施了魔法的國王，如今得救，還帶來了豐厚的寶藏。',
+        en: 'Then Iron Hans appeared: he had been an enchanted king, now freed, and brought rich treasures.',
+      },
+    ],
+  },
 ];
 
 export const findStory = (id: string): Story | undefined =>
