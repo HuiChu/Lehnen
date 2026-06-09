@@ -119,3 +119,11 @@ export const CompassIcon = (p: SVGProps<SVGSVGElement>) => (
     <path d="m15.5 8.5-2 5-5 2 2-5z" />
   </svg>
 );
+
+/** 文法標記切換：以「Ag」字母外加框，象徵詞性/格標註 */
+export const GrammarIcon = (p: SVGProps<SVGSVGElement>) => (
+  <svg {...base(p)}>
+    <path d="M3 17 7 7l4 10M4.2 13.5h5.6" />
+    <path d="M20 9.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5ZM20 7v8" />
+  </svg>
+);
