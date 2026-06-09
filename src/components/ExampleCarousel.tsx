@@ -18,6 +18,15 @@ interface Props {
   onToggleFavorite: () => void;
 }
 
+/** 「AI 翻譯」小徽章：標記該欄譯文為 AI 補譯（人工譯文不顯示） */
+function AiBadge() {
+  return (
+    <span className="ml-1.5 inline-flex items-center rounded-full bg-orange-soft/60 px-1.5 py-0.5 align-middle text-[10px] font-bold leading-none text-orange-deep">
+      AI 翻譯
+    </span>
+  );
+}
+
 export default function ExampleCarousel({
   examples,
   index,
@@ -44,6 +53,9 @@ export default function ExampleCarousel({
     touchX.current = null;
   };
 
+  const aiZh = current.aiTranslated?.includes('zh');
+  const aiEn = current.aiTranslated?.includes('en');
+
   return (
     <div className="rounded-3xl bg-white p-5 shadow-card">
       {/* header */}
@@ -55,7 +67,7 @@ export default function ExampleCarousel({
           </button>
           <button
             onClick={onToggleTranslation}
-            aria-label="切換中文對照"
+            aria-label="切換對照翻譯"
             className={showTranslation ? 'text-orange' : 'hover:text-orange'}
           >
             <GlobeIcon width={22} height={22} />
@@ -88,7 +100,18 @@ export default function ExampleCarousel({
             {current.de}
           </p>
           {showTranslation && (
-            <p className="mt-3 text-sm text-ink/50">{current.zh}</p>
+            <div className="mt-3 space-y-1">
+              <p className="text-sm text-ink/50">
+                {current.zh}
+                {aiZh && <AiBadge />}
+              </p>
+              {current.en && (
+                <p className="text-sm italic text-ink/40">
+                  {current.en}
+                  {aiEn && <AiBadge />}
+                </p>
+              )}
+            </div>
           )}
         </div>
         <button
@@ -113,6 +136,27 @@ export default function ExampleCarousel({
           />
         ))}
       </div>
+
+      {/* source attribution（匯入語料才有） */}
+      {current.source && (
+        <p className="mt-3 text-center text-[11px] text-ink/30">
+          來源：
+          {current.source.url ? (
+            <a
+              href={current.source.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline hover:text-orange"
+            >
+              {current.source.name}
+            </a>
+          ) : (
+            current.source.name
+          )}
+          {current.source.license && ` · ${current.source.license}`}
+          {current.source.author && ` · ${current.source.author}`}
+        </p>
+      )}
     </div>
   );
 }
