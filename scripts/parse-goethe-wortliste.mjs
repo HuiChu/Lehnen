@@ -31,10 +31,12 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { execFileSync } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
+import { conjugate, isStrong, GLOSS } from './data/conjugate.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const CACHE = path.join(__dirname, '.cache');
 const OUT = path.join(__dirname, 'data', 'goethe-vocab.json');
+const OUT_VERBS = path.join(__dirname, 'data', 'goethe-verbs.json');
 
 /** PDF 檔名 → 級別 */
 const SOURCES = [
@@ -131,6 +133,93 @@ function parseNoun(line) {
   return { lemma, pos: 'noun', gender, plural: plural || undefined };
 }
 
+/** 不以 -en 結尾的動詞不定式 */
+const INF_SPECIAL = new Set(['sein', 'tun']);
+
+/**
+ * 小寫、以 -en/-eln/-ern 結尾但「不是動詞」的常見詞，避免誤判為動詞原形。
+ * 含介係詞、副詞/方位、數詞，以及換行續行例句常見的「變格形容詞」。
+ */
+const VERB_STOP = new Set([
+  // 介係詞 / 連接詞
+  'gegen', 'neben', 'zwischen', 'wegen', 'binnen', 'entlang', 'außen', 'innen',
+  // 副詞 / 方位 / 時間
+  'morgen', 'übermorgen', 'gestern', 'vorgestern', 'oben', 'unten', 'hinten',
+  'vorne', 'drüben', 'eben', 'heute', 'immer', 'gerne', 'gern', 'wieder',
+  'vorbei', 'daneben', 'nebenan', 'zusammen', 'draußen', 'drinnen', 'mitten',
+  // 數詞 / 其他
+  'sieben', 'eigen', 'offen',
+  // 限定詞 / 代名詞 / 不定代詞的變格形（例句續行常見，非動詞）
+  'allen', 'anderen', 'vielen', 'einigen', 'manchen', 'solchen', 'welchen',
+  'welchem', 'diesen', 'jenen', 'jeden', 'jedem', 'keinen', 'keinem',
+  'deinen', 'seinen', 'ihren', 'unseren', 'euren', 'meisten', 'denen',
+  'denselben', 'demselben',
+  // 換行續行常見的變格形容詞（非動詞）
+  'alphabetischen', 'automatischen', 'praktischen', 'politischen',
+  'wirtschaftlichen', 'persönlichen', 'möglichen', 'verschiedenen',
+  // 換行續行常見的變格形容詞（避免把例句中間的形容詞當動詞）
+  'großen', 'kleinen', 'guten', 'neuen', 'alten', 'jungen', 'schönen', 'langen',
+  'kurzen', 'hohen', 'roten', 'blauen', 'grünen', 'gelben', 'schwarzen',
+  'weißen', 'ersten', 'zweiten', 'letzten', 'ganzen', 'halben', 'nächsten',
+  'gleichen', 'beiden', 'meisten', 'besten', 'eigenen', 'richtigen', 'wichtigen',
+  'teuren', 'billigen', 'warmen', 'kalten', 'frischen', 'sauberen',
+  'dritten', 'europäischen', 'fremden', 'öffentlichen', 'schnellsten',
+  'schrecklichen', 'schriftlichen', 'ständigen', 'übergeordneten',
+  'vorderen', 'vorherigen', 'virtuellen', 'verschieden', 'unentschieden',
+  'einverstanden', 'willkommen', 'zufrieden', 'trocken', 'modern',
+  // 過去分詞 / 例句片語（無 ge- 的不可分動詞分詞，易被誤判為原形）
+  'verboten', 'beschlossen', 'bestanden', 'entschieden', 'entschlossen',
+  'unterschieden', 'überwiesen', 'verstanden', 'wiedergefunden', 'gaben',
+  // 副詞 / 連接詞 / 助詞 / 非原形動詞形
+  'bisschen', 'dagegen', 'inzwischen', 'meinetwegen', 'selten', 'sondern',
+  'möchten', 'einen', 'einzeln', 'fern',
+  // 斷詞造成的碎片（換行把字尾留在行首）
+  'chen', 'den', 'dungen', 'ern', 'gruppen', 'hörden', 'itäten', 'lichen',
+  'men', 'nen', 'schen', 'schieden', 'sprochen', 'sten', 'ten', 'tern',
+  'teuergeschichten',
+]);
+
+/**
+ * 從一行嘗試抽取動詞原形。歌德詞表的動詞條目為「小寫原形 + 例句」。
+ * 相容前導反身代詞 "sich"；以停用表濾掉常見非動詞。
+ */
+/** 可確認為真實動詞、但以 ge- 開頭（避免被過去分詞濾規則誤刪） */
+const GE_VERBS = new Set([
+  'gehen', 'geben', 'gefallen', 'gehören', 'gewinnen', 'geschehen',
+  'genießen', 'gebrauchen', 'gestehen', 'gelingen', 'geraten', 'gelten',
+  'gewöhnen', 'genehmigen', 'gestalten', 'gelangen', 'gestatten', 'gewähren',
+]);
+/** 可分前綴（供過去分詞 / zu-不定式濾規則用） */
+const SEP_RE =
+  'ab|an|auf|aus|bei|ein|los|mit|nach|um|vor|weg|zu|zurück|zusammen|her|hin|fort|teil|fest|frei';
+
+function parseVerb(line) {
+  const parts = line.trim().split(/\s+/);
+  let i = 0;
+  if (parts[i] === 'sich') i++;
+  const tok = (parts[i] ?? '').replace(/[.,;:!?–—-]+$/, '');
+  if (!/^[a-zäöü][a-zäöüß]+$/.test(tok)) return null;
+  const isInf = /(?:eln|ern|en)$/.test(tok) || INF_SPECIAL.has(tok);
+  if (!isInf || VERB_STOP.has(tok)) return null;
+  // 排除 zu-不定式（例句中的「(ab)zu…en」，如 anzurufen、abzuschließen）
+  if (new RegExp(`^(?:${SEP_RE})zu[a-zäöüß]+e?n$`).test(tok)) return null;
+  // 排除可分前綴 + ge 的過去分詞（如 angefangen、aufgeschrieben、angekommen）
+  if (new RegExp(`^(?:${SEP_RE})ge[a-zäöüß]+(?:en|t)$`).test(tok)) return null;
+  // 排除無前綴的 ge-過去分詞（gegangen、gekommen…），保留真實 ge-動詞
+  if (/^ge[a-zäöüß]+(?:en|t)$/.test(tok) && !GE_VERBS.has(tok)) return null;
+  return tok;
+}
+
+/** 蒐集一份文字中的動詞原形（去重）。 */
+function parseVerbLevel(text) {
+  const set = new Set();
+  for (const raw of text.split(/\r?\n/)) {
+    const lemma = parseVerb(raw.replace(/ /g, ' '));
+    if (lemma) set.add(lemma);
+  }
+  return set;
+}
+
 function parseLevel(text, level) {
   const byLemma = new Map();
   // 註：歌德 Wortliste 為「字母順序」清單，無主題分節，因此不推斷 theme
@@ -152,6 +241,8 @@ async function main() {
   }
   /** @type {Map<string, any>} */
   const merged = new Map(); // lemma → entry（保留最低級別）
+  /** @type {Map<string, 'A1'|'A2'|'B1'>} */
+  const mergedVerbs = new Map(); // 動詞 lemma → 最低級別
   const rank = { A1: 1, A2: 2, B1: 3 };
   let any = false;
 
@@ -170,6 +261,12 @@ async function main() {
       const prev = merged.get(e.lemma);
       if (!prev || rank[e.level] < rank[prev.level]) merged.set(e.lemma, e);
     }
+    const verbSet = parseVerbLevel(text);
+    console.log(`  擷取動詞 ${verbSet.size} 筆`);
+    for (const lemma of verbSet) {
+      const prev = mergedVerbs.get(lemma);
+      if (!prev || rank[level] < rank[prev]) mergedVerbs.set(lemma, level);
+    }
   }
 
   if (!any) {
@@ -180,7 +277,27 @@ async function main() {
   const vocab = [...merged.values()].sort((a, b) => a.lemma.localeCompare(b.lemma, 'de'));
   fs.writeFileSync(OUT, JSON.stringify(vocab, null, 2) + '\n', 'utf8');
   console.log(`✅ 已寫入 ${OUT}：${vocab.length} 個名詞（含 der/die/das）。`);
-  console.log('   下一步：node scripts/build-chunks.mjs（會用此庫自動標陰陽性）。');
+
+  // 動詞：附上關鍵變位（事實型，由 conjugate.mjs 規則/不規則表產生）與中文字義。
+  const verbs = [...mergedVerbs.entries()]
+    .map(([lemma, level]) => {
+      const { präsens, präteritum, partizip, aux } = conjugate(lemma);
+      return {
+        lemma,
+        pos: 'verb',
+        level,
+        präsens,
+        präteritum,
+        partizip,
+        aux,
+        irregular: isStrong(lemma),
+        ...(GLOSS[lemma] ? { zh: GLOSS[lemma] } : {}),
+      };
+    })
+    .sort((a, b) => a.lemma.localeCompare(b.lemma, 'de'));
+  fs.writeFileSync(OUT_VERBS, JSON.stringify(verbs, null, 2) + '\n', 'utf8');
+  console.log(`✅ 已寫入 ${OUT_VERBS}：${verbs.length} 個動詞（含變位）。`);
+  console.log('   下一步：node scripts/build-chunks.mjs（會用名詞庫自動標陰陽性）。');
 }
 
 main().catch((e) => {
