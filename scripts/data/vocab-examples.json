@@ -1,0 +1,7372 @@
+{
+  "sein": {
+    "de": "Es ist 7 Uhr.",
+    "zh": "七點了。",
+    "id": "5273019"
+  },
+  "Uhr": {
+    "de": "Es ist 7 Uhr.",
+    "zh": "七點了。",
+    "id": "5273019"
+  },
+  "haben": {
+    "de": "Er hat zu tun.",
+    "zh": "他很忙。",
+    "id": "1270437"
+  },
+  "tun": {
+    "de": "Er hat zu tun.",
+    "zh": "他很忙。",
+    "id": "1270437"
+  },
+  "Zug": {
+    "de": "Du bist am Zug.",
+    "zh": "輪到你了。",
+    "id": "594468"
+  },
+  "ansehen": {
+    "de": "Auch er sah es.",
+    "zh": "他也看見那個。",
+    "id": "2442114"
+  },
+  "Tor": {
+    "de": "Wo ist das Tor?",
+    "zh": "門在哪裡？",
+    "id": "1397546"
+  },
+  "Tür": {
+    "de": "Die Tür ist zu.",
+    "zh": "門是關著的。",
+    "id": "1398316"
+  },
+  "mögen": {
+    "de": "Ja, ich mag es.",
+    "zh": "是，我喜歡。",
+    "id": "1603095"
+  },
+  "Buch": {
+    "de": "Wo ist das Buch?",
+    "zh": "那本書在哪兒？",
+    "id": "340921"
+  },
+  "bauen": {
+    "de": "Er baut Reis an.",
+    "zh": "他種米。",
+    "id": "3153208"
+  },
+  "Reis": {
+    "de": "Er baut Reis an.",
+    "zh": "他種米。",
+    "id": "3153208"
+  },
+  "Taxi": {
+    "de": "Das Taxi ist da.",
+    "zh": "出租車到了。",
+    "id": "1022952"
+  },
+  "Arzt": {
+    "de": "Er ist ein Arzt.",
+    "zh": "他是醫生。",
+    "id": "504626"
+  },
+  "Lift": {
+    "de": "Wo ist der Lift?",
+    "zh": "電梯在哪裡？",
+    "id": "593370"
+  },
+  "gehen": {
+    "de": "Wie geht es dir?",
+    "zh": "你好嗎？",
+    "id": "358124"
+  },
+  "Auto": {
+    "de": "Er hat ein Auto.",
+    "zh": "他有輛車。",
+    "id": "365639"
+  },
+  "Post": {
+    "de": "Wo ist die Post?",
+    "zh": "郵局在哪兒？",
+    "id": "367344"
+  },
+  "laufen": {
+    "de": "Sie lief rot an.",
+    "zh": "她臉紅了。",
+    "id": "913814"
+  },
+  "Koch": {
+    "de": "Wo ist der Koch?",
+    "zh": "廚師在哪裡？",
+    "id": "646928"
+  },
+  "Bank": {
+    "de": "Wo ist die Bank?",
+    "zh": "銀行在哪裡？",
+    "id": "505581"
+  },
+  "Chef": {
+    "de": "Wo ist der Chef?",
+    "zh": "老闆在哪裡？",
+    "id": "677027"
+  },
+  "sterben": {
+    "de": "Er starb mit 54.",
+    "zh": "他54歲時去世。",
+    "id": "10101434"
+  },
+  "Ei": {
+    "de": "Ich habe ein Ei.",
+    "zh": "我有一隻蛋。",
+    "id": "1405485"
+  },
+  "lesen": {
+    "de": "Was liest du da?",
+    "zh": "你在看什麼？",
+    "id": "2872749"
+  },
+  "sitzen": {
+    "de": "Er saß am Fluss.",
+    "zh": "他坐在河邊。",
+    "id": "1045976"
+  },
+  "Fluss": {
+    "de": "Er saß am Fluss.",
+    "zh": "他坐在河邊。",
+    "id": "1045976"
+  },
+  "Haus": {
+    "de": "Wo ist Ihr Haus?",
+    "zh": "您的家在哪？",
+    "id": "1391364"
+  },
+  "ankommen": {
+    "de": "Wie kam es dazu?",
+    "zh": "怎麼會呢？",
+    "id": "1586734"
+  },
+  "Zeit": {
+    "de": "Die Zeit ist um.",
+    "zh": "時間到了。",
+    "id": "2435909"
+  },
+  "Tee": {
+    "de": "Wo ist mein Tee?",
+    "zh": "我的茶在哪裡？",
+    "id": "1997721"
+  },
+  "sagen": {
+    "de": "Tu, was er sagt!",
+    "zh": "照他說的做！",
+    "id": "2030542"
+  },
+  "Frau": {
+    "de": "Wo ist die Frau?",
+    "zh": "那個女人在哪裡？",
+    "id": "2216322"
+  },
+  "Bett": {
+    "de": "Ich bin im Bett.",
+    "zh": "我在床上。",
+    "id": "3755625"
+  },
+  "anrufen": {
+    "de": "Ich rief ihn an.",
+    "zh": "我打電話給他。",
+    "id": "2765665"
+  },
+  "ausziehen": {
+    "de": "Ich zog mich um.",
+    "zh": "我換了身衣服。",
+    "id": "6081895"
+  },
+  "Hut": {
+    "de": "Wo ist dein Hut?",
+    "zh": "你帽子在哪兒？",
+    "id": "7451659"
+  },
+  "tanzen": {
+    "de": "Tanzt du mit mir?",
+    "zh": "你願意和我跳舞嗎？",
+    "id": "459"
+  },
+  "Mann": {
+    "de": "Ich bin ein Mann.",
+    "zh": "我是個男人。",
+    "id": "139166"
+  },
+  "anfangen": {
+    "de": "Wann fängt es an?",
+    "zh": "什麼時候開始？",
+    "id": "348136"
+  },
+  "Leben": {
+    "de": "So ist das Leben.",
+    "zh": "這就是生命。",
+    "id": "581484"
+  },
+  "leben": {
+    "de": "So ist das Leben.",
+    "zh": "這就是生命。",
+    "id": "581484"
+  },
+  "Diät": {
+    "de": "Sie ist auf Diät.",
+    "zh": "她在節食。",
+    "id": "343497"
+  },
+  "DVD": {
+    "de": "Das ist eine DVD.",
+    "zh": "這是DVD。",
+    "id": "901218"
+  },
+  "Raum": {
+    "de": "Das ist Raum 839.",
+    "zh": "這是839號房間。",
+    "id": "1515006"
+  },
+  "Loch": {
+    "de": "Er grub ein Loch.",
+    "zh": "他挖了一個洞。",
+    "id": "875963"
+  },
+  "singen": {
+    "de": "Er sang ein Lied.",
+    "zh": "他唱了一首歌。",
+    "id": "642165"
+  },
+  "Lied": {
+    "de": "Er sang ein Lied.",
+    "zh": "他唱了一首歌。",
+    "id": "642165"
+  },
+  "Musik": {
+    "de": "Liebst Du Musik ?",
+    "zh": "你愛音樂嗎？",
+    "id": "1005556"
+  },
+  "Name": {
+    "de": "Wie ist Ihr Name?",
+    "zh": "您叫什麼名字？",
+    "id": "444710"
+  },
+  "sollen": {
+    "de": "Was soll ich tun?",
+    "zh": "我該怎麼辦？",
+    "id": "452739"
+  },
+  "Hund": {
+    "de": "Wo ist dein Hund?",
+    "zh": "你的狗在哪兒？",
+    "id": "582460"
+  },
+  "Test": {
+    "de": "Wie war der Test?",
+    "zh": "你的測驗怎麼樣？",
+    "id": "3700760"
+  },
+  "liegen": {
+    "de": "Es liegt bei dir.",
+    "zh": "由你決定。",
+    "id": "476083"
+  },
+  "Geld": {
+    "de": "Er hat viel Geld.",
+    "zh": "他有很多錢。",
+    "id": "737213"
+  },
+  "Ende": {
+    "de": "Das ist das Ende.",
+    "zh": "這是結束。",
+    "id": "608646"
+  },
+  "reden": {
+    "de": "Hör auf zu reden!",
+    "zh": "不要說話了。",
+    "id": "621334"
+  },
+  "Dieb": {
+    "de": "Das ist ein Dieb.",
+    "zh": "這是一個小偷。",
+    "id": "9380149"
+  },
+  "Licht": {
+    "de": "Das Licht ist an.",
+    "zh": "燈亮著。",
+    "id": "740373"
+  },
+  "Satz": {
+    "de": "Wo ist mein Satz?",
+    "zh": "我的句子在哪裡？",
+    "id": "744885"
+  },
+  "essen": {
+    "de": "Der Mann aß Brot.",
+    "zh": "這個男人吃了麵包。",
+    "id": "770096"
+  },
+  "Brot": {
+    "de": "Der Mann aß Brot.",
+    "zh": "這個男人吃了麵包。",
+    "id": "770096"
+  },
+  "Kind": {
+    "de": "Hast du ein Kind?",
+    "zh": "你有孩子嗎？",
+    "id": "880778"
+  },
+  "Kino": {
+    "de": "Ich geh ins Kino.",
+    "zh": "我去看電影。",
+    "id": "1055870"
+  },
+  "Boot": {
+    "de": "Das ist ein Boot.",
+    "zh": "這是一艘船。",
+    "id": "1126599"
+  },
+  "See": {
+    "de": "Der See ist groß.",
+    "zh": "湖面十分寬廣。",
+    "id": "1137137"
+  },
+  "legen": {
+    "de": "Legen Sie es hin!",
+    "zh": "放下。",
+    "id": "2055795"
+  },
+  "Gott": {
+    "de": "Was ist ein Gott?",
+    "zh": "天神是什麼？",
+    "id": "1284781"
+  },
+  "aufhören": {
+    "de": "Hört euch das an!",
+    "zh": "聽這個！",
+    "id": "1341171"
+  },
+  "Gas": {
+    "de": "Stell das Gas ab.",
+    "zh": "把煤氣關了！",
+    "id": "1341352"
+  },
+  "Katze": {
+    "de": "Wo ist die Katze?",
+    "zh": "貓在哪裡？",
+    "id": "1687842"
+  },
+  "Bus": {
+    "de": "Da ist unser Bus!",
+    "zh": "是我們的大巴！",
+    "id": "1751055"
+  },
+  "Sand": {
+    "de": "Er aß etwas Sand.",
+    "zh": "他吃了些沙。",
+    "id": "2051819"
+  },
+  "Stift": {
+    "de": "Wo ist ein Stift?",
+    "zh": "那兒有筆?",
+    "id": "8871122"
+  },
+  "Bad": {
+    "de": "Das Bad ist frei!",
+    "zh": "現在浴室空著喲。",
+    "id": "2469510"
+  },
+  "Hotel": {
+    "de": "Wo ist das Hotel?",
+    "zh": "旅館在哪裡？",
+    "id": "3751965"
+  },
+  "Küche": {
+    "de": "Wo ist die Küche?",
+    "zh": "廚房在哪?",
+    "id": "3091280"
+  },
+  "wissen": {
+    "de": "Ich weiß zu viel.",
+    "zh": "我知道的太多了。",
+    "id": "4461954"
+  },
+  "Opa": {
+    "de": "Ich bin Toms Opa.",
+    "zh": "我是Tom的爺爺。",
+    "id": "4757358"
+  },
+  "Wahl": {
+    "de": "Du hast die Wahl.",
+    "zh": "你有選擇。",
+    "id": "8590073"
+  },
+  "werden": {
+    "de": "Tom wird das tun.",
+    "zh": "湯姆會做。",
+    "id": "7592473"
+  },
+  "müssen": {
+    "de": "Muss Tom da sein?",
+    "zh": "湯姆必須在那裡嗎？",
+    "id": "6625661"
+  },
+  "lügen": {
+    "de": "Hör auf zu lügen!",
+    "zh": "你可別再說瞎話了！",
+    "id": "7034855"
+  },
+  "Rente": {
+    "de": "Ich bin in Rente.",
+    "zh": "我退休了。",
+    "id": "7289978"
+  },
+  "fallen": {
+    "de": "Tom fiel vom Rad.",
+    "zh": "湯姆從他的自行車上掉了下來。",
+    "id": "7335635"
+  },
+  "Rad": {
+    "de": "Tom fiel vom Rad.",
+    "zh": "湯姆從他的自行車上掉了下來。",
+    "id": "7335635"
+  },
+  "Büro": {
+    "de": "Wo ist sein Büro?",
+    "zh": "他的辦公室在哪？",
+    "id": "8098339"
+  },
+  "können": {
+    "de": "Was kann ich tun?",
+    "zh": "我可以做些什麼？",
+    "id": "8097168"
+  },
+  "Pferd": {
+    "de": "Wo ist das Pferd?",
+    "zh": "馬在哪裡？",
+    "id": "9493590"
+  },
+  "Wald": {
+    "de": "Ich war ein Wald.",
+    "zh": "我曾是一片森林。",
+    "id": "10059126"
+  },
+  "König": {
+    "de": "Er ist der König.",
+    "zh": "他是國王。",
+    "id": "10512858"
+  },
+  "wiegen": {
+    "de": "Er wiegt 80 Kilo.",
+    "zh": "他有80公斤。",
+    "id": "10633001"
+  },
+  "Arm": {
+    "de": "Tut dein Arm weh?",
+    "zh": "你的手臂疼嗎？",
+    "id": "10733586"
+  },
+  "abheben": {
+    "de": "Sie hob den Kopf.",
+    "zh": "她抬起了頭。",
+    "id": "11255932"
+  },
+  "Kopf": {
+    "de": "Sie hob den Kopf.",
+    "zh": "她抬起了頭。",
+    "id": "11255932"
+  },
+  "Ruhe": {
+    "de": "Lass mich in Ruhe!",
+    "zh": "讓我靜一靜！",
+    "id": "477"
+  },
+  "Hilfe": {
+    "de": "Ken rief um Hilfe.",
+    "zh": "Ken大聲呼救。",
+    "id": "367099"
+  },
+  "Punkt": {
+    "de": "Das ist der Punkt.",
+    "zh": "這正是問題的關鍵。",
+    "id": "497076"
+  },
+  "abnehmen": {
+    "de": "Sie nahm ihr Buch.",
+    "zh": "她拿了她的書。",
+    "id": "531695"
+  },
+  "Herz": {
+    "de": "Du hast kein Herz.",
+    "zh": "你沒有心。",
+    "id": "340902"
+  },
+  "Zahn": {
+    "de": "Mein Zahn tut weh.",
+    "zh": "我的牙很痛。",
+    "id": "1140230"
+  },
+  "Vater": {
+    "de": "Wo ist dein Vater?",
+    "zh": "你父親在哪兒？",
+    "id": "349907"
+  },
+  "Aufzug": {
+    "de": "Wo ist der Aufzug?",
+    "zh": "電梯在哪裡？",
+    "id": "363317"
+  },
+  "wollen": {
+    "de": "Ich will ein Buch.",
+    "zh": "我想要本書。",
+    "id": "360928"
+  },
+  "Lehrer": {
+    "de": "Ist er ein Lehrer?",
+    "zh": "他是老師嗎?",
+    "id": "362153"
+  },
+  "Zimmer": {
+    "de": "Wo ist Zimmer 105?",
+    "zh": "105號房間在哪裡？",
+    "id": "367449"
+  },
+  "abbiegen": {
+    "de": "Ich bog rechts ab.",
+    "zh": "我往右拐了。",
+    "id": "816509"
+  },
+  "Lüge": {
+    "de": "Das war eine Lüge.",
+    "zh": "那是個謊話。",
+    "id": "426791"
+  },
+  "Staat": {
+    "de": "Der Staat bin ich!",
+    "zh": "朕即國家！",
+    "id": "435667"
+  },
+  "Dose": {
+    "de": "Die Dose ist leer.",
+    "zh": "盒子裡面沒有東西。",
+    "id": "435725"
+  },
+  "geben": {
+    "de": "Es gibt einen Weg.",
+    "zh": "有個辦法。",
+    "id": "10558914"
+  },
+  "Weg": {
+    "de": "Es gibt einen Weg.",
+    "zh": "有個辦法。",
+    "id": "10558914"
+  },
+  "Mund": {
+    "de": "Mach den Mund auf.",
+    "zh": "把嘴張開！",
+    "id": "533756"
+  },
+  "Traum": {
+    "de": "Ist nur ein Traum.",
+    "zh": "只是一場夢而已。",
+    "id": "528193"
+  },
+  "Pass": {
+    "de": "Pass auf dich auf.",
+    "zh": "照顧好自己。",
+    "id": "531349"
+  },
+  "Radio": {
+    "de": "Mach das Radio an.",
+    "zh": "打開收音機。",
+    "id": "521405"
+  },
+  "Mittag": {
+    "de": "Er isst zu Mittag.",
+    "zh": "他在吃午飯。",
+    "id": "522789"
+  },
+  "Handy": {
+    "de": "Hast du ein Handy?",
+    "zh": "你有沒有手機？",
+    "id": "535428"
+  },
+  "Jeans": {
+    "de": "Er hatte Jeans an.",
+    "zh": "他穿了一條牛仔褲。",
+    "id": "8809082"
+  },
+  "aufpassen": {
+    "de": "Das passt mir gut.",
+    "zh": "這很適合我。",
+    "id": "1995360"
+  },
+  "lernen": {
+    "de": "Hör auf zu lernen.",
+    "zh": "別學了。",
+    "id": "1408167"
+  },
+  "kommen": {
+    "de": "Wo kommen Sie her?",
+    "zh": "您是哪裡人？",
+    "id": "787422"
+  },
+  "Suppe": {
+    "de": "Rühr die Suppe um.",
+    "zh": "攪一下湯。",
+    "id": "1413610"
+  },
+  "Atem": {
+    "de": "Er war außer Atem.",
+    "zh": "他喘不過氣來了。",
+    "id": "1788289"
+  },
+  "Urlaub": {
+    "de": "Ich bin im Urlaub.",
+    "zh": "我在度假。",
+    "id": "5660631"
+  },
+  "Gabel": {
+    "de": "Die Gabel ist weg.",
+    "zh": "叉子不見了。",
+    "id": "10271730"
+  },
+  "Schule": {
+    "de": "Wo ist die Schule?",
+    "zh": "學校在哪兒？",
+    "id": "1054509"
+  },
+  "Angst": {
+    "de": "Die Angst geht um.",
+    "zh": "恐懼瀰漫。",
+    "id": "1236291"
+  },
+  "anstellen": {
+    "de": "Stellt das Gas ab.",
+    "zh": "把煤氣關了！",
+    "id": "1341353"
+  },
+  "Bitte": {
+    "de": "Bitte faxe es mir.",
+    "zh": "請把它傳真給我。",
+    "id": "1397847"
+  },
+  "abfahren": {
+    "de": "Der Zug fährt ein!",
+    "zh": "火車來了！",
+    "id": "8411295"
+  },
+  "finden": {
+    "de": "Wie finden wir es?",
+    "zh": "我們怎樣才能找到它？",
+    "id": "1447662"
+  },
+  "Rose": {
+    "de": "Die Rose ist rosa.",
+    "zh": "玫瑰是粉紅色的。",
+    "id": "1550386"
+  },
+  "Sohn": {
+    "de": "Das ist mein Sohn.",
+    "zh": "那是我兒子。",
+    "id": "1785589"
+  },
+  "lieben": {
+    "de": "Er liebt sie noch.",
+    "zh": "他仍然愛著她。",
+    "id": "1857868"
+  },
+  "gehören": {
+    "de": "Hast du es gehört?",
+    "zh": "你有聽到嗎",
+    "id": "1997738"
+  },
+  "Grund": {
+    "de": "Was ist der Grund?",
+    "zh": "原因是什麼？",
+    "id": "2112333"
+  },
+  "Fisch": {
+    "de": "Das ist ein Fisch.",
+    "zh": "這是一條魚。",
+    "id": "2225332"
+  },
+  "Meer": {
+    "de": "Das Meer ist blau.",
+    "zh": "大海是藍色的。",
+    "id": "2397384"
+  },
+  "Käse": {
+    "de": "Der Käse ist gelb.",
+    "zh": "奶酪是黃色的。",
+    "id": "2771794"
+  },
+  "Mensch": {
+    "de": "Er ist ein Mensch.",
+    "zh": "他是人。",
+    "id": "3034040"
+  },
+  "Spiel": {
+    "de": "Das Spiel ist aus.",
+    "zh": "遊戲結束。",
+    "id": "8647398"
+  },
+  "Salz": {
+    "de": "Das ist kein Salz.",
+    "zh": "這不是鹽。",
+    "id": "3655168"
+  },
+  "aufhalten": {
+    "de": "Hält der Bus hier?",
+    "zh": "公交車在這兒停嗎？",
+    "id": "3803209"
+  },
+  "Bier": {
+    "de": "Gib mir mein Bier.",
+    "zh": "把我的啤酒給我。",
+    "id": "3952448"
+  },
+  "heißen": {
+    "de": "Wie heißt der Typ?",
+    "zh": "那個人的名字是什麼？",
+    "id": "4142551"
+  },
+  "lachen": {
+    "de": "Es war zum Lachen.",
+    "zh": "滑稽可笑。",
+    "id": "5362407"
+  },
+  "Essen": {
+    "de": "Wie war das Essen?",
+    "zh": "食物怎麼樣？",
+    "id": "9927523"
+  },
+  "Pfanne": {
+    "de": "Wo ist die Pfanne?",
+    "zh": "炒鍋在哪裡？",
+    "id": "6814551"
+  },
+  "Gras": {
+    "de": "Tom sitzt im Gras.",
+    "zh": "湯姆坐在草地上。",
+    "id": "7592288"
+  },
+  "Sofa": {
+    "de": "Ich habe ein Sofa.",
+    "zh": "我有一個沙發。",
+    "id": "8289638"
+  },
+  "Kauf": {
+    "de": "Kauf Tom ein Bier.",
+    "zh": "給湯姆買一瓶啤酒。",
+    "id": "8633205"
+  },
+  "helfen": {
+    "de": "Er half ihr nicht.",
+    "zh": "他沒幫她。",
+    "id": "8646965"
+  },
+  "hören": {
+    "de": "Ich kann es hören.",
+    "zh": "我聽得到。",
+    "id": "8728508"
+  },
+  "Ecke": {
+    "de": "In die Ecke damit!",
+    "zh": "放角落裡。",
+    "id": "8730945"
+  },
+  "Gefahr": {
+    "de": "Du bist in Gefahr.",
+    "zh": "你處於危險之中。",
+    "id": "9988997"
+  },
+  "Ski": {
+    "de": "Fährst du gut Ski?",
+    "zh": "你善於滑雪嗎？",
+    "id": "10272032"
+  },
+  "Müll": {
+    "de": "Hau’s in den Müll!",
+    "zh": "給丟到垃圾桶裡去。",
+    "id": "10571950"
+  },
+  "wohnen": {
+    "de": "Ja, er wohnt hier.",
+    "zh": "對, 他住在這裡。",
+    "id": "10966984"
+  },
+  "Mut": {
+    "de": "Die hat Mut, oder?",
+    "zh": "她很勇敢，不是嗎？",
+    "id": "11233287"
+  },
+  "Freund": {
+    "de": "Ist er ein Freund?",
+    "zh": "他是一個朋友嗎？",
+    "id": "11518475"
+  },
+  "Foto": {
+    "de": "Es gibt kein Foto.",
+    "zh": "沒照片。",
+    "id": "11838450"
+  },
+  "Luft": {
+    "de": "Die Luft war warm.",
+    "zh": "空氣暖暖的。",
+    "id": "12133487"
+  },
+  "enden": {
+    "de": "Das wird nie enden.",
+    "zh": "這個永遠完不了了。",
+    "id": "88"
+  },
+  "Problem": {
+    "de": "Wo ist das Problem?",
+    "zh": "哪裡有問題?",
+    "id": "233"
+  },
+  "kosten": {
+    "de": "Wie viel kostet es?",
+    "zh": "它多貴?",
+    "id": "1246"
+  },
+  "Wetter": {
+    "de": "Wie ist das Wetter?",
+    "zh": "天氣怎樣？",
+    "id": "6068"
+  },
+  "Bahnhof": {
+    "de": "Wo ist der Bahnhof?",
+    "zh": "火車站在哪裡?",
+    "id": "544538"
+  },
+  "Bauch": {
+    "de": "Mein Bauch tut weh.",
+    "zh": "我胃痛。",
+    "id": "544527"
+  },
+  "Kuchen": {
+    "de": "Es gab zwei Kuchen.",
+    "zh": "那有兩塊蛋糕。",
+    "id": "452566"
+  },
+  "Tag": {
+    "de": "Ich bade jeden Tag.",
+    "zh": "我每天都洗個澡。",
+    "id": "343464"
+  },
+  "Bruder": {
+    "de": "Er ist mein Bruder.",
+    "zh": "他是我兄弟。",
+    "id": "341507"
+  },
+  "Zeitung": {
+    "de": "Wo ist die Zeitung?",
+    "zh": "報紙在哪兒？",
+    "id": "445090"
+  },
+  "Plan": {
+    "de": "Hast du einen Plan?",
+    "zh": "你有計劃嗎？",
+    "id": "904938"
+  },
+  "nennen": {
+    "de": "Sie nennen ihn Jim.",
+    "zh": "他們叫他吉姆。",
+    "id": "473798"
+  },
+  "Welt": {
+    "de": "Die Welt ist klein.",
+    "zh": "世界很小。",
+    "id": "358303"
+  },
+  "kochen": {
+    "de": "Er kann gut kochen.",
+    "zh": "他飯做得很好。",
+    "id": "361614"
+  },
+  "Haar": {
+    "de": "Sein Haar ist lang.",
+    "zh": "他的頭髮很長。",
+    "id": "1420849"
+  },
+  "spielen": {
+    "de": "Er spielt sehr gut.",
+    "zh": "他玩得很好。",
+    "id": "375959"
+  },
+  "Friede": {
+    "de": "Friede sei mit dir!",
+    "zh": "願和平與你同在！",
+    "id": "383116"
+  },
+  "Reise": {
+    "de": "Wie war Ihre Reise?",
+    "zh": "你的旅行怎麼樣?",
+    "id": "3702188"
+  },
+  "Hose": {
+    "de": "Das ist meine Hose.",
+    "zh": "那是我的褲子。",
+    "id": "394349"
+  },
+  "Bahn": {
+    "de": "Nimmst du die Bahn?",
+    "zh": "你坐火車去嗎？",
+    "id": "10466795"
+  },
+  "Chance": {
+    "de": "Die Chance ist weg.",
+    "zh": "機會錯過了。",
+    "id": "1832578"
+  },
+  "Platz": {
+    "de": "Der Platz ist frei.",
+    "zh": "這個座位沒人。",
+    "id": "426767"
+  },
+  "Löffel": {
+    "de": "Gib mir den Löffel.",
+    "zh": "把勺子給我。",
+    "id": "749709"
+  },
+  "Kiste": {
+    "de": "Die Kiste ist leer.",
+    "zh": "盒子裡面沒有東西。",
+    "id": "435728"
+  },
+  "Rock": {
+    "de": "Das ist Brian Rock.",
+    "zh": "他是布賴恩·羅克。",
+    "id": "479986"
+  },
+  "Zufall": {
+    "de": "Was für ein Zufall!",
+    "zh": "真是個巧合！",
+    "id": "478115"
+  },
+  "abwaschen": {
+    "de": "Er wäscht das Auto.",
+    "zh": "他洗車。",
+    "id": "487153"
+  },
+  "baden": {
+    "de": "Sie badet das Baby.",
+    "zh": "她在給那個嬰兒洗澡。",
+    "id": "495533"
+  },
+  "Baby": {
+    "de": "Sie badet das Baby.",
+    "zh": "她在給那個嬰兒洗澡。",
+    "id": "495533"
+  },
+  "Wind": {
+    "de": "Der Wind ließ nach.",
+    "zh": "風停了。",
+    "id": "940555"
+  },
+  "lassen": {
+    "de": "Der Wind ließ nach.",
+    "zh": "風停了。",
+    "id": "940555"
+  },
+  "sehen": {
+    "de": "Kann ich das sehen?",
+    "zh": "我能看看那個嗎？",
+    "id": "555924"
+  },
+  "Sonne": {
+    "de": "Die Sonne geht auf.",
+    "zh": "太陽昇起來了。",
+    "id": "604099"
+  },
+  "parken": {
+    "de": "Wo kann ich parken?",
+    "zh": "我能把車停哪兒呢？",
+    "id": "628044"
+  },
+  "passieren": {
+    "de": "Wo ist es passiert?",
+    "zh": "在哪裡發生？",
+    "id": "629436"
+  },
+  "Wort": {
+    "de": "Er hält immer Wort.",
+    "zh": "他總是遵守諾言。",
+    "id": "656911"
+  },
+  "abschließen": {
+    "de": "Er schloss die Tür.",
+    "zh": "他關了門。",
+    "id": "699318"
+  },
+  "anstrengen": {
+    "de": "Er strengt sich an.",
+    "zh": "他努力地嘗試。",
+    "id": "784135"
+  },
+  "abmachen": {
+    "de": "Sie machte mir Tee.",
+    "zh": "她給我沏了茶。",
+    "id": "793154"
+  },
+  "Ausgang": {
+    "de": "Wo ist der Ausgang?",
+    "zh": "出口在哪兒呢？",
+    "id": "882362"
+  },
+  "Teller": {
+    "de": "Wo sind die Teller?",
+    "zh": "盤子在哪裡？",
+    "id": "902076"
+  },
+  "abstimmen": {
+    "de": "Ich stimmte ihr zu.",
+    "zh": "我同意她。",
+    "id": "1314852"
+  },
+  "austragen": {
+    "de": "Sie trägt nie grün.",
+    "zh": "她從來不穿綠色的衣服。",
+    "id": "1045044"
+  },
+  "Frage": {
+    "de": "Hast du eine Frage?",
+    "zh": "你有問題嗎？",
+    "id": "1045071"
+  },
+  "Markt": {
+    "de": "Der Markt ist groß.",
+    "zh": "市場很大。",
+    "id": "1126577"
+  },
+  "Blume": {
+    "de": "Ist das eine Blume?",
+    "zh": "這是花嗎？",
+    "id": "1187308"
+  },
+  "Tisch": {
+    "de": "Ich sitze am Tisch.",
+    "zh": "我坐在桌旁。",
+    "id": "1192563"
+  },
+  "Karte": {
+    "de": "Hast du eine Karte?",
+    "zh": "你有地圖嗎？",
+    "id": "8882467"
+  },
+  "verlieren": {
+    "de": "Er verlor ein Buch.",
+    "zh": "他弄丟了一本書。",
+    "id": "1311069"
+  },
+  "Hobby": {
+    "de": "Was ist dein Hobby?",
+    "zh": "你的愛好是什麼？",
+    "id": "1308840"
+  },
+  "Sommer": {
+    "de": "Wie war Ihr Sommer?",
+    "zh": "夏天過得怎麼樣？",
+    "id": "1311054"
+  },
+  "Nase": {
+    "de": "Mir läuft die Nase.",
+    "zh": "我流鼻涕。",
+    "id": "1315398"
+  },
+  "Ticket": {
+    "de": "Hast du ein Ticket?",
+    "zh": "你有票嗎？",
+    "id": "1372211"
+  },
+  "Rathaus": {
+    "de": "Wo ist das Rathaus?",
+    "zh": "市政府在哪裡?",
+    "id": "1503724"
+  },
+  "Ampel": {
+    "de": "Die Ampel ist grün.",
+    "zh": "現在是綠燈。",
+    "id": "1561663"
+  },
+  "Nacht": {
+    "de": "Die Nacht war kalt.",
+    "zh": "夜晚很冷。",
+    "id": "7285696"
+  },
+  "Fehler": {
+    "de": "Das ist ein Fehler.",
+    "zh": "這個不對。",
+    "id": "1791679"
+  },
+  "Kuss": {
+    "de": "Gib mir einen Kuss!",
+    "zh": "吻我。",
+    "id": "1846387"
+  },
+  "Ordnung": {
+    "de": "Das ist in Ordnung.",
+    "zh": "可以。",
+    "id": "1909393"
+  },
+  "bleiben": {
+    "de": "Wo bleibt mein Tee?",
+    "zh": "我的茶在哪裡？",
+    "id": "1997722"
+  },
+  "Blog": {
+    "de": "Hast du einen Blog?",
+    "zh": "你有博客嗎？",
+    "id": "8500123"
+  },
+  "Nummer": {
+    "de": "Gib mir die Nummer.",
+    "zh": "把那個號碼給我。",
+    "id": "5408631"
+  },
+  "Wunder": {
+    "de": "Das ist ein Wunder.",
+    "zh": "這是一個奇蹟。",
+    "id": "2510674"
+  },
+  "Kerze": {
+    "de": "Steck die Kerze an!",
+    "zh": "把蠟燭點燃。",
+    "id": "2357759"
+  },
+  "Preis": {
+    "de": "Der Preis ist hoch.",
+    "zh": "價格昂貴。",
+    "id": "8337412"
+  },
+  "fangen": {
+    "de": "Fangen Sie hier an.",
+    "zh": "從這裡開始。",
+    "id": "3236129"
+  },
+  "Blatt": {
+    "de": "Es fällt ein Blatt.",
+    "zh": "一片葉子正在掉下來。",
+    "id": "3323339"
+  },
+  "warten": {
+    "de": "Wir warten auf Tom.",
+    "zh": "我們在等湯姆。",
+    "id": "3622589"
+  },
+  "kennen": {
+    "de": "Ich kannte Tom gut.",
+    "zh": "我很瞭解湯姆。",
+    "id": "3879286"
+  },
+  "Birne": {
+    "de": "Das ist eine Birne.",
+    "zh": "這是個梨。",
+    "id": "5318879"
+  },
+  "Wagen": {
+    "de": "Das ist Toms Wagen.",
+    "zh": "這是湯姆的車。",
+    "id": "5861712"
+  },
+  "bringen": {
+    "de": "Bringen Sie sie um!",
+    "zh": "殺了他們",
+    "id": "8861571"
+  },
+  "Theater": {
+    "de": "Ich war im Theater.",
+    "zh": "我在劇場。",
+    "id": "7328390"
+  },
+  "meinen": {
+    "de": "Ruf meinen Mann an.",
+    "zh": "給我老公打電話。",
+    "id": "7289995"
+  },
+  "Golf": {
+    "de": "Er spielt gut Golf.",
+    "zh": "他高爾夫球打得好。",
+    "id": "7324367"
+  },
+  "treffen": {
+    "de": "Tom traf auf Maria.",
+    "zh": "湯姆遇到了瑪麗。",
+    "id": "7369730"
+  },
+  "Fieber": {
+    "de": "Er hat kein Fieber.",
+    "zh": "他沒發燒。",
+    "id": "8863369"
+  },
+  "Telefon": {
+    "de": "Ich bin am Telefon.",
+    "zh": "我在打電話。",
+    "id": "7728835"
+  },
+  "Messer": {
+    "de": "Hast du ein Messer?",
+    "zh": "你有刀嗎？",
+    "id": "7769567"
+  },
+  "Leute": {
+    "de": "So sagen die Leute.",
+    "zh": "人們是這樣說的。",
+    "id": "7774104"
+  },
+  "Baum": {
+    "de": "Er fällte den Baum.",
+    "zh": "他砍倒樹。",
+    "id": "8222008"
+  },
+  "Kaffee": {
+    "de": "Der Kaffee ist süß.",
+    "zh": "這杯咖啡是甜的。",
+    "id": "8320534"
+  },
+  "Honig": {
+    "de": "Isst du gern Honig?",
+    "zh": "你喜歡吃蜂蜜嗎？",
+    "id": "8637003"
+  },
+  "Seife": {
+    "de": "Die Seife ist alle.",
+    "zh": "肥皂沒了。",
+    "id": "8835805"
+  },
+  "einkaufen": {
+    "de": "Er kauft mein Boot.",
+    "zh": "他買我的船。",
+    "id": "9412874"
+  },
+  "Ente": {
+    "de": "Wie macht die Ente?",
+    "zh": "鴨子是怎麼叫的？",
+    "id": "9456606"
+  },
+  "Junge": {
+    "de": "Der Junge war satt.",
+    "zh": "男孩吃飽了。",
+    "id": "9470349"
+  },
+  "Wein": {
+    "de": "Er mag keinen Wein.",
+    "zh": "他不喜歡酒。",
+    "id": "10061356"
+  },
+  "Eis": {
+    "de": "Wir haben kein Eis.",
+    "zh": "我們沒有冰激凌。",
+    "id": "10062173"
+  },
+  "Vogel": {
+    "de": "Hier ist ein Vogel.",
+    "zh": "這兒有隻鳥。",
+    "id": "10565066"
+  },
+  "nutzen": {
+    "de": "Tom nutzt dich aus.",
+    "zh": "湯姆在利用你。",
+    "id": "10784938"
+  },
+  "Führung": {
+    "de": "Du bist in Führung.",
+    "zh": "你領先。",
+    "id": "11931571"
+  },
+  "Glück": {
+    "de": "Du hast echt Glück!",
+    "zh": "你真走運！",
+    "id": "13047273"
+  },
+  "duschen": {
+    "de": "Wo sind die Duschen?",
+    "zh": "浴室在哪裡？",
+    "id": "468"
+  },
+  "öffnen": {
+    "de": "Öffnen Sie den Mund!",
+    "zh": "把嘴張開！",
+    "id": "469"
+  },
+  "Toilette": {
+    "de": "Wo ist die Toilette?",
+    "zh": "洗手間在哪裡？",
+    "id": "928"
+  },
+  "ansprechen": {
+    "de": "Er sprach sehr laut.",
+    "zh": "他說得很大聲。",
+    "id": "1924371"
+  },
+  "prüfen": {
+    "de": "Prüfen Sie das nach!",
+    "zh": "檢查一下！",
+    "id": "3856947"
+  },
+  "machen": {
+    "de": "Was hast du gemacht?",
+    "zh": "你做了什麼？",
+    "id": "425603"
+  },
+  "Herr": {
+    "de": "Das ist Herr Yasuda.",
+    "zh": "這位是安田先生。",
+    "id": "910843"
+  },
+  "Pause": {
+    "de": "Mach mal eine Pause.",
+    "zh": "現在休息一下。",
+    "id": "8385340"
+  },
+  "Zuhause": {
+    "de": "Wo ist sein Zuhause?",
+    "zh": "他的家在哪兒?",
+    "id": "481941"
+  },
+  "beginnen": {
+    "de": "Es begann zu regnen.",
+    "zh": "雨開始往下掉。",
+    "id": "400107"
+  },
+  "regnen": {
+    "de": "Es begann zu regnen.",
+    "zh": "雨開始往下掉。",
+    "id": "400107"
+  },
+  "Hemd": {
+    "de": "Wessen Hemd ist das?",
+    "zh": "這是誰的襯衫。",
+    "id": "342126"
+  },
+  "Gold": {
+    "de": "Ist das reines Gold?",
+    "zh": "那是純金嗎？",
+    "id": "344496"
+  },
+  "Frühling": {
+    "de": "Der Frühling ist da.",
+    "zh": "春天來了。",
+    "id": "439593"
+  },
+  "Schirm": {
+    "de": "Ist das dein Schirm?",
+    "zh": "這把雨傘是你的嗎？",
+    "id": "353025"
+  },
+  "dauern": {
+    "de": "Wie lange dauert es?",
+    "zh": "要多長時間？",
+    "id": "353328"
+  },
+  "kaufen": {
+    "de": "Was hast du gekauft?",
+    "zh": "你買了什麼？",
+    "id": "356158"
+  },
+  "Wahrheit": {
+    "de": "Es ist die Wahrheit.",
+    "zh": "這是事實。",
+    "id": "356173"
+  },
+  "Recht": {
+    "de": "Hab ich nicht Recht?",
+    "zh": "我錯了嗎？",
+    "id": "357734"
+  },
+  "Student": {
+    "de": "Ich bin ein Student.",
+    "zh": "我是個學生。",
+    "id": "360678"
+  },
+  "glauben": {
+    "de": "Wir glauben an Gott.",
+    "zh": "我們相信上帝。",
+    "id": "361129"
+  },
+  "Natur": {
+    "de": "Ich liebe die Natur.",
+    "zh": "我愛大自然。",
+    "id": "384198"
+  },
+  "stimmen": {
+    "de": "Alle stimmen dir zu.",
+    "zh": "大家都同意你。",
+    "id": "394203"
+  },
+  "Konto": {
+    "de": "Dein Konto ist leer.",
+    "zh": "你的賬戶裡沒錢了。",
+    "id": "10161740"
+  },
+  "Gemüse": {
+    "de": "Sie isst nur Gemüse.",
+    "zh": "她只吃蔬菜。",
+    "id": "402003"
+  },
+  "reiten": {
+    "de": "Er reitet gerne aus.",
+    "zh": "他喜歡騎馬出行。",
+    "id": "403641"
+  },
+  "Kuli": {
+    "de": "Ich habe einen Kuli.",
+    "zh": "我有一支圓珠筆。",
+    "id": "408528"
+  },
+  "fehlen": {
+    "de": "Es fehlt eine Seite.",
+    "zh": "有一頁缺了。",
+    "id": "1173425"
+  },
+  "Seite": {
+    "de": "Es fehlt eine Seite.",
+    "zh": "有一頁缺了。",
+    "id": "1173425"
+  },
+  "Tod": {
+    "de": "Er fürchtet den Tod.",
+    "zh": "他害怕死亡。",
+    "id": "1579315"
+  },
+  "Haut": {
+    "de": "Ihre Haut ist glatt.",
+    "zh": "她的皮膚光滑。",
+    "id": "441710"
+  },
+  "aufstehen": {
+    "de": "Das Haus steht leer.",
+    "zh": "這房子是空的。",
+    "id": "484251"
+  },
+  "dürfen": {
+    "de": "Darf ich dir helfen?",
+    "zh": "我能幫你嗎？",
+    "id": "1737074"
+  },
+  "Land": {
+    "de": "Ich liebe mein Land.",
+    "zh": "我愛我的祖國。",
+    "id": "4805136"
+  },
+  "rennen": {
+    "de": "Der Dieb rannte weg.",
+    "zh": "小偷跑了。",
+    "id": "617060"
+  },
+  "Fenster": {
+    "de": "Mach das Fenster zu!",
+    "zh": "關上窗戶！",
+    "id": "716206"
+  },
+  "verlassen": {
+    "de": "Er verließ den Raum.",
+    "zh": "他走出了房間。",
+    "id": "1085721"
+  },
+  "befinden": {
+    "de": "Wo befinden wir uns?",
+    "zh": "我們在哪兒呀？",
+    "id": "767164"
+  },
+  "Schnee": {
+    "de": "Schnee mag ich sehr.",
+    "zh": "我很喜歡雪。",
+    "id": "778445"
+  },
+  "Mädchen": {
+    "de": "Wo sind die Mädchen?",
+    "zh": "女孩兒們在哪兒呢？",
+    "id": "818646"
+  },
+  "Versuch": {
+    "de": "Versuch es noch mal!",
+    "zh": "再試一次。",
+    "id": "1185845"
+  },
+  "Himmel": {
+    "de": "Der Himmel ist klar.",
+    "zh": "天空很晴朗。",
+    "id": "1341343"
+  },
+  "fahren": {
+    "de": "Er kann Auto fahren.",
+    "zh": "他會開車。",
+    "id": "1204038"
+  },
+  "besetzen": {
+    "de": "Das Klo ist besetzt.",
+    "zh": "廁所裡有人。",
+    "id": "11665584"
+  },
+  "Rücken": {
+    "de": "Mein Rücken tut weh.",
+    "zh": "我背痛。",
+    "id": "905634"
+  },
+  "Kirche": {
+    "de": "Das ist eine Kirche.",
+    "zh": "那是座教堂。",
+    "id": "934070"
+  },
+  "Rechner": {
+    "de": "Der Rechner ist neu.",
+    "zh": "電腦是新的。",
+    "id": "2488636"
+  },
+  "Ursache": {
+    "de": "Was ist die Ursache?",
+    "zh": "是什麼原因？",
+    "id": "1275379"
+  },
+  "Milch": {
+    "de": "Die Milch ist sauer.",
+    "zh": "牛奶酸了。",
+    "id": "1389769"
+  },
+  "Arbeit": {
+    "de": "Ich muss zur Arbeit.",
+    "zh": "我得去工作了。",
+    "id": "3704066"
+  },
+  "Wasser": {
+    "de": "Es gibt kein Wasser.",
+    "zh": "沒有水。",
+    "id": "7281039"
+  },
+  "Schüler": {
+    "de": "Du bist ein Schüler.",
+    "zh": "你是學生。",
+    "id": "10055810"
+  },
+  "Flug": {
+    "de": "Wann geht dein Flug?",
+    "zh": "你的飛機什麼時候起飛呢？",
+    "id": "1932847"
+  },
+  "Fahrrad": {
+    "de": "Hast du ein Fahrrad?",
+    "zh": "你有自行車嗎？",
+    "id": "1970038"
+  },
+  "Farbe": {
+    "de": "Ich mag diese Farbe.",
+    "zh": "我喜歡這個顏色。",
+    "id": "1985459"
+  },
+  "fragen": {
+    "de": "Hast du Tom gefragt?",
+    "zh": "你問過湯姆了？",
+    "id": "1997737"
+  },
+  "schneien": {
+    "de": "In Paris schneit es.",
+    "zh": "巴黎在下雪。",
+    "id": "2155591"
+  },
+  "gewinnen": {
+    "de": "Du bist am Gewinnen.",
+    "zh": "你領先。",
+    "id": "2203924"
+  },
+  "einsetzen": {
+    "de": "Tom setzte sich hin.",
+    "zh": "湯姆坐下了。",
+    "id": "2325648"
+  },
+  "Ehemann": {
+    "de": "Wo ist mein Ehemann?",
+    "zh": "我的丈夫在哪裡？",
+    "id": "2349644"
+  },
+  "denken": {
+    "de": "Warum denkt ihr das?",
+    "zh": "你們為什麼有那樣的想法？",
+    "id": "2448709"
+  },
+  "Mutter": {
+    "de": "Wo ist deine Mutter?",
+    "zh": "你媽媽呢？",
+    "id": "3180520"
+  },
+  "Glas": {
+    "de": "Wessen Glas ist das?",
+    "zh": "這是誰的杯子？",
+    "id": "3418387"
+  },
+  "gefallen": {
+    "de": "Gefällt es dir hier?",
+    "zh": "你喜歡這個地方嗎？",
+    "id": "4045905"
+  },
+  "schießen": {
+    "de": "Hör auf zu schießen.",
+    "zh": "停止射擊。",
+    "id": "4941600"
+  },
+  "Antwort": {
+    "de": "Das ist die Antwort.",
+    "zh": "那就是答案。",
+    "id": "5324533"
+  },
+  "schmecken": {
+    "de": "Das schmeckt so gut!",
+    "zh": "真好吃。",
+    "id": "6783755"
+  },
+  "Garage": {
+    "de": "Hast du eine Garage?",
+    "zh": "你有車庫嗎？",
+    "id": "9927525"
+  },
+  "folgen": {
+    "de": "Tom ist mir gefolgt.",
+    "zh": "湯姆跟著我。",
+    "id": "6615265"
+  },
+  "suchen": {
+    "de": "Wir suchen nach ihm.",
+    "zh": "我們在找他。",
+    "id": "7775093"
+  },
+  "Schwein": {
+    "de": "Bist du ein Schwein?",
+    "zh": "你是豬嗎？",
+    "id": "8855379"
+  },
+  "Tasche": {
+    "de": "Ist das Toms Tasche?",
+    "zh": "這是湯姆的包嗎？",
+    "id": "8365649"
+  },
+  "setzen": {
+    "de": "Setzen wir uns doch!",
+    "zh": "我們去坐下吧。",
+    "id": "8496190"
+  },
+  "weinen": {
+    "de": "Tom wird nie weinen.",
+    "zh": "湯姆永遠不會哭。",
+    "id": "8739672"
+  },
+  "Klavier": {
+    "de": "Tom hat ein Klavier.",
+    "zh": "湯姆擁有一臺鋼琴。",
+    "id": "8806687"
+  },
+  "Apfel": {
+    "de": "Gib mir einen Apfel.",
+    "zh": "給我一個蘋果。",
+    "id": "8825788"
+  },
+  "Flugzeug": {
+    "de": "Das Flugzeug hob ab.",
+    "zh": "飛機起飛了。",
+    "id": "9182496"
+  },
+  "nehmen": {
+    "de": "Nehmen wir ein Taxi?",
+    "zh": "我們坐出租車嗎？",
+    "id": "9182538"
+  },
+  "Polizei": {
+    "de": "Das ist die Polizei!",
+    "zh": "是警察！",
+    "id": "9422382"
+  },
+  "kriegen": {
+    "de": "Kriegen wir das hin?",
+    "zh": "我們做得到嗎？",
+    "id": "9545572"
+  },
+  "Fall": {
+    "de": "Auf gar keinen Fall!",
+    "zh": "絕對不行！",
+    "id": "10065763"
+  },
+  "Trainer": {
+    "de": "Ich bin der Trainer.",
+    "zh": "我是教練。",
+    "id": "10371631"
+  },
+  "Schlaf": {
+    "de": "Schlaf auf dem Sofa!",
+    "zh": "睡在沙發上。",
+    "id": "10488900"
+  },
+  "Münze": {
+    "de": "Hier ist Ihre Münze.",
+    "zh": "這是您的硬幣。",
+    "id": "10526898"
+  },
+  "Termin": {
+    "de": "Hat er einen Termin?",
+    "zh": "他有預約嗎？",
+    "id": "10558086"
+  },
+  "Bericht": {
+    "de": "Gib mir den Bericht!",
+    "zh": "把報告給我。",
+    "id": "10575850"
+  },
+  "Lösung": {
+    "de": "Es gibt keine Lösung.",
+    "zh": "沒辦法。",
+    "id": "1205"
+  },
+  "verraten": {
+    "de": "Er hat mich verraten.",
+    "zh": "他出賣了我。",
+    "id": "587066"
+  },
+  "begrüßen": {
+    "de": "Er begrüßte die Dame.",
+    "zh": "他向那位女士問好。",
+    "id": "1524663"
+  },
+  "Dame": {
+    "de": "Er begrüßte die Dame.",
+    "zh": "他向那位女士問好。",
+    "id": "1524663"
+  },
+  "Regen": {
+    "de": "Gibt es morgen Regen?",
+    "zh": "明天會下雨嗎？",
+    "id": "353749"
+  },
+  "erkälten": {
+    "de": "Er hat sich erkältet.",
+    "zh": "他著涼了。",
+    "id": "1514451"
+  },
+  "Tasse": {
+    "de": "Eine Tasse Tee bitte.",
+    "zh": "請給我一杯茶。",
+    "id": "425570"
+  },
+  "Tennis": {
+    "de": "Er spielt gut Tennis.",
+    "zh": "他打網球打得很好。",
+    "id": "380147"
+  },
+  "Stimme": {
+    "de": "Sie erhob die Stimme.",
+    "zh": "她提高了她的嗓音。",
+    "id": "587359"
+  },
+  "Realität": {
+    "de": "Das ist die Realität.",
+    "zh": "那是現實。",
+    "id": "5324485"
+  },
+  "freuen": {
+    "de": "Er freut sich darauf.",
+    "zh": "他對此很期待。",
+    "id": "592766"
+  },
+  "Ehepaar": {
+    "de": "Wir sind ein Ehepaar.",
+    "zh": "我們是夫婦。",
+    "id": "1910543"
+  },
+  "Fleisch": {
+    "de": "Ich esse nie Fleisch.",
+    "zh": "我從不吃肉。",
+    "id": "1448513"
+  },
+  "Computer": {
+    "de": "Der Computer ist neu.",
+    "zh": "電腦是新的。",
+    "id": "352574"
+  },
+  "Person": {
+    "de": "Wer ist diese Person?",
+    "zh": "那人是誰？",
+    "id": "503366"
+  },
+  "Durst": {
+    "de": "Hast du keinen Durst?",
+    "zh": "你不渴嗎？",
+    "id": "955508"
+  },
+  "Boden": {
+    "de": "Ich pflüge den Boden.",
+    "zh": "我耕田。",
+    "id": "370519"
+  },
+  "Flughafen": {
+    "de": "Wo ist der Flughafen?",
+    "zh": "機場在哪裡？",
+    "id": "403052"
+  },
+  "zeichnen": {
+    "de": "Er zeichnet ein Bild.",
+    "zh": "他正在畫一幅畫。",
+    "id": "7712373"
+  },
+  "Bild": {
+    "de": "Er zeichnet ein Bild.",
+    "zh": "他正在畫一幅畫。",
+    "id": "7712373"
+  },
+  "schaffen": {
+    "de": "Du hast es geschafft!",
+    "zh": "你做到啦！",
+    "id": "743760"
+  },
+  "treten": {
+    "de": "Treten Sie bitte ein!",
+    "zh": "請進。",
+    "id": "827542"
+  },
+  "Gepäck": {
+    "de": "Hier ist mein Gepäck.",
+    "zh": "這是我的行李。",
+    "id": "925482"
+  },
+  "Mütze": {
+    "de": "Setze eine Mütze auf.",
+    "zh": "把帽子戴上。",
+    "id": "595169"
+  },
+  "Stuhl": {
+    "de": "Ich mag diesen Stuhl.",
+    "zh": "我喜歡這把椅子。",
+    "id": "618911"
+  },
+  "Ärztin": {
+    "de": "Ist sie nicht Ärztin?",
+    "zh": "她不是醫生嗎？",
+    "id": "657930"
+  },
+  "Abend": {
+    "de": "Ich bade jeden Abend.",
+    "zh": "我每晚洗澡。",
+    "id": "2227273"
+  },
+  "Gefühl": {
+    "de": "Ich kenne das Gefühl.",
+    "zh": "我知道那種感覺。",
+    "id": "714561"
+  },
+  "verdienen": {
+    "de": "Das hast du verdient.",
+    "zh": "自作自受。",
+    "id": "902860"
+  },
+  "brennen": {
+    "de": "Es brennt kein Licht.",
+    "zh": "燈沒有亮著。",
+    "id": "743020"
+  },
+  "reisen": {
+    "de": "Er reist gern allein.",
+    "zh": "他喜歡獨自旅行。",
+    "id": "754755"
+  },
+  "Dienst": {
+    "de": "Wer hat heute Dienst?",
+    "zh": "今天誰值班？",
+    "id": "806413"
+  },
+  "Montag": {
+    "de": "Ich liebe den Montag!",
+    "zh": "吾愛星期一 !",
+    "id": "4943116"
+  },
+  "versuchen": {
+    "de": "Versucht es noch mal.",
+    "zh": "再試一次。",
+    "id": "1313716"
+  },
+  "probieren": {
+    "de": "Probiert es noch mal.",
+    "zh": "再試一次。",
+    "id": "1314458"
+  },
+  "Gegend": {
+    "de": "Die Gegend war ruhig.",
+    "zh": "這地區很安靜。",
+    "id": "7063248"
+  },
+  "zählen": {
+    "de": "Er kann nicht zählen.",
+    "zh": "他不會數數。",
+    "id": "881940"
+  },
+  "Mai": {
+    "de": "Mai kommt nach April.",
+    "zh": "四月之後是五月。",
+    "id": "901897"
+  },
+  "April": {
+    "de": "Mai kommt nach April.",
+    "zh": "四月之後是五月。",
+    "id": "901897"
+  },
+  "Freizeit": {
+    "de": "Hat er viel Freizeit?",
+    "zh": "你有很多休閒時間嗎？",
+    "id": "905522"
+  },
+  "drücken": {
+    "de": "Sie hat ihn gedrückt.",
+    "zh": "她抱了他。",
+    "id": "910970"
+  },
+  "verbinden": {
+    "de": "Er verband die Wunde.",
+    "zh": "他用繃帶包紮了傷口。",
+    "id": "951917"
+  },
+  "Wunde": {
+    "de": "Er verband die Wunde.",
+    "zh": "他用繃帶包紮了傷口。",
+    "id": "951917"
+  },
+  "sorgen": {
+    "de": "Was macht dir Sorgen?",
+    "zh": "你著什麼急？",
+    "id": "975129"
+  },
+  "Morgen": {
+    "de": "Morgen frage ich ihn.",
+    "zh": "明天我會問他的。",
+    "id": "982759"
+  },
+  "stinken": {
+    "de": "Das stinkt nach Käse.",
+    "zh": "這有一股芝士的味道。",
+    "id": "1013372"
+  },
+  "riechen": {
+    "de": "Das riecht nach Käse.",
+    "zh": "那聞起來像奶酪。",
+    "id": "1013373"
+  },
+  "Friseur": {
+    "de": "Ich war beim Friseur.",
+    "zh": "我去了理髮店。",
+    "id": "1048790"
+  },
+  "stehen": {
+    "de": "Stehen Sie nicht auf.",
+    "zh": "別站起來。",
+    "id": "1314522"
+  },
+  "Flasche": {
+    "de": "Mach die Flasche auf.",
+    "zh": "把瓶子打開。",
+    "id": "1314652"
+  },
+  "aussteigen": {
+    "de": "Steigt auf das Pferd.",
+    "zh": "上馬。",
+    "id": "1314709"
+  },
+  "Gesicht": {
+    "de": "Toms Gesicht ist rot.",
+    "zh": "湯姆的臉紅了。",
+    "id": "1314900"
+  },
+  "Saft": {
+    "de": "Hast du Saft gekauft?",
+    "zh": "你買果汁了嗎？",
+    "id": "1771654"
+  },
+  "heben": {
+    "de": "Heben Sie Ihre Hände!",
+    "zh": "手舉起來。",
+    "id": "1846491"
+  },
+  "lösen": {
+    "de": "Der Knopf löste sich.",
+    "zh": "釦子掉了。",
+    "id": "1863284"
+  },
+  "Partner": {
+    "de": "Ich bin dein Partner.",
+    "zh": "我是你的夥伴。",
+    "id": "1892438"
+  },
+  "rufen": {
+    "de": "Rufen Sie zuhause an!",
+    "zh": "打電話回家！",
+    "id": "1958630"
+  },
+  "Kellner": {
+    "de": "Ich rufe den Kellner.",
+    "zh": "我叫服務員。",
+    "id": "1985453"
+  },
+  "auftreten": {
+    "de": "Tritt auf die Bremse!",
+    "zh": "踩煞車!",
+    "id": "2003989"
+  },
+  "Bremse": {
+    "de": "Tritt auf die Bremse!",
+    "zh": "踩煞車!",
+    "id": "2003989"
+  },
+  "Sturm": {
+    "de": "Der Sturm legte sich.",
+    "zh": "風暴減弱了。",
+    "id": "8059299"
+  },
+  "festlegen": {
+    "de": "Der Sturm legte sich.",
+    "zh": "風暴減弱了。",
+    "id": "8059299"
+  },
+  "trinken": {
+    "de": "Tom trinkt kein Bier.",
+    "zh": "湯姆不喝啤酒。",
+    "id": "2263947"
+  },
+  "Lärm": {
+    "de": "Der Lärm weckte mich.",
+    "zh": "我被那聲響吵醒了。",
+    "id": "2319415"
+  },
+  "wecken": {
+    "de": "Der Lärm weckte mich.",
+    "zh": "我被那聲響吵醒了。",
+    "id": "2319415"
+  },
+  "erfinden": {
+    "de": "Wer hat das erfunden?",
+    "zh": "那是誰發明的？",
+    "id": "2349658"
+  },
+  "Zitrone": {
+    "de": "Die Zitrone ist gelb.",
+    "zh": "檸檬是黃色的。",
+    "id": "2730898"
+  },
+  "grillen": {
+    "de": "Er grillt sehr gerne.",
+    "zh": "他很愛烤肉。",
+    "id": "8597966"
+  },
+  "schlafen": {
+    "de": "Wo schläft die Katze?",
+    "zh": "貓在哪裡睡覺？",
+    "id": "2771788"
+  },
+  "malen": {
+    "de": "Sie malte einen Baum.",
+    "zh": "她畫了一棵樹。",
+    "id": "2997310"
+  },
+  "arbeiten": {
+    "de": "Wir arbeiten für Sie.",
+    "zh": "我們正在為您工作。",
+    "id": "3128359"
+  },
+  "Adresse": {
+    "de": "Hast du Toms Adresse?",
+    "zh": "你有湯姆的住址嗎？",
+    "id": "3251309"
+  },
+  "Pizza": {
+    "de": "Wessen Pizza ist das?",
+    "zh": "披薩是誰的？",
+    "id": "7805102"
+  },
+  "warnen": {
+    "de": "Sie hat euch gewarnt.",
+    "zh": "她警告過你們了。",
+    "id": "3955094"
+  },
+  "backen": {
+    "de": "Ich kann Brot backen.",
+    "zh": "我會烤麵包。",
+    "id": "4034418"
+  },
+  "Pflicht": {
+    "de": "Das ist Ihre Pflicht.",
+    "zh": "這是您的義務。",
+    "id": "8839314"
+  },
+  "Stück": {
+    "de": "Rutsch mal ein Stück!",
+    "zh": "騰一下地方。",
+    "id": "4659686"
+  },
+  "ändern": {
+    "de": "Tom kann sich ändern.",
+    "zh": "湯姆能改變。",
+    "id": "5317105"
+  },
+  "Spiegel": {
+    "de": "Schau in den Spiegel.",
+    "zh": "照鏡子。",
+    "id": "5418448"
+  },
+  "Party": {
+    "de": "Ist die Party vorbei?",
+    "zh": "聚會結束了嗎？",
+    "id": "8982457"
+  },
+  "besuchen": {
+    "de": "Ich habe Tom besucht.",
+    "zh": "我拜訪湯姆。",
+    "id": "6468208"
+  },
+  "brechen": {
+    "de": "Wann brechen wir auf?",
+    "zh": "我們甚麼時候出發?",
+    "id": "9681078"
+  },
+  "verkaufen": {
+    "de": "Ist das zu verkaufen?",
+    "zh": "這個賣不賣？",
+    "id": "7354437"
+  },
+  "Auge": {
+    "de": "Ich öffnete ein Auge.",
+    "zh": "我睜開一隻眼睛。",
+    "id": "7463755"
+  },
+  "Schrank": {
+    "de": "Der Schrank ist voll.",
+    "zh": "櫃子滿了。",
+    "id": "8305709"
+  },
+  "brauchen": {
+    "de": "Du wirst es brauchen.",
+    "zh": "你會需要的。",
+    "id": "8937357"
+  },
+  "zuhören": {
+    "de": "Du musst gut zuhören.",
+    "zh": "你必須聽清楚。",
+    "id": "9422299"
+  },
+  "Wohnung": {
+    "de": "Hast du eine Wohnung?",
+    "zh": "你有屋子嗎？",
+    "id": "9457011"
+  },
+  "Blick": {
+    "de": "Behalte ihn im Blick!",
+    "zh": "把他看住。",
+    "id": "9493697"
+  },
+  "kümmern": {
+    "de": "Was kümmern sie dich?",
+    "zh": "你為什麼關心他們？",
+    "id": "10483215"
+  },
+  "Strand": {
+    "de": "Gehen wir zum Strand!",
+    "zh": "我們去海邊吧。",
+    "id": "10626610"
+  },
+  "Elefant": {
+    "de": "Der Elefant ist groß.",
+    "zh": "大象很大。",
+    "id": "11554001"
+  },
+  "fressen": {
+    "de": "Die Ente fraß Ananas.",
+    "zh": "那隻鴨子吃菠蘿。",
+    "id": "12304847"
+  },
+  "Ahnung": {
+    "de": "Ich habe keine Ahnung.",
+    "zh": "我不知道。",
+    "id": "666568"
+  },
+  "vermissen": {
+    "de": "Hast du mich vermisst?",
+    "zh": "你想我了？",
+    "id": "365"
+  },
+  "Hunger": {
+    "de": "Ich sterbe vor Hunger!",
+    "zh": "我餓死了！",
+    "id": "559"
+  },
+  "Ausnahme": {
+    "de": "Das ist eine Ausnahme.",
+    "zh": "這是一個例外。",
+    "id": "4947529"
+  },
+  "Rolle": {
+    "de": "Es spielt keine Rolle.",
+    "zh": "沒關係。",
+    "id": "2358604"
+  },
+  "bedeuten": {
+    "de": "Was bedeutet das Wort?",
+    "zh": "這個詞是什麼意思？",
+    "id": "3110024"
+  },
+  "Bleistift": {
+    "de": "Das ist ein Bleistift.",
+    "zh": "那是一支鉛筆。",
+    "id": "383159"
+  },
+  "schwimmen": {
+    "de": "Er kann gut schwimmen.",
+    "zh": "他遊得很好。",
+    "id": "341456"
+  },
+  "schmerzen": {
+    "de": "Mir schmerzt der Zahn.",
+    "zh": "我的牙很痛。",
+    "id": "3256909"
+  },
+  "heiraten": {
+    "de": "Ich will sie heiraten.",
+    "zh": "我想娶她。",
+    "id": "345006"
+  },
+  "Wohnzimmer": {
+    "de": "Ich bin im Wohnzimmer.",
+    "zh": "我在客廳裡。",
+    "id": "10481444"
+  },
+  "Gitarre": {
+    "de": "Ich will eine Gitarre.",
+    "zh": "我想要一把吉他。",
+    "id": "354424"
+  },
+  "Fernseher": {
+    "de": "Das ist ein Fernseher.",
+    "zh": "這是一臺電視機。",
+    "id": "356174"
+  },
+  "Tochter": {
+    "de": "Ich habe eine Tochter.",
+    "zh": "我有一個女兒。",
+    "id": "357487"
+  },
+  "Krankenhaus": {
+    "de": "Er ist im Krankenhaus.",
+    "zh": "他在醫院。",
+    "id": "363929"
+  },
+  "Dusche": {
+    "de": "Die Dusche ist kaputt.",
+    "zh": "淋浴壞了。",
+    "id": "438738"
+  },
+  "Notausgang": {
+    "de": "Wo ist der Notausgang?",
+    "zh": "緊急出口在哪裡？",
+    "id": "365897"
+  },
+  "Alkohol": {
+    "de": "Er trinkt nie Alkohol.",
+    "zh": "他從不喝酒。",
+    "id": "389100"
+  },
+  "Dienstag": {
+    "de": "Hast du Dienstag Zeit?",
+    "zh": "你星期二有空嗎？",
+    "id": "1498462"
+  },
+  "Größe": {
+    "de": "Kennen Sie Ihre Größe?",
+    "zh": "您知道您的尺寸嗎？",
+    "id": "395228"
+  },
+  "Schloss": {
+    "de": "Das Schloss ist schön.",
+    "zh": "這個城堡好美。",
+    "id": "441239"
+  },
+  "übersetzen": {
+    "de": "Ich bin am Übersetzen.",
+    "zh": "我在翻譯。",
+    "id": "1682203"
+  },
+  "Freundin": {
+    "de": "Er hat keine Freundin.",
+    "zh": "他沒有女朋友。",
+    "id": "424758"
+  },
+  "Garten": {
+    "de": "Im Garten war niemand.",
+    "zh": "花園裡沒有人。",
+    "id": "441902"
+  },
+  "Film": {
+    "de": "Wann beginnt der Film?",
+    "zh": "電影什麼時候開始？",
+    "id": "443190"
+  },
+  "Klima": {
+    "de": "Das Klima ändert sich.",
+    "zh": "氣候在變化。",
+    "id": "457377"
+  },
+  "ablehnen": {
+    "de": "Er lehnt Rassismus ab.",
+    "zh": "他反對種族歧視。",
+    "id": "724284"
+  },
+  "empfehlen": {
+    "de": "Was empfehlen Sie mir?",
+    "zh": "您有什麼推薦？",
+    "id": "989627"
+  },
+  "Familie": {
+    "de": "Ist das deine Familie?",
+    "zh": "這是你的家人嗎？",
+    "id": "469782"
+  },
+  "Deutsch": {
+    "de": "Ich kann kein Deutsch.",
+    "zh": "我不會說德語。",
+    "id": "1630807"
+  },
+  "rauchen": {
+    "de": "Darf ich hier rauchen?",
+    "zh": "我可以在這裡吸菸嗎？",
+    "id": "492423"
+  },
+  "gewöhnen": {
+    "de": "Ich bin daran gewöhnt.",
+    "zh": "我習慣了。",
+    "id": "501284"
+  },
+  "Dank": {
+    "de": "Vielen Dank für alles.",
+    "zh": "非常感謝你所做的一切。",
+    "id": "615481"
+  },
+  "Ort": {
+    "de": "Alle mögen diesen Ort.",
+    "zh": "每一個人都喜歡那個地方。",
+    "id": "628831"
+  },
+  "Unfall": {
+    "de": "Er hatte einen Unfall.",
+    "zh": "他遇到了交通事故。",
+    "id": "634080"
+  },
+  "wählen": {
+    "de": "Du hast weise gewählt.",
+    "zh": "你做了一個明智的選擇。",
+    "id": "646632"
+  },
+  "Konzert": {
+    "de": "Sein Konzert war toll.",
+    "zh": "他的音樂會非常好。",
+    "id": "1308877"
+  },
+  "Vorsicht": {
+    "de": "Vorsicht vor dem Hund!",
+    "zh": "小心狗！",
+    "id": "1341373"
+  },
+  "System": {
+    "de": "Ist das System linear?",
+    "zh": "系統是線性的嗎？",
+    "id": "781937"
+  },
+  "beeilen": {
+    "de": "Ich muss mich beeilen!",
+    "zh": "我要趕緊了!",
+    "id": "794113"
+  },
+  "Schlüssel": {
+    "de": "Das ist Ihr Schlüssel.",
+    "zh": "這是您的鑰匙。",
+    "id": "2128025"
+  },
+  "Märchen": {
+    "de": "Glaubst du an Märchen?",
+    "zh": "你相信神話傳說嗎？",
+    "id": "4753457"
+  },
+  "Laden": {
+    "de": "Ich suche einen Laden.",
+    "zh": "我在找一家店。",
+    "id": "1205834"
+  },
+  "laden": {
+    "de": "Ich suche einen Laden.",
+    "zh": "我在找一家店。",
+    "id": "1205834"
+  },
+  "Möbel": {
+    "de": "Wir haben viele Möbel.",
+    "zh": "我們有好多傢俱。",
+    "id": "1223766"
+  },
+  "beleidigen": {
+    "de": "Sie hat ihn beleidigt.",
+    "zh": "她侮辱了他。",
+    "id": "1341327"
+  },
+  "drucken": {
+    "de": "Du lügst wie gedruckt!",
+    "zh": "你的謊言像報紙一樣！",
+    "id": "12088844"
+  },
+  "Rechnung": {
+    "de": "Hier ist die Rechnung.",
+    "zh": "這是賬單。",
+    "id": "1495935"
+  },
+  "besitzen": {
+    "de": "Besitzt du eine Waffe?",
+    "zh": "你擁有槍支嗎？",
+    "id": "1768598"
+  },
+  "Brief": {
+    "de": "Tom zerriss den Brief.",
+    "zh": "湯姆把信撕碎了。",
+    "id": "1819241"
+  },
+  "verpassen": {
+    "de": "Was habe ich verpasst?",
+    "zh": "我錯過了什麼？",
+    "id": "1844106"
+  },
+  "Treppe": {
+    "de": "Geh die Treppe hinauf.",
+    "zh": "上樓。",
+    "id": "4277864"
+  },
+  "verletzen": {
+    "de": "Du verletzt dich noch!",
+    "zh": "會受傷喲。",
+    "id": "10797433"
+  },
+  "Jacke": {
+    "de": "Er braucht eine Jacke.",
+    "zh": "他需要一件外套。",
+    "id": "8493345"
+  },
+  "benutzen": {
+    "de": "Tom benutzt Windows 7.",
+    "zh": "湯姆用Windows 7。",
+    "id": "2108198"
+  },
+  "verstehen": {
+    "de": "Sie wird es verstehen.",
+    "zh": "她會明白的。",
+    "id": "2192608"
+  },
+  "zustimmen": {
+    "de": "Er hat mir zugestimmt.",
+    "zh": "他認同我的意見。",
+    "id": "3943720"
+  },
+  "Gerät": {
+    "de": "Das Gerät ist tragbar.",
+    "zh": "設備是便攜的。",
+    "id": "2450258"
+  },
+  "Cousin": {
+    "de": "Wie heißt dein Cousin?",
+    "zh": "你堂兄叫什麼名字？",
+    "id": "3786938"
+  },
+  "erwarten": {
+    "de": "Tom hat Mary erwartet.",
+    "zh": "湯姆預計瑪莉會來。",
+    "id": "3991154"
+  },
+  "melden": {
+    "de": "Hat Tom sich gemeldet?",
+    "zh": "湯姆那裡有聯繫過你嗎？",
+    "id": "4287307"
+  },
+  "Fußball": {
+    "de": "Tom mag Fußball nicht.",
+    "zh": "湯姆不喜歡足球。",
+    "id": "4828385"
+  },
+  "Blitz": {
+    "de": "Schnell wie der Blitz.",
+    "zh": "迅捷如閃電。",
+    "id": "5079488"
+  },
+  "merken": {
+    "de": "Jeder hat das gemerkt.",
+    "zh": "所有人都注意到了。",
+    "id": "7150927"
+  },
+  "Handtuch": {
+    "de": "Tom warf das Handtuch.",
+    "zh": "湯姆不幹了。",
+    "id": "7635695"
+  },
+  "verschieben": {
+    "de": "Er verschob die Möbel.",
+    "zh": "他移動了傢俱。",
+    "id": "8634012"
+  },
+  "Polizist": {
+    "de": "Der Polizist war blau.",
+    "zh": "警察醉了。",
+    "id": "9927407"
+  },
+  "Benzin": {
+    "de": "Unser Benzin ist alle.",
+    "zh": "我們沒油了。",
+    "id": "6058352"
+  },
+  "Liste": {
+    "de": "Machen Sie eine Liste.",
+    "zh": "列一個列表。",
+    "id": "7456510"
+  },
+  "Lehrerin": {
+    "de": "Ist die Lehrerin jung?",
+    "zh": "那個老師年輕嗎？",
+    "id": "7548544"
+  },
+  "frieren": {
+    "de": "Ich begann zu frieren.",
+    "zh": "我開始冷了。",
+    "id": "7774039"
+  },
+  "Anfang": {
+    "de": "Der Anfang war schwer.",
+    "zh": "開始很難。",
+    "id": "8581552"
+  },
+  "holen": {
+    "de": "Geh deinen Pass holen.",
+    "zh": "去拿你的護照。",
+    "id": "8622642"
+  },
+  "besorgen": {
+    "de": "Ich bin etwas besorgt.",
+    "zh": "我有點擔心。",
+    "id": "8699016"
+  },
+  "Musiker": {
+    "de": "Bist du nicht Musiker?",
+    "zh": "你不是音樂家？",
+    "id": "8898975"
+  },
+  "beruhigen": {
+    "de": "Sie hat sich beruhigt.",
+    "zh": "她平靜下來了。",
+    "id": "9040065"
+  },
+  "Kissen": {
+    "de": "Bezieh das Kissen neu!",
+    "zh": "把枕套換了。",
+    "id": "9091548"
+  },
+  "Laster": {
+    "de": "Ich mag deinen Laster.",
+    "zh": "我喜歡你的卡車。",
+    "id": "9542182"
+  },
+  "Appetit": {
+    "de": "Er hat keinen Appetit.",
+    "zh": "他沒胃口吃東西。",
+    "id": "11902145"
+  },
+  "stecken": {
+    "de": "Wir stecken hier fest.",
+    "zh": "我們卡在這兒了。",
+    "id": "10059666"
+  },
+  "Drucker": {
+    "de": "Hast du einen Drucker?",
+    "zh": "你有打印機嗎？",
+    "id": "10171343"
+  },
+  "vergessen": {
+    "de": "Ich will es vergessen.",
+    "zh": "我想把它忘了。",
+    "id": "10289930"
+  },
+  "U-Bahn": {
+    "de": "Nehmen wir die U-Bahn!",
+    "zh": "我們坐地鐵去吧。",
+    "id": "10362824"
+  },
+  "Flucht": {
+    "de": "Ihm gelang die Flucht.",
+    "zh": "他成功地逃脫了。",
+    "id": "10495680"
+  },
+  "Sänger": {
+    "de": "Ich mag diesen Sänger.",
+    "zh": "我喜歡這位歌手。",
+    "id": "12198949"
+  },
+  "tragen": {
+    "de": "Vor dem Tragen waschen.",
+    "zh": "初次穿著前要先清洗。",
+    "id": "378"
+  },
+  "waschen": {
+    "de": "Vor dem Tragen waschen.",
+    "zh": "初次穿著前要先清洗。",
+    "id": "378"
+  },
+  "bedienen": {
+    "de": "Bedient euch am Kuchen!",
+    "zh": "你們自己吃蛋糕。",
+    "id": "2938734"
+  },
+  "Studentin": {
+    "de": "Bist du eine Studentin?",
+    "zh": "你是學生嗎？",
+    "id": "3900499"
+  },
+  "Meinung": {
+    "de": "Ich bin deiner Meinung.",
+    "zh": "我同意你。",
+    "id": "353023"
+  },
+  "schreiben": {
+    "de": "Sie lebt vom Schreiben.",
+    "zh": "她靠寫作生活。",
+    "id": "10101783"
+  },
+  "Zweifel": {
+    "de": "Es gibt keinen Zweifel.",
+    "zh": "毫無疑問。",
+    "id": "452129"
+  },
+  "Heizung": {
+    "de": "Die Heizung ist kaputt.",
+    "zh": "暖氣壞了。",
+    "id": "408708"
+  },
+  "Moment": {
+    "de": "Bitte warte ein Moment.",
+    "zh": "請稍等一下。",
+    "id": "430070"
+  },
+  "wechseln": {
+    "de": "Er wechselte das Thema.",
+    "zh": "他轉變了話題。",
+    "id": "2978631"
+  },
+  "Thema": {
+    "de": "Er wechselte das Thema.",
+    "zh": "他轉變了話題。",
+    "id": "2978631"
+  },
+  "aufschreiben": {
+    "de": "Er schrieb einen Brief.",
+    "zh": "他寫了一封信。",
+    "id": "519932"
+  },
+  "verlaufen": {
+    "de": "Hast du dich verlaufen?",
+    "zh": "你迷路了嗎？",
+    "id": "605415"
+  },
+  "packen": {
+    "de": "Hast du fertig gepackt?",
+    "zh": "你收拾好東西了沒有？",
+    "id": "2132918"
+  },
+  "Schwester": {
+    "de": "Sie ist Toms Schwester.",
+    "zh": "她是Tom的姐妹。",
+    "id": "657931"
+  },
+  "Ferien": {
+    "de": "Wie waren deine Ferien?",
+    "zh": "你的假期過的怎麼樣？",
+    "id": "666068"
+  },
+  "danken": {
+    "de": "Du müsstest ihm danken.",
+    "zh": "你應該感謝他。",
+    "id": "679926"
+  },
+  "Westen": {
+    "de": "Im Westen nichts Neues.",
+    "zh": "西線無戰事",
+    "id": "730989"
+  },
+  "gießen": {
+    "de": "Sie goss Wasser hinein.",
+    "zh": "她倒水進去。",
+    "id": "10190174"
+  },
+  "Straße": {
+    "de": "Nehmt die Straße links.",
+    "zh": "走左邊的道路。",
+    "id": "1970614"
+  },
+  "fliegen": {
+    "de": "Ein Vogel kann fliegen.",
+    "zh": "鳥會飛。",
+    "id": "812357"
+  },
+  "scheinen": {
+    "de": "Der Mond scheint schon.",
+    "zh": "月亮已經出來了。",
+    "id": "6312016"
+  },
+  "bieten": {
+    "de": "Eile ist nicht geboten.",
+    "zh": "沒有必要著急。",
+    "id": "5308682"
+  },
+  "sprechen": {
+    "de": "Kann ich dich sprechen?",
+    "zh": "我能和你談談嗎？",
+    "id": "1136229"
+  },
+  "Politik": {
+    "de": "Politik lässt ihn kalt.",
+    "zh": "他對政治沒有興趣。",
+    "id": "1803344"
+  },
+  "Berg": {
+    "de": "Schaue auf diesen Berg.",
+    "zh": "看那山！",
+    "id": "1688086"
+  },
+  "schicken": {
+    "de": "Tom ist sehr geschickt.",
+    "zh": "湯姆真是特別機靈。",
+    "id": "1080167"
+  },
+  "Kraft": {
+    "de": "Ich verlor meine Kraft.",
+    "zh": "我沒力氣了。",
+    "id": "1115830"
+  },
+  "Zukunft": {
+    "de": "Ich habe keine Zukunft.",
+    "zh": "我沒出息。",
+    "id": "1446874"
+  },
+  "schlagen": {
+    "de": "Sie hat ihn geschlagen.",
+    "zh": "她打了他。",
+    "id": "1324291"
+  },
+  "Erfolg": {
+    "de": "Ich wünsche dir Erfolg.",
+    "zh": "祝你成功。",
+    "id": "7466910"
+  },
+  "Text": {
+    "de": "Ohne Kontext kein Text.",
+    "zh": "沒有上下文就沒有詞義。",
+    "id": "10521072"
+  },
+  "Großvater": {
+    "de": "Tom ist mein Großvater.",
+    "zh": "Tom是我爺爺。",
+    "id": "1496450"
+  },
+  "Bein": {
+    "de": "Sein Bein ist verletzt.",
+    "zh": "他的腿受傷了。",
+    "id": "4672290"
+  },
+  "Stadt": {
+    "de": "Eure Stadt gefällt mir.",
+    "zh": "我喜歡你們的城市。",
+    "id": "2230636"
+  },
+  "Eltern": {
+    "de": "Ich liebe meine Eltern.",
+    "zh": "我愛我爸媽",
+    "id": "2185284"
+  },
+  "Fahrkarte": {
+    "de": "Hast du eine Fahrkarte?",
+    "zh": "你有票嗎？",
+    "id": "2238193"
+  },
+  "Kommentar": {
+    "de": "Das ist mein Kommentar.",
+    "zh": "這是我的評論。",
+    "id": "2634018"
+  },
+  "Wörterbuch": {
+    "de": "Hast du ein Wörterbuch?",
+    "zh": "你有字典嗎？",
+    "id": "2654809"
+  },
+  "bezahlen": {
+    "de": "Wirst du dafür bezahlt?",
+    "zh": "是有人花錢讓你做這事嗎？",
+    "id": "2667795"
+  },
+  "umziehen": {
+    "de": "Ich gehe mich umziehen.",
+    "zh": "我去換衣服。",
+    "id": "2847833"
+  },
+  "erholen": {
+    "de": "Wir können uns erholen.",
+    "zh": "我們可以休息。",
+    "id": "3156562"
+  },
+  "Öl": {
+    "de": "Öl schwimmt auf Wasser.",
+    "zh": "油漂浮在水上。",
+    "id": "3794364"
+  },
+  "Prüfung": {
+    "de": "Wann ist deine Prüfung?",
+    "zh": "你什麼時候考試？",
+    "id": "4153463"
+  },
+  "Zigarette": {
+    "de": "Gib mir eine Zigarette!",
+    "zh": "給我支香菸吧。",
+    "id": "5206090"
+  },
+  "Sprache": {
+    "de": "Welche Sprache ist das?",
+    "zh": "這是什麼語言？",
+    "id": "4750525"
+  },
+  "erzählen": {
+    "de": "Erzählen Sie Tom davon.",
+    "zh": "告訴湯姆。",
+    "id": "4942633"
+  },
+  "beschweren": {
+    "de": "Wer hat sich beschwert?",
+    "zh": "誰抱怨了？",
+    "id": "4942968"
+  },
+  "Druck": {
+    "de": "Der Druck war gewaltig.",
+    "zh": "壓力很巨大。",
+    "id": "5286312"
+  },
+  "Deutsche": {
+    "de": "Ich bin keine Deutsche.",
+    "zh": "我不是德國人。",
+    "id": "6552454"
+  },
+  "Strom": {
+    "de": "Wir haben keinen Strom.",
+    "zh": "我們沒有電。",
+    "id": "8332651"
+  },
+  "Pommes": {
+    "de": "Iss nicht meine Pommes!",
+    "zh": "別吃我的薯條。",
+    "id": "7463685"
+  },
+  "überraschen": {
+    "de": "Er war sehr überrascht.",
+    "zh": "他非常驚訝。",
+    "id": "7884959"
+  },
+  "Internet": {
+    "de": "Ich hasse das Internet.",
+    "zh": "我討厭網絡。",
+    "id": "8082534"
+  },
+  "füttern": {
+    "de": "Tom fütterte das Schaf.",
+    "zh": "湯姆餵了羊。",
+    "id": "8272360"
+  },
+  "Projekt": {
+    "de": "Wie läuft dein Projekt?",
+    "zh": "你的項目進展得怎麼樣？",
+    "id": "9684191"
+  },
+  "Auftritt": {
+    "de": "Ihr Auftritt war super.",
+    "zh": "她表演得真好。",
+    "id": "9208858"
+  },
+  "Passwort": {
+    "de": "Kennst du das Passwort?",
+    "zh": "你知道密碼嗎？",
+    "id": "9414190"
+  },
+  "Besuch": {
+    "de": "Danke für Ihren Besuch!",
+    "zh": "感謝您的光臨。",
+    "id": "9485920"
+  },
+  "übertreiben": {
+    "de": "Hör auf zu übertreiben!",
+    "zh": "不要再誇張了。",
+    "id": "10010583"
+  },
+  "Kleid": {
+    "de": "Ihr Kleid war gerissen.",
+    "zh": "她的裙子被撕破了。",
+    "id": "10753945"
+  },
+  "Bauernhof": {
+    "de": "Er hat einen Bauernhof.",
+    "zh": "他有一個農場。",
+    "id": "11509645"
+  },
+  "Sängerin": {
+    "de": "Ich mag diese Sängerin.",
+    "zh": "我喜歡這位歌手。",
+    "id": "12198951"
+  },
+  "Tier": {
+    "de": "Welches Tier ist braun?",
+    "zh": "什麼動物是棕色的？",
+    "id": "12216803"
+  },
+  "Datum": {
+    "de": "Welches Datum ist heute?",
+    "zh": "今天是幾月幾號？",
+    "id": "451354"
+  },
+  "studieren": {
+    "de": "Er studierte im Ausland.",
+    "zh": "他出國留學了。",
+    "id": "367980"
+  },
+  "Ausland": {
+    "de": "Er studierte im Ausland.",
+    "zh": "他出國留學了。",
+    "id": "367980"
+  },
+  "Zucker": {
+    "de": "Wir haben keinen Zucker.",
+    "zh": "我們沒有糖。",
+    "id": "341277"
+  },
+  "antworten": {
+    "de": "Bitte antworten Sie mir.",
+    "zh": "請回答我。",
+    "id": "349818"
+  },
+  "Universität": {
+    "de": "Er geht zur Universität.",
+    "zh": "他在讀大學。",
+    "id": "347990"
+  },
+  "Wochenende": {
+    "de": "Wie war dein Wochenende?",
+    "zh": "你週末過得怎麼樣？",
+    "id": "352560"
+  },
+  "Meister": {
+    "de": "Übung macht den Meister.",
+    "zh": "熟能生巧。",
+    "id": "732258"
+  },
+  "sammeln": {
+    "de": "Ken sammelt alte Münzen.",
+    "zh": "肯收集古錢幣。",
+    "id": "368506"
+  },
+  "Geburtstag": {
+    "de": "Wann hast du Geburtstag?",
+    "zh": "你的生日是幾月幾號？",
+    "id": "619973"
+  },
+  "beachten": {
+    "de": "Beachtet mich gar nicht!",
+    "zh": "不要管我。",
+    "id": "4032169"
+  },
+  "aufwachen": {
+    "de": "Ist das Baby aufgewacht?",
+    "zh": "寶寶醒了嗎？",
+    "id": "438502"
+  },
+  "Eintritt": {
+    "de": "Was kostet der Eintritt?",
+    "zh": "門票多少錢？",
+    "id": "2417536"
+  },
+  "Papier": {
+    "de": "Schecks sind aus Papier.",
+    "zh": "支票是紙做的。",
+    "id": "10178922"
+  },
+  "Vorschlag": {
+    "de": "Hast du einen Vorschlag?",
+    "zh": "你有什麼推薦？",
+    "id": "1045382"
+  },
+  "enttäuschen": {
+    "de": "Du hast mich enttäuscht.",
+    "zh": "你讓我失望了。",
+    "id": "482603"
+  },
+  "Erkältung": {
+    "de": "Ich habe eine Erkältung.",
+    "zh": "我感冒了。",
+    "id": "1667033"
+  },
+  "Schokolade": {
+    "de": "Sie mag auch Schokolade.",
+    "zh": "她也喜歡巧克力。",
+    "id": "522111"
+  },
+  "einladen": {
+    "de": "Ich werde dich einladen.",
+    "zh": "我請你。",
+    "id": "563396"
+  },
+  "Kamera": {
+    "de": "Was kostet diese Kamera?",
+    "zh": "這部相機多少錢？",
+    "id": "782027"
+  },
+  "wachsen": {
+    "de": "Im Garten wächst Bambus.",
+    "zh": "花園裡有竹子在生長。",
+    "id": "3950843"
+  },
+  "vertrauen": {
+    "de": "Du kannst mir vertrauen.",
+    "zh": "你可以信任我。",
+    "id": "811791"
+  },
+  "reinigen": {
+    "de": "Reinigen Sie das Zimmer!",
+    "zh": "收拾房間。",
+    "id": "1278874"
+  },
+  "ausruhen": {
+    "de": "Lasst uns hier ausruhen.",
+    "zh": "在這裡稍微休息一下吧。",
+    "id": "1314647"
+  },
+  "scheiden": {
+    "de": "Lassen wir uns scheiden.",
+    "zh": "我們離婚吧。",
+    "id": "1369489"
+  },
+  "begleiten": {
+    "de": "Du wirst mich begleiten.",
+    "zh": "你將伴我同行。",
+    "id": "10568148"
+  },
+  "bestrafen": {
+    "de": "Du wirst nicht bestraft.",
+    "zh": "你不會受罰。",
+    "id": "2323809"
+  },
+  "Sache": {
+    "de": "Die Sache ist unwichtig.",
+    "zh": "這件事不重要。",
+    "id": "2369241"
+  },
+  "streiten": {
+    "de": "Lass uns nicht streiten!",
+    "zh": "我們別吵了。",
+    "id": "9996944"
+  },
+  "mitbringen": {
+    "de": "Darf ich Tom mitbringen?",
+    "zh": "我可以帶上湯姆嗎？",
+    "id": "3293535"
+  },
+  "Feuer": {
+    "de": "Das Feuer ist erloschen.",
+    "zh": "火熄滅了。",
+    "id": "3395791"
+  },
+  "bekommen": {
+    "de": "Könnte ich Tee bekommen?",
+    "zh": "可以給我一些茶水嗎？",
+    "id": "4055182"
+  },
+  "schließen": {
+    "de": "Die Tür ist geschlossen.",
+    "zh": "門是關著的。",
+    "id": "4588054"
+  },
+  "urteilen": {
+    "de": "Möge der Leser urteilen.",
+    "zh": "讓讀者去評判。",
+    "id": "10810617"
+  },
+  "Butter": {
+    "de": "Ich brauche mehr Butter.",
+    "zh": "我需要更多黃油。",
+    "id": "4959851"
+  },
+  "Woche": {
+    "de": "Kommst du nächste Woche?",
+    "zh": "你下週來嗎？",
+    "id": "8768038"
+  },
+  "Heimweh": {
+    "de": "Ich habe großes Heimweh.",
+    "zh": "我很想家。",
+    "id": "9927439"
+  },
+  "Katastrophe": {
+    "de": "Es war eine Katastrophe.",
+    "zh": "那是災難。",
+    "id": "9927521"
+  },
+  "Insel": {
+    "de": "Sizilien ist eine Insel.",
+    "zh": "西西里是一座島。",
+    "id": "7100495"
+  },
+  "aufregen": {
+    "de": "Warum ist Tom aufgeregt?",
+    "zh": "湯姆為什麼興奮？",
+    "id": "7441646"
+  },
+  "stören": {
+    "de": "Ich wollte nicht stören.",
+    "zh": "我無意打擾。",
+    "id": "8074783"
+  },
+  "organisieren": {
+    "de": "Ich bin gut organisiert.",
+    "zh": "我很有條理。",
+    "id": "8796111"
+  },
+  "husten": {
+    "de": "Tom hustet schon wieder.",
+    "zh": "湯姆又在咳嗽了。",
+    "id": "8937253"
+  },
+  "Spielzeug": {
+    "de": "Räum dein Spielzeug auf!",
+    "zh": "把你的玩具收起來。",
+    "id": "9150560"
+  },
+  "Musikerin": {
+    "de": "Bist du nicht Musikerin?",
+    "zh": "你不是音樂家？",
+    "id": "10053140"
+  },
+  "Bibliothek": {
+    "de": "Ich muss zur Bibliothek.",
+    "zh": "我得去趟圖書館。",
+    "id": "10121026"
+  },
+  "Empfang": {
+    "de": "Ich habe keinen Empfang.",
+    "zh": "我沒信號了。",
+    "id": "10524432"
+  },
+  "erkennen": {
+    "de": "Sie erkannte ihn sofort.",
+    "zh": "她一下子就認出他了。",
+    "id": "10654546"
+  },
+  "Reifen": {
+    "de": "Der Reifen verliert Luft.",
+    "zh": "輪胎漏氣了。",
+    "id": "4720342"
+  },
+  "überqueren": {
+    "de": "Er überquerte die Straße.",
+    "zh": "他穿過公路。",
+    "id": "406665"
+  },
+  "Erdgeschoss": {
+    "de": "Ich wohne im Erdgeschoss.",
+    "zh": "我住在一樓。",
+    "id": "428479"
+  },
+  "Fernsehen": {
+    "de": "Ich gucke kein Fernsehen.",
+    "zh": "我不看電視。",
+    "id": "449919"
+  },
+  "fernsehen": {
+    "de": "Ich gucke kein Fernsehen.",
+    "zh": "我不看電視。",
+    "id": "449919"
+  },
+  "Schnupfen": {
+    "de": "Ich habe einen Schnupfen.",
+    "zh": "我感冒了。",
+    "id": "585831"
+  },
+  "aussehen": {
+    "de": "Aussehen ist nicht alles.",
+    "zh": "外表並不是全部。",
+    "id": "674781"
+  },
+  "Mantel": {
+    "de": "Sie braucht einen Mantel.",
+    "zh": "她需要一件外套。",
+    "id": "702759"
+  },
+  "lohnen": {
+    "de": "Kyōto lohnt einen Besuch.",
+    "zh": "京都值得遊覽。",
+    "id": "1304519"
+  },
+  "frühstücken": {
+    "de": "Er begann zu frühstücken.",
+    "zh": "他開始吃早餐。",
+    "id": "792051"
+  },
+  "verreisen": {
+    "de": "Er verreist liebend gern.",
+    "zh": "他愛旅行。",
+    "id": "1315357"
+  },
+  "stellen": {
+    "de": "Stellen Sie ruhig Fragen!",
+    "zh": "歡迎隨時提問。",
+    "id": "1735278"
+  },
+  "Verspätung": {
+    "de": "Unser Zug hat Verspätung.",
+    "zh": "我們的車誤點了。",
+    "id": "2064523"
+  },
+  "Hügel": {
+    "de": "Der Hügel war verschneit.",
+    "zh": "這座山被白雪覆蓋。",
+    "id": "1341548"
+  },
+  "Unterricht": {
+    "de": "Sie fehlte im Unterricht.",
+    "zh": "她缺課了。",
+    "id": "1921745"
+  },
+  "fliehen": {
+    "de": "Ich versuchte zu fliehen.",
+    "zh": "我試圖逃跑。",
+    "id": "3275421"
+  },
+  "Obst": {
+    "de": "Obst fault meist schnell.",
+    "zh": "水果一般不久就會腐爛。",
+    "id": "10678504"
+  },
+  "vermeiden": {
+    "de": "Das lässt sich vermeiden.",
+    "zh": "那是可避免的。",
+    "id": "2289289"
+  },
+  "Datei": {
+    "de": "Die Datei ist beschädigt.",
+    "zh": "文件已損壞。",
+    "id": "2977576"
+  },
+  "beschädigen": {
+    "de": "Die Datei ist beschädigt.",
+    "zh": "文件已損壞。",
+    "id": "2977576"
+  },
+  "Deutschland": {
+    "de": "Wir sind aus Deutschland.",
+    "zh": "我們從德國來。",
+    "id": "3798129"
+  },
+  "entscheiden": {
+    "de": "Hast du dich entschieden?",
+    "zh": "你決定好了嗎？",
+    "id": "3807103"
+  },
+  "Zahnbürste": {
+    "de": "Das ist meine Zahnbürste.",
+    "zh": "這把是我的牙刷。",
+    "id": "4774952"
+  },
+  "Schachtel": {
+    "de": "Die Schachtel ist kaputt.",
+    "zh": "箱子殘破。",
+    "id": "9927448"
+  },
+  "bestehen": {
+    "de": "Ich habe nicht bestanden.",
+    "zh": "我沒通過。",
+    "id": "9927400"
+  },
+  "Österreich": {
+    "de": "Sie kommt aus Österreich.",
+    "zh": "她來自奧地利。",
+    "id": "6212641"
+  },
+  "schneiden": {
+    "de": "Tom hat sich geschnitten.",
+    "zh": "湯姆割傷了自己。",
+    "id": "6615374"
+  },
+  "Mittagessen": {
+    "de": "Ist das dein Mittagessen?",
+    "zh": "這是你的午飯嗎？",
+    "id": "6954469"
+  },
+  "erklären": {
+    "de": "Lassen Sie mich erklären.",
+    "zh": "讓我解釋。",
+    "id": "7281123"
+  },
+  "Schlafzimmer": {
+    "de": "Sie kam ins Schlafzimmer.",
+    "zh": "她來到臥室。",
+    "id": "9035995"
+  },
+  "Badewanne": {
+    "de": "Ich habe keine Badewanne.",
+    "zh": "我沒有浴缸。",
+    "id": "9053030"
+  },
+  "Eindruck": {
+    "de": "Das hat Eindruck gemacht.",
+    "zh": "那留下了印象。",
+    "id": "9432999"
+  },
+  "Übersetzer": {
+    "de": "Danke an alle Übersetzer!",
+    "zh": "感謝所有的翻譯人員！",
+    "id": "10113041"
+  },
+  "Stelle": {
+    "de": "Stelle dich der Realität!",
+    "zh": "正視現實吧。",
+    "id": "10194590"
+  },
+  "Abfalleimer": {
+    "de": "Der Abfalleimer ist leer.",
+    "zh": "垃圾桶空了。",
+    "id": "12726573"
+  },
+  "Überraschung": {
+    "de": "Das ist eine Überraschung.",
+    "zh": "這是一個驚喜。",
+    "id": "371"
+  },
+  "klären": {
+    "de": "Klären wir dieses Problem!",
+    "zh": "讓我們來澄清一下這個問題。",
+    "id": "2525704"
+  },
+  "Publikum": {
+    "de": "Das Publikum war gewaltig.",
+    "zh": "觀眾人數龐大。",
+    "id": "7550176"
+  },
+  "Koffer": {
+    "de": "Einer meiner Koffer fehlt!",
+    "zh": "我的其中一個行李不見了。",
+    "id": "5174174"
+  },
+  "Fotoapparat": {
+    "de": "Hast du einen Fotoapparat?",
+    "zh": "你有照相機嗎？",
+    "id": "345393"
+  },
+  "beobachten": {
+    "de": "Ich fühle mich beobachtet.",
+    "zh": "我感覺大家都在關注我。",
+    "id": "341713"
+  },
+  "Personal": {
+    "de": "Eintritt nur für Personal.",
+    "zh": "非工作人員禁止入內。",
+    "id": "679897"
+  },
+  "stammen": {
+    "de": "Sie stammt aus Frankreich.",
+    "zh": "她是法國的。",
+    "id": "463679"
+  },
+  "Entscheidung": {
+    "de": "Es ist deine Entscheidung.",
+    "zh": "這是你的選擇。",
+    "id": "604187"
+  },
+  "schätzen": {
+    "de": "Tom schätzt moderne Kunst.",
+    "zh": "湯姆欣賞現代藝術。",
+    "id": "643685"
+  },
+  "Kunst": {
+    "de": "Tom schätzt moderne Kunst.",
+    "zh": "湯姆欣賞現代藝術。",
+    "id": "643685"
+  },
+  "Krankheit": {
+    "de": "Er heilte meine Krankheit.",
+    "zh": "他治好了我的病。",
+    "id": "712569"
+  },
+  "Nachbarin": {
+    "de": "Ich hasse meine Nachbarin.",
+    "zh": "我討厭我的鄰居。",
+    "id": "10033783"
+  },
+  "langweilen": {
+    "de": "Du siehst gelangweilt aus.",
+    "zh": "你看起來很無聊。",
+    "id": "1287884"
+  },
+  "steigen": {
+    "de": "Die Preise sind gestiegen.",
+    "zh": "物價上漲。",
+    "id": "1407777"
+  },
+  "T-Shirt": {
+    "de": "Was kostet dieses T-Shirt?",
+    "zh": "這件襯衫多少錢？",
+    "id": "867764"
+  },
+  "Regel": {
+    "de": "Keine Regel ohne Ausnahme.",
+    "zh": "每條規則都有例外。",
+    "id": "2193150"
+  },
+  "Geschichte": {
+    "de": "Diese Geschichte ist wahr.",
+    "zh": "這個故事是真的。",
+    "id": "1287226"
+  },
+  "Bürger": {
+    "de": "Mario ist Bürger Italiens.",
+    "zh": "Mario是義大利的公民 。",
+    "id": "1307582"
+  },
+  "Maschine": {
+    "de": "Diese Maschine ist kaputt.",
+    "zh": "這個機器出故障了。",
+    "id": "1854488"
+  },
+  "kennenlernen": {
+    "de": "Ich will ihn kennenlernen.",
+    "zh": "我想認識他。",
+    "id": "1924107"
+  },
+  "Sport": {
+    "de": "Sport kennt keine Grenzen.",
+    "zh": "體育無國界。",
+    "id": "2279674"
+  },
+  "Kühlschrank": {
+    "de": "Der Kühlschrank ist offen.",
+    "zh": "冰箱開著。",
+    "id": "3779407"
+  },
+  "informieren": {
+    "de": "Sie sind schon informiert.",
+    "zh": "他們已經被告知了。",
+    "id": "4331949"
+  },
+  "Stiefel": {
+    "de": "Ich brauche meine Stiefel.",
+    "zh": "我需要我的靴子。",
+    "id": "8308049"
+  },
+  "ziehen": {
+    "de": "Die Schwalben ziehen fort.",
+    "zh": "燕子在遷移。",
+    "id": "6373351"
+  },
+  "Verbindung": {
+    "de": "Bitte bleib in Verbindung.",
+    "zh": "請保持聯繫。",
+    "id": "7319907"
+  },
+  "Enttäuschung": {
+    "de": "Was für eine Enttäuschung!",
+    "zh": "多麼讓人失望啊！",
+    "id": "7451656"
+  },
+  "vorschlagen": {
+    "de": "Was hat Tom vorgeschlagen?",
+    "zh": "湯姆建議了什麼？",
+    "id": "7774086"
+  },
+  "Einkommen": {
+    "de": "Sami hatte kein Einkommen.",
+    "zh": "薩米沒有收入。",
+    "id": "8688412"
+  },
+  "auswählen": {
+    "de": "Ich möchte kurz auswählen.",
+    "zh": "我想選一下。",
+    "id": "8728509"
+  },
+  "interessieren": {
+    "de": "Er war nicht interessiert.",
+    "zh": "他不感興趣。",
+    "id": "9982576"
+  },
+  "löschen": {
+    "de": "Diesen Satz bitte löschen.",
+    "zh": "請刪除這段話。",
+    "id": "10539749"
+  },
+  "bemühen": {
+    "de": "Bemühen Sie Ihre Fantasie!",
+    "zh": "發揮您的想象力。",
+    "id": "11701908"
+  },
+  "Fantasie": {
+    "de": "Bemühen Sie Ihre Fantasie!",
+    "zh": "發揮您的想象力。",
+    "id": "11701908"
+  },
+  "Nachmittag": {
+    "de": "Regnet es heute Nachmittag?",
+    "zh": "今天下午會下雨嗎？",
+    "id": "341989"
+  },
+  "Erziehung": {
+    "de": "Erziehung beginnt zu Hause.",
+    "zh": "教育從家庭開始。",
+    "id": "569557"
+  },
+  "beenden": {
+    "de": "Beenden wir die Diskussion.",
+    "zh": "我們別再討論了吧。",
+    "id": "724734"
+  },
+  "Diskussion": {
+    "de": "Beenden wir die Diskussion.",
+    "zh": "我們別再討論了吧。",
+    "id": "724734"
+  },
+  "wiederholen": {
+    "de": "Er wiederholte seine Frage.",
+    "zh": "他重述他的問題。",
+    "id": "353288"
+  },
+  "Wissenschaft": {
+    "de": "Ich mag keine Wissenschaft.",
+    "zh": "我不喜歡科學。",
+    "id": "370047"
+  },
+  "Bürgermeister": {
+    "de": "Er kennt den Bürgermeister.",
+    "zh": "他認識市長。",
+    "id": "689346"
+  },
+  "Konferenz": {
+    "de": "Morgen endet die Konferenz.",
+    "zh": "會議明天就結束了。",
+    "id": "452203"
+  },
+  "Mal": {
+    "de": "Vielleicht das nächste Mal!",
+    "zh": "也許下一次吧。",
+    "id": "514956"
+  },
+  "Verantwortung": {
+    "de": "Er trägt die Verantwortung.",
+    "zh": "他承擔責任。",
+    "id": "10130374"
+  },
+  "kritisieren": {
+    "de": "Er wurde scharf kritisiert.",
+    "zh": "他被嚴歷批評。",
+    "id": "7766252"
+  },
+  "beschließen": {
+    "de": "Sie beschloss, zu kündigen.",
+    "zh": "她決定辭去工作。",
+    "id": "8599646"
+  },
+  "kündigen": {
+    "de": "Sie beschloss, zu kündigen.",
+    "zh": "她決定辭去工作。",
+    "id": "8599646"
+  },
+  "schalten": {
+    "de": "Schaltet den Fernseher aus.",
+    "zh": "關閉電視機",
+    "id": "1090530"
+  },
+  "Medizin": {
+    "de": "Ich muss Medizin einnehmen.",
+    "zh": "我必須吃藥。",
+    "id": "1446820"
+  },
+  "einnehmen": {
+    "de": "Ich muss Medizin einnehmen.",
+    "zh": "我必須吃藥。",
+    "id": "1446820"
+  },
+  "fördern": {
+    "de": "Wein fördert die Verdauung.",
+    "zh": "喝酒幫助消化。",
+    "id": "2630822"
+  },
+  "erwachsen": {
+    "de": "Du bist erwachsen geworden.",
+    "zh": "你長大了。",
+    "id": "7337593"
+  },
+  "Ausländer": {
+    "de": "Alle Kinder sind Ausländer.",
+    "zh": "小朋友都是外國人。",
+    "id": "8244527"
+  },
+  "Religion": {
+    "de": "Wofür braucht man Religion?",
+    "zh": "為什麼宗教是必要的？",
+    "id": "8288907"
+  },
+  "veröffentlichen": {
+    "de": "Wo wurde es veröffentlicht?",
+    "zh": "它發表在哪裡？",
+    "id": "8511833"
+  },
+  "telefonieren": {
+    "de": "Telefoniert Tom noch immer?",
+    "zh": "湯姆還在打電話嗎？",
+    "id": "8672898"
+  },
+  "halten": {
+    "de": "Tom wird gefangen gehalten.",
+    "zh": "湯姆被囚禁了。",
+    "id": "8796082"
+  },
+  "entschuldigen": {
+    "de": "Wir haben uns entschuldigt.",
+    "zh": "我們道了歉。",
+    "id": "10329708"
+  },
+  "Mitglied": {
+    "de": "Jeder kann Mitglied werden.",
+    "zh": "誰都可以加入。",
+    "id": "10624031"
+  },
+  "fotografieren": {
+    "de": "Darf man hier fotografieren?",
+    "zh": "這裡允許拍照嗎？",
+    "id": "1045416"
+  },
+  "fließen": {
+    "de": "Dieser Fluss fließt schnell.",
+    "zh": "這條河水流湍急。",
+    "id": "5396253"
+  },
+  "klingen": {
+    "de": "Das klingt sehr interessant.",
+    "zh": "聽起來很有趣。",
+    "id": "367977"
+  },
+  "reservieren": {
+    "de": "Dieser Tisch ist reserviert.",
+    "zh": "這個桌子被預約了。",
+    "id": "371800"
+  },
+  "Wochentag": {
+    "de": "Welcher Wochentag ist heute?",
+    "zh": "今天星期幾？",
+    "id": "2376990"
+  },
+  "Roman": {
+    "de": "Dieser Roman langweilt mich.",
+    "zh": "這本小說太乏味了。",
+    "id": "396928"
+  },
+  "regeln": {
+    "de": "Alle Regeln haben Ausnahmen.",
+    "zh": "一切規則都有例外。",
+    "id": "427545"
+  },
+  "Flüssigkeit": {
+    "de": "Wasser ist eine Flüssigkeit.",
+    "zh": "水是液體。",
+    "id": "460249"
+  },
+  "erhalten": {
+    "de": "Sie erhielt den Doktortitel.",
+    "zh": "她取得了博士學位。",
+    "id": "9670771"
+  },
+  "unternehmen": {
+    "de": "Das Unternehmen ging pleite.",
+    "zh": "公司破產了。",
+    "id": "701731"
+  },
+  "Sonntag": {
+    "de": "Halte nächsten Sonntag frei.",
+    "zh": "把下週日空出來。",
+    "id": "959952"
+  },
+  "Körper": {
+    "de": "Mein ganzer Körper schmerzt.",
+    "zh": "我全身痠痛。",
+    "id": "1557904"
+  },
+  "Muttersprache": {
+    "de": "Was ist deine Muttersprache?",
+    "zh": "你的母語是什麼？",
+    "id": "1002805"
+  },
+  "bereiten": {
+    "de": "Das Abendessen ist bereitet.",
+    "zh": "晚餐準備好了。",
+    "id": "1340845"
+  },
+  "Verhalten": {
+    "de": "Ihr Verhalten ist niveaulos.",
+    "zh": "她的行為很粗俗。",
+    "id": "1706550"
+  },
+  "verhalten": {
+    "de": "Ihr Verhalten ist niveaulos.",
+    "zh": "她的行為很粗俗。",
+    "id": "1706550"
+  },
+  "Politikerin": {
+    "de": "Ich will Politikerin werden.",
+    "zh": "我想成為一名政治家。",
+    "id": "4253842"
+  },
+  "verbieten": {
+    "de": "Rauchen ist streng verboten.",
+    "zh": "嚴禁吸菸。",
+    "id": "3677349"
+  },
+  "Sekretärin": {
+    "de": "Meine Mutter ist Sekretärin.",
+    "zh": "我媽是秘書。",
+    "id": "3362918"
+  },
+  "reparieren": {
+    "de": "Ich werd's jetzt reparieren.",
+    "zh": "我現在就修。",
+    "id": "13859620"
+  },
+  "unterhalten": {
+    "de": "Sie unterhalten sich gerade.",
+    "zh": "他們在說話。",
+    "id": "5682952"
+  },
+  "Restaurant": {
+    "de": "Dieses Restaurant ist ruhig.",
+    "zh": "這餐廳很安靜。",
+    "id": "8598924"
+  },
+  "Frühstück": {
+    "de": "Mama macht gerade Frühstück.",
+    "zh": "媽媽正在準備早餐。",
+    "id": "9107178"
+  },
+  "Situation": {
+    "de": "Die Situation ist schwierig.",
+    "zh": "情況很棘手。",
+    "id": "11392148"
+  },
+  "entlassen": {
+    "de": "Iwan wurde danach entlassen.",
+    "zh": "伊凡後來被開除了。",
+    "id": "11945201"
+  },
+  "Krankenwagen": {
+    "de": "Rufen Sie einen Krankenwagen.",
+    "zh": "叫救護車。",
+    "id": "1341375"
+  },
+  "Gesundheit": {
+    "de": "Gesundheit geht vor Reichtum.",
+    "zh": "健康比財富重要。",
+    "id": "1219286"
+  },
+  "Wirklichkeit": {
+    "de": "Der Traum wurde Wirklichkeit.",
+    "zh": "夢想成真。",
+    "id": "702032"
+  },
+  "Teilnehmer": {
+    "de": "Alle Teilnehmer sind Japaner.",
+    "zh": "出席者都是日本人。",
+    "id": "368818"
+  },
+  "Qualität": {
+    "de": "Qualität kommt vor Quantität.",
+    "zh": "數量不如質量。",
+    "id": "10956480"
+  },
+  "bestellen": {
+    "de": "Warum nicht Pizzas bestellen?",
+    "zh": "為何不訂披薩？",
+    "id": "711864"
+  },
+  "Großmutter": {
+    "de": "Meine Großmutter lebt allein.",
+    "zh": "我祖母獨自生活。",
+    "id": "1935811"
+  },
+  "Basketball": {
+    "de": "Mike spielt gerne Basketball.",
+    "zh": "邁克喜歡打籃球。",
+    "id": "6460632"
+  },
+  "Kleidung": {
+    "de": "Ich verkaufe Kleidung online.",
+    "zh": "我在網路上賣衣服。",
+    "id": "1614721"
+  },
+  "Schlange": {
+    "de": "Viele Leute standen Schlange.",
+    "zh": "許多人在排隊等候。",
+    "id": "3901170"
+  },
+  "gründen": {
+    "de": "Harvard wurde 1636 gegründet.",
+    "zh": "哈佛始建於1636年。",
+    "id": "7309926"
+  },
+  "Idee": {
+    "de": "Die Idee wurde konkretisiert.",
+    "zh": "想法被具體化了。",
+    "id": "10799768"
+  },
+  "Arbeitsplatz": {
+    "de": "Tom sucht einen Arbeitsplatz.",
+    "zh": "Tom正在找工作。",
+    "id": "1693136"
+  },
+  "schaden": {
+    "de": "Schlechte Bücher schaden dir.",
+    "zh": "不良書籍會對你產生危害。",
+    "id": "1756029"
+  },
+  "behandeln": {
+    "de": "Du wirst ungerecht behandelt.",
+    "zh": "你被不公平地對待。",
+    "id": "8173222"
+  },
+  "Kugelschreiber": {
+    "de": "Hast du einen Kugelschreiber?",
+    "zh": "你有圓珠筆嗎？",
+    "id": "5384901"
+  },
+  "Bäckerei": {
+    "de": "Die Bäckerei ist geschlossen.",
+    "zh": "麵包房打烊了。",
+    "id": "6379891"
+  },
+  "Überweisung": {
+    "de": "Wir bezahlen per Überweisung.",
+    "zh": "我們會用銀行轉帳付款。",
+    "id": "10046844"
+  },
+  "unterschreiben": {
+    "de": "Ich unterschrieb das Dokument.",
+    "zh": "我簽署了文件。",
+    "id": "404176"
+  },
+  "gelten": {
+    "de": "In Amerika gilt Rechtsverkehr.",
+    "zh": "在美國，汽車靠右行駛。",
+    "id": "4356876"
+  },
+  "verhaften": {
+    "de": "Zweifellos wurde er verhaftet.",
+    "zh": "毫無疑問，他被逮捕了。",
+    "id": "9194099"
+  },
+  "Essig": {
+    "de": "Nimm Zitronensaft statt Essig.",
+    "zh": "用擰檬汁代替醋。",
+    "id": "2948943"
+  },
+  "Kreuzung": {
+    "de": "Diese Kreuzung ist gefährlich.",
+    "zh": "這個十字路口很危險。",
+    "id": "3240658"
+  },
+  "Zeichen": {
+    "de": "Ich kenne chinesische Zeichen.",
+    "zh": "我認識漢字。",
+    "id": "4654432"
+  },
+  "leisten": {
+    "de": "Er leistete keinen Widerstand.",
+    "zh": "他沒反抗。",
+    "id": "6062176"
+  },
+  "Instrument": {
+    "de": "Ist Mayonnaise ein Instrument?",
+    "zh": "蛋黃醬是一種樂器嗎？",
+    "id": "10621729"
+  },
+  "Medikament": {
+    "de": "Das Medikament bewirkte Wunder.",
+    "zh": "這藥創造了奇蹟。",
+    "id": "2356077"
+  },
+  "Europäer": {
+    "de": "Europäer trinken gerne Rotwein.",
+    "zh": "歐洲人喜歡喝紅酒。",
+    "id": "2344725"
+  },
+  "Familienname": {
+    "de": "Watanabe ist mein Familienname.",
+    "zh": "渡邊是我的姓。",
+    "id": "509829"
+  },
+  "kontrollieren": {
+    "de": "Niemand kann ihn kontrollieren.",
+    "zh": "沒人管束或開導他。",
+    "id": "8670966"
+  },
+  "genießen": {
+    "de": "Komm den Sonnenschein genießen.",
+    "zh": "來這享受陽光吧。",
+    "id": "1770084"
+  },
+  "Krankenschwester": {
+    "de": "Die Krankenschwester ist krank.",
+    "zh": "護士生病了。",
+    "id": "10490970"
+  },
+  "Produkt": {
+    "de": "Dieses Produkt ist ausverkauft.",
+    "zh": "該商品已售罄。",
+    "id": "10266534"
+  },
+  "Integration": {
+    "de": "Sie verweigern die Integration.",
+    "zh": "她們拒絕融入。",
+    "id": "10473276"
+  },
+  "entschließen": {
+    "de": "Ich sollte entschlossen handeln.",
+    "zh": "我做事該果斷。",
+    "id": "7764894"
+  },
+  "Mannschaft": {
+    "de": "Welche Mannschaft wird gewinnen?",
+    "zh": "哪個隊會贏？",
+    "id": "427576"
+  },
+  "ersetzen": {
+    "de": "CDs haben Schallplatten ersetzt.",
+    "zh": "CD已經取代了膠木唱片。",
+    "id": "10099443"
+  },
+  "Hauptstadt": {
+    "de": "Sofia ist Bulgariens Hauptstadt.",
+    "zh": "索非亞是保加利亞的首都。",
+    "id": "8396571"
+  },
+  "leiten": {
+    "de": "Er leitet die Marketingabteilung.",
+    "zh": "他是營銷部的負責人。",
+    "id": "8342230"
+  },
+  "Schülerin": {
+    "de": "Diese Schülerin ist Amerikanerin.",
+    "zh": "那個女學生是美洲人。",
+    "id": "454003"
+  },
+  "beantworten": {
+    "de": "Niemand beantwortete meine Frage.",
+    "zh": "沒人回答我的問題。",
+    "id": "645804"
+  },
+  "Teil": {
+    "de": "Übersetz den unterstrichenen Teil.",
+    "zh": "翻譯劃線部分。",
+    "id": "427508"
+  },
+  "aufheben": {
+    "de": "Aufgeschoben ist nicht aufgehoben.",
+    "zh": "暫時收手不代表忘記。",
+    "id": "442605"
+  },
+  "festnehmen": {
+    "de": "Der Kriminelle wurde festgenommen.",
+    "zh": "犯人被逮捕了。",
+    "id": "782313"
+  },
+  "untersuchen": {
+    "de": "Wir untersuchen die Unfallursache.",
+    "zh": "我們在調查事故發生的原因。",
+    "id": "829324"
+  },
+  "teilnehmen": {
+    "de": "Alle Mitglieder müssen teilnehmen.",
+    "zh": "所有的成員都必須參加。",
+    "id": "10795398"
+  },
+  "stehlen": {
+    "de": "Zahlreiche Bücher wurden gestohlen.",
+    "zh": "很多書被盜了。",
+    "id": "360549"
+  },
+  "Klimaanlage": {
+    "de": "Die Klimaanlage ist kaputtgegangen.",
+    "zh": "空調壞了。",
+    "id": "369893"
+  },
+  "Portemonnaie": {
+    "de": "Mein Portemonnaie ist verschwunden.",
+    "zh": "我的錢包不見了。",
+    "id": "2200652"
+  },
+  "verlangen": {
+    "de": "Er verlangte ihren Personalausweis.",
+    "zh": "他要了她的身份證。",
+    "id": "6218442"
+  },
+  "Gewicht": {
+    "de": "Holzmöbel haben ordentlich Gewicht.",
+    "zh": "木質傢俱沉甸甸的。",
+    "id": "10201159"
+  },
+  "verursachen": {
+    "de": "Vakzine verursachen keinen Autismus.",
+    "zh": "疫苗不會導致自閉症。",
+    "id": "10033618"
+  },
+  "Nahrungsmittel": {
+    "de": "Wir brauchen dringend Nahrungsmittel.",
+    "zh": "我們非常需要食物。",
+    "id": "742683"
+  },
+  "Glückwunsch": {
+    "de": "Herzlichen Glückwunsch zum Geburtstag!",
+    "zh": "生日快樂！",
+    "id": "404606"
+  },
+  "Entschuldigung": {
+    "de": "Entschuldigung, sprechen Sie Englisch?",
+    "zh": "對不起。你會講英語嗎？",
+    "id": "467719"
+  },
+  "erreichen": {
+    "de": "Die Überflutung erreichte Fensterhöhe.",
+    "zh": "洪水湧到了窗戶的高度。",
+    "id": "8801333"
+  },
+  "Gebäude": {
+    "de": "Sondereinheiten umstellten das Gebäude.",
+    "zh": "特種部隊包圍了建築物。",
+    "id": "2198878"
+  },
+  "Untersuchung": {
+    "de": "Ohne Untersuchung kein Mitspracherecht.",
+    "zh": "沒有調查就沒有發言權。",
+    "id": "13011164"
+  },
+  "Verkäufer": {
+    "de": "Verkäufer sind gewöhnlich Schnellsprecher.",
+    "zh": "推銷員經常是語速快的人。",
+    "id": "3208421"
+  },
+  "Verständnis": {
+    "de": "Gegenseitiges Verständnis stiftet Frieden.",
+    "zh": "相互理解能促進和平。",
+    "id": "10121400"
+  },
+  "abhängen": {
+    "de": "Das hängt von dir ab.",
+    "zh": "取決於你",
+    "id": "662287"
+  },
+  "Reihe": {
+    "de": "Wer ist an der Reihe?",
+    "zh": "輪到誰了？",
+    "id": "357791"
+  },
+  "Park": {
+    "de": "Ich gehe in den Park.",
+    "zh": "我去公園。",
+    "id": "365014"
+  },
+  "bitten": {
+    "de": "Sie bat ihn um Hilfe.",
+    "zh": "她向他求助。",
+    "id": "784066"
+  },
+  "Nähe": {
+    "de": "Sie lebt in der Nähe.",
+    "zh": "她住在附近。",
+    "id": "835214"
+  },
+  "hinweisen": {
+    "de": "Ich wies ihm den Weg.",
+    "zh": "我給他指了路。",
+    "id": "1918751"
+  },
+  "Beruf": {
+    "de": "Was bist du von Beruf?",
+    "zh": "你做什麼工作?",
+    "id": "1319541"
+  },
+  "Humor": {
+    "de": "Er hat Sinn für Humor.",
+    "zh": "他有幽默感。",
+    "id": "2299599"
+  },
+  "Ding": {
+    "de": "Wie heiß ist das Ding?",
+    "zh": "那個東西有多熱？",
+    "id": "9147002"
+  },
+  "Paket": {
+    "de": "Wo ist mein Paket hin?",
+    "zh": "我的包裹到哪裡了？",
+    "id": "10966880"
+  },
+  "Balkon": {
+    "de": "Ich bin auf dem Balkon.",
+    "zh": "我在陽臺上。",
+    "id": "356658"
+  },
+  "Risiko": {
+    "de": "Das Risiko ist zu groß.",
+    "zh": "風險太大。",
+    "id": "442264"
+  },
+  "Zoo": {
+    "de": "Wie alt ist dieser Zoo?",
+    "zh": "這間動物園多久了？",
+    "id": "581224"
+  },
+  "Affe": {
+    "de": "Der Affe fiel vom Baum.",
+    "zh": "猴子從樹上掉了下來。",
+    "id": "1004386"
+  },
+  "Ball": {
+    "de": "Er trat gegen den Ball.",
+    "zh": "他踢了那顆球。",
+    "id": "1314940"
+  },
+  "Lkw": {
+    "de": "Was für ein großer Lkw!",
+    "zh": "多麼大的一輛卡車啊！",
+    "id": "1913678"
+  },
+  "Lust": {
+    "de": "Wer hat Lust auf Poker?",
+    "zh": "誰想來玩撲克。",
+    "id": "4672484"
+  },
+  "Kantine": {
+    "de": "Wo geht es zur Kantine?",
+    "zh": "食堂怎麼走？",
+    "id": "7894704"
+  },
+  "Burg": {
+    "de": "Das ist eine alte Burg.",
+    "zh": "這是一座古老的城堡。",
+    "id": "10172177"
+  },
+  "heizen": {
+    "de": "Wie heizen Sie das Haus?",
+    "zh": "您怎麼讓屋子暖起來？",
+    "id": "370032"
+  },
+  "leihen": {
+    "de": "Ich werde es dir leihen.",
+    "zh": "我會借給你的。",
+    "id": "383144"
+  },
+  "Kasse": {
+    "de": "Ich bin knapp bei Kasse.",
+    "zh": "我缺錢。",
+    "id": "368545"
+  },
+  "Fest": {
+    "de": "Er wird zum Fest kommen.",
+    "zh": "他會來參加派對。",
+    "id": "403707"
+  },
+  "Osten": {
+    "de": "Der Wind weht von Osten.",
+    "zh": "風從東方吹來。",
+    "id": "601020"
+  },
+  "Leiter": {
+    "de": "Sie fiel von der Leiter.",
+    "zh": "她從梯子上摔了下來。",
+    "id": "705712"
+  },
+  "Dorf": {
+    "de": "Sie wohnt in einem Dorf.",
+    "zh": "她住在一個村子裡。",
+    "id": "816910"
+  },
+  "Januar": {
+    "de": "Heute ist der 2. Januar.",
+    "zh": "今天是一月二日。",
+    "id": "2109297"
+  },
+  "Sessel": {
+    "de": "Der Sessel ist zu klein!",
+    "zh": "這張椅子太小了！",
+    "id": "809355"
+  },
+  "schwitzen": {
+    "de": "Er fing an zu schwitzen.",
+    "zh": "他開始出汗了。",
+    "id": "1690484"
+  },
+  "kämpfen": {
+    "de": "Er kämpft um sein Leben.",
+    "zh": "他在為生活戰鬥。",
+    "id": "2967235"
+  },
+  "ausfüllen": {
+    "de": "Ich füllte das Glas auf.",
+    "zh": "我把杯子倒滿了。",
+    "id": "3541321"
+  },
+  "Fahrer": {
+    "de": "Er ist ein guter Fahrer.",
+    "zh": "他是個好駕駛員。",
+    "id": "10305572"
+  },
+  "Freitag": {
+    "de": "Wie wäre es mit Freitag?",
+    "zh": "你覺得週五怎麼樣？",
+    "id": "6641379"
+  },
+  "erlauben": {
+    "de": "Wer hat dir das erlaubt?",
+    "zh": "是誰允許你做這樣的事的？",
+    "id": "10049282"
+  },
+  "vergnügen": {
+    "de": "Es ist uns ein Vergnügen.",
+    "zh": "這是我們的榮幸。",
+    "id": "338422"
+  },
+  "atmen": {
+    "de": "Atmen Sie bitte tief ein.",
+    "zh": "請深吸一口氣。",
+    "id": "396290"
+  },
+  "Band": {
+    "de": "Ich spiele in einer Band.",
+    "zh": "我在一個樂團裡演奏。",
+    "id": "397831"
+  },
+  "erfahren": {
+    "de": "Wie hast du das erfahren?",
+    "zh": "你是怎麼知道的？",
+    "id": "1824129"
+  },
+  "Kranke": {
+    "de": "Der Kranke liegt im Bett.",
+    "zh": "病人躺在床上。",
+    "id": "431967"
+  },
+  "Zeuge": {
+    "de": "Er war Zeuge des Unfalls.",
+    "zh": "他目擊了那件意外。",
+    "id": "444323"
+  },
+  "nachschlagen": {
+    "de": "Sie schlug den Ball hart.",
+    "zh": "她用力地拍了球。",
+    "id": "455592"
+  },
+  "Vorteil": {
+    "de": "Es ist zu seinem Vorteil.",
+    "zh": "這對他有利。",
+    "id": "582184"
+  },
+  "Geschenk": {
+    "de": "Sie gab uns ein Geschenk.",
+    "zh": "她給了我們一個禮物。",
+    "id": "588735"
+  },
+  "Politiker": {
+    "de": "Er ist nur ein Politiker.",
+    "zh": "他只不過是個政治家。",
+    "id": "10760448"
+  },
+  "Turm": {
+    "de": "Wie hoch ist dieser Turm?",
+    "zh": "那座塔有多高啊？",
+    "id": "663211"
+  },
+  "zeigen": {
+    "de": "Sie zeigte mir ihr Album.",
+    "zh": "她給我看她的相簿。",
+    "id": "10102555"
+  },
+  "Heim": {
+    "de": "Bitte komme in mein Heim.",
+    "zh": "請來我家吧。",
+    "id": "788484"
+  },
+  "Vormittag": {
+    "de": "Er war am Vormittag hier.",
+    "zh": "他上午來過這裡。",
+    "id": "809249"
+  },
+  "tauchen": {
+    "de": "Ich tauchte in den Fluss.",
+    "zh": "我潛入了河裡。",
+    "id": "10483451"
+  },
+  "Menge": {
+    "de": "Er hat jede Menge Bücher.",
+    "zh": "他有很多書。",
+    "id": "876424"
+  },
+  "Schreck": {
+    "de": "Er war starr vor Schreck.",
+    "zh": "他嚇得全身僵硬。",
+    "id": "1711295"
+  },
+  "drehen": {
+    "de": "Das Rad dreht sich nicht.",
+    "zh": "輪子不轉。",
+    "id": "2290091"
+  },
+  "Hals": {
+    "de": "Er hat einen langen Hals.",
+    "zh": "他的脖子很長。",
+    "id": "2306942"
+  },
+  "Anruf": {
+    "de": "Tom, du hast einen Anruf!",
+    "zh": "湯姆，有電話！",
+    "id": "4932024"
+  },
+  "Team": {
+    "de": "Wir haben ein super Team.",
+    "zh": "我們有個好極了的團隊。",
+    "id": "10160762"
+  },
+  "bedanken": {
+    "de": "Er bedankte sich bei mir.",
+    "zh": "他跟我說謝謝。",
+    "id": "10201095"
+  },
+  "Ziel": {
+    "de": "Was ist dein wahres Ziel?",
+    "zh": "你真正的目標是什麼？",
+    "id": "8725969"
+  },
+  "loben": {
+    "de": "Er lobte mich zum Himmel.",
+    "zh": "他極力稱讚了我。",
+    "id": "8742742"
+  },
+  "Flur": {
+    "de": "Können wir im Flur reden?",
+    "zh": "我們能在走廊裡說話嗎？",
+    "id": "9035268"
+  },
+  "Klick": {
+    "de": "Klick nicht auf den Link!",
+    "zh": "不要點擊那個鏈接。",
+    "id": "10735860"
+  },
+  "Klasse": {
+    "de": "In welcher Klasse bist du?",
+    "zh": "你幾年級？",
+    "id": "3962158"
+  },
+  "einpacken": {
+    "de": "Jemand packte mich am Arm.",
+    "zh": "有人抓住了我的手臂。",
+    "id": "344597"
+  },
+  "ärgern": {
+    "de": "Sie ärgert sich über mich.",
+    "zh": "她在跟我賭氣。",
+    "id": "347967"
+  },
+  "Puppe": {
+    "de": "Ich sandte ihr eine Puppe.",
+    "zh": "我寄給她一個娃娃。",
+    "id": "1128201"
+  },
+  "Freude": {
+    "de": "Er war trunken vor Freude.",
+    "zh": "他沉醉於喜悅之中。",
+    "id": "588725"
+  },
+  "Notfall": {
+    "de": "Im Notfall wählen Sie 119.",
+    "zh": "在緊急情況下，可撥打 119。",
+    "id": "1188506"
+  },
+  "zumachen": {
+    "de": "Soll ich die Tür zumachen?",
+    "zh": "我應該把門關上嗎?",
+    "id": "7827051"
+  },
+  "Schaden": {
+    "de": "Aus Schaden wird man klug.",
+    "zh": "吃一塹，長一智。",
+    "id": "1149011"
+  },
+  "Bär": {
+    "de": "Wie lange schläft ein Bär?",
+    "zh": "熊睡覺睡多長時間？",
+    "id": "927389"
+  },
+  "März": {
+    "de": "Heute ist der fünfte März.",
+    "zh": "今天是三月五號。",
+    "id": "1198466"
+  },
+  "Schinken": {
+    "de": "Nimm dir von dem Schinken.",
+    "zh": "吃些火腿。",
+    "id": "4943240"
+  },
+  "Firma": {
+    "de": "Das Geld gehört der Firma.",
+    "zh": "那是公司的錢。",
+    "id": "1293524"
+  },
+  "Geschäft": {
+    "de": "Es ist ein gutes Geschäft.",
+    "zh": "這是一筆不錯的交易。",
+    "id": "3613671"
+  },
+  "Herd": {
+    "de": "Ist der Herd wirklich aus?",
+    "zh": "烤箱真的關了嗎？",
+    "id": "1880074"
+  },
+  "Kunde": {
+    "de": "Hat der Kunde immer recht?",
+    "zh": "顧客永遠是正確的嗎？",
+    "id": "1891585"
+  },
+  "Job": {
+    "de": "Du wirst einen Job finden.",
+    "zh": "你會找到工作的。",
+    "id": "3409969"
+  },
+  "Apparat": {
+    "de": "Das ist ein alter Apparat.",
+    "zh": "這是臺舊設備。",
+    "id": "4756676"
+  },
+  "Heimat": {
+    "de": "Grüßen Sie mir die Heimat!",
+    "zh": "代我向祖國致以問候！",
+    "id": "6921257"
+  },
+  "Stock": {
+    "de": "Wir sind im zweiten Stock.",
+    "zh": "我們在三樓。",
+    "id": "7727367"
+  },
+  "Sack": {
+    "de": "Ich trage einen Sack Reis.",
+    "zh": "我扛著米袋。",
+    "id": "8728432"
+  },
+  "teilen": {
+    "de": "Ich möchte mit dir teilen.",
+    "zh": "我想跟你分享。",
+    "id": "10270131"
+  },
+  "Erde": {
+    "de": "Warum dreht sich die Erde?",
+    "zh": "地球為什麼會自轉呀？",
+    "id": "9039670"
+  },
+  "behalten": {
+    "de": "Behalten Sie ihn im Blick!",
+    "zh": "把他看住。",
+    "id": "9493700"
+  },
+  "stürzen": {
+    "de": "Er stürzte in den Abgrund.",
+    "zh": "他墜入了深淵。",
+    "id": "10041612"
+  },
+  "mitteilen": {
+    "de": "Teilt ihr euch ein Zimmer?",
+    "zh": "你們共住一個房間嗎？",
+    "id": "10049244"
+  },
+  "zahlen": {
+    "de": "Kann ich mit Scheck zahlen?",
+    "zh": "我可以用支票付嗎？",
+    "id": "349966"
+  },
+  "Nebel": {
+    "de": "Ich sah nichts außer Nebel.",
+    "zh": "除了霧我什麼都看不見。",
+    "id": "1437897"
+  },
+  "Staub": {
+    "de": "Wische den Staub vom Regal.",
+    "zh": "把架子上的灰塵擦一下。",
+    "id": "714615"
+  },
+  "Verlierer": {
+    "de": "Er ist ein guter Verlierer.",
+    "zh": "他是個不錯的失敗者。",
+    "id": "402374"
+  },
+  "Maler": {
+    "de": "Er ist ein berühmter Maler.",
+    "zh": "他是一位有名的畫家。",
+    "id": "412141"
+  },
+  "Blut": {
+    "de": "Blut ist dicker als Wasser.",
+    "zh": "血濃於水。",
+    "id": "412452"
+  },
+  "Lohn": {
+    "de": "Undank ist der Welten Lohn.",
+    "zh": "世人都不記住善行。",
+    "id": "442793"
+  },
+  "mieten": {
+    "de": "Ich möchte ein Haus mieten.",
+    "zh": "我想租房。",
+    "id": "747701"
+  },
+  "Gedicht": {
+    "de": "Das ist ein tolles Gedicht.",
+    "zh": "這是一首很棒的詩。",
+    "id": "1187368"
+  },
+  "Arbeiter": {
+    "de": "Tom ist ein guter Arbeiter.",
+    "zh": "湯姆是個好工人。",
+    "id": "1354046"
+  },
+  "Gast": {
+    "de": "Der Gast saß mir gegenüber.",
+    "zh": "訪客坐在我的對面。",
+    "id": "2907644"
+  },
+  "Banane": {
+    "de": "Warum ist die Banane krumm?",
+    "zh": "香蕉為什麼是彎的？",
+    "id": "1027697"
+  },
+  "Frist": {
+    "de": "Sie hat die Frist versäumt.",
+    "zh": "她錯過了最後期限。",
+    "id": "1737296"
+  },
+  "passen": {
+    "de": "Diese Hosen passen mir gut.",
+    "zh": "這些褲子我穿起來很合身。",
+    "id": "10678475"
+  },
+  "Hand": {
+    "de": "Darf ich deine Hand halten?",
+    "zh": "我可以牽著你的手嗎？",
+    "id": "3024840"
+  },
+  "Museum": {
+    "de": "Ich gehe selten ins Museum.",
+    "zh": "我幾乎不去博物館。",
+    "id": "3155345"
+  },
+  "Schatten": {
+    "de": "Parkt das Auto im Schatten.",
+    "zh": "把車停到陰影裡。",
+    "id": "3262961"
+  },
+  "Paar": {
+    "de": "Was für ein reizendes Paar!",
+    "zh": "多討人喜歡的一對兒！",
+    "id": "3971935"
+  },
+  "Hälfte": {
+    "de": "Ich brauche nur die Hälfte.",
+    "zh": "我只需要半數。",
+    "id": "4099530"
+  },
+  "Gefängnis": {
+    "de": "Was machst du im Gefängnis?",
+    "zh": "你在監獄做什麼？",
+    "id": "12264404"
+  },
+  "Alter": {
+    "de": "Tom sagte Maria sein Alter.",
+    "zh": "湯姆告訴瑪麗他的年齡。",
+    "id": "7335534"
+  },
+  "Fach": {
+    "de": "Sein Fach ist die Ökonomie.",
+    "zh": "他的專業是經濟學。",
+    "id": "7774066"
+  },
+  "Sorge": {
+    "de": "Keine Sorge! Ich helfe dir.",
+    "zh": "不要擔心，我會幫你的。",
+    "id": "7978515"
+  },
+  "Eingang": {
+    "de": "Er stand neben dem Eingang.",
+    "zh": "他站在入口的邊上。",
+    "id": "8763311"
+  },
+  "Beispiel": {
+    "de": "Fällt dir ein Beispiel ein?",
+    "zh": "你想得到例子嗎？",
+    "id": "9413895"
+  },
+  "aufmachen": {
+    "de": "Er hat den Mund aufgemacht.",
+    "zh": "他開口了。",
+    "id": "9414172"
+  },
+  "Künstler": {
+    "de": "Der Künstler malt ein Bild.",
+    "zh": "畫家畫畫。",
+    "id": "10168704"
+  },
+  "Rest": {
+    "de": "Den Rest musst du vierteln.",
+    "zh": "你得把剩下的分成四份兒。",
+    "id": "10520821"
+  },
+  "abholen": {
+    "de": "Ich werde ihn abholen gehen.",
+    "zh": "我會去接他的。",
+    "id": "7763772"
+  },
+  "Ankunft": {
+    "de": "Er starb vor meiner Ankunft.",
+    "zh": "他在我來到之前就死了。",
+    "id": "385355"
+  },
+  "Zwiebel": {
+    "de": "Fügen Sie die Zwiebel hinzu.",
+    "zh": "加洋蔥。",
+    "id": "383102"
+  },
+  "Mode": {
+    "de": "Miniröcke sind aus der Mode.",
+    "zh": "迷你裙已經過時了。",
+    "id": "1343980"
+  },
+  "Abenteuer": {
+    "de": "Ich habe Lust auf Abenteuer.",
+    "zh": "我渴望冒險。",
+    "id": "479984"
+  },
+  "Art": {
+    "de": "Welche Art Arbeit machst du?",
+    "zh": "你做什麼類型的工作？",
+    "id": "441671"
+  },
+  "Umgebung": {
+    "de": "Die Umgebung war sehr ruhig.",
+    "zh": "周圍的地區非常安靜。",
+    "id": "615548"
+  },
+  "Partei": {
+    "de": "Bist du Mitglied der Partei?",
+    "zh": "你是黨員嗎？",
+    "id": "1079217"
+  },
+  "Marke": {
+    "de": "Welche Marke hast du lieber?",
+    "zh": "你更喜歡哪個牌子？",
+    "id": "724053"
+  },
+  "Artikel": {
+    "de": "Hast du den Artikel gelesen?",
+    "zh": "你看文章了沒？",
+    "id": "4193254"
+  },
+  "leiden": {
+    "de": "Sie konnte ihn nicht leiden.",
+    "zh": "她恨他。",
+    "id": "4418214"
+  },
+  "abfliegen": {
+    "de": "Er fliegt morgen nach Paris.",
+    "zh": "他明天將飛往巴黎。",
+    "id": "1164017"
+  },
+  "Stecker": {
+    "de": "Hast du den Stecker gezogen?",
+    "zh": "插頭是你拔的嗎？",
+    "id": "1513442"
+  },
+  "Vortrag": {
+    "de": "Der Vortrag beginnt um acht.",
+    "zh": "講座八點鐘開始。",
+    "id": "1635841"
+  },
+  "klettern": {
+    "de": "Tom klettert auf einen Baum.",
+    "zh": "湯姆在爬樹。",
+    "id": "1713408"
+  },
+  "Tropfen": {
+    "de": "Ich rühre keinen Tropfen an.",
+    "zh": "我滴酒不沾。",
+    "id": "10119202"
+  },
+  "weigern": {
+    "de": "Ich weigerte mich zu zahlen.",
+    "zh": "我拒絕了付款。",
+    "id": "1935377"
+  },
+  "Etage": {
+    "de": "Auf welcher Etage wohnst du?",
+    "zh": "你住在哪層樓？",
+    "id": "2079486"
+  },
+  "Zeug": {
+    "de": "Die labern bloß dummes Zeug.",
+    "zh": "她們只是胡說八道。",
+    "id": "10711169"
+  },
+  "Detail": {
+    "de": "Der Teufel steckt im Detail.",
+    "zh": "細節決定成敗。",
+    "id": "5686061"
+  },
+  "E-Mail": {
+    "de": "Er hat eine E-Mail bekommen.",
+    "zh": "他收到電郵。",
+    "id": "9402664"
+  },
+  "Salat": {
+    "de": "Der Salat ist gelb geworden.",
+    "zh": "生菜變黃了。",
+    "id": "9422056"
+  },
+  "Dialekt": {
+    "de": "Wie lernt man einen Dialekt?",
+    "zh": "如何學習方言？",
+    "id": "10061319"
+  },
+  "Biologie": {
+    "de": "Ich mochte Biologie noch nie.",
+    "zh": "我從來沒喜歡過生物學。",
+    "id": "119"
+  },
+  "Kultur": {
+    "de": "Sie haben ihre eigene Kultur.",
+    "zh": "他們有他們自己的文化。",
+    "id": "8342282"
+  },
+  "aufräumen": {
+    "de": "Er räumte sein Spielzeug weg.",
+    "zh": "他收起了他的玩具。",
+    "id": "4044448"
+  },
+  "Europa": {
+    "de": "Ich reiste durch ganz Europa.",
+    "zh": "我環遊了歐洲。",
+    "id": "693380"
+  },
+  "Trinkgeld": {
+    "de": "Wir nehmen kein Trinkgeld an.",
+    "zh": "不收小費。",
+    "id": "369278"
+  },
+  "Methode": {
+    "de": "Gibt es keine andere Methode?",
+    "zh": "沒有別的辦法嗎？",
+    "id": "372960"
+  },
+  "pflanzen": {
+    "de": "Ich pflanzte Rosen im Garten.",
+    "zh": "我在花園裡種了些玫瑰。",
+    "id": "407673"
+  },
+  "Kredit": {
+    "de": "Kauf keine Sachen auf Kredit.",
+    "zh": "別賒賬買東西。",
+    "id": "583556"
+  },
+  "Hochzeit": {
+    "de": "Wo findet die Hochzeit statt?",
+    "zh": "婚禮在哪兒舉行？",
+    "id": "4672288"
+  },
+  "Schluss": {
+    "de": "Machen wir Schluss für heute.",
+    "zh": "今天就到此為止吧。",
+    "id": "2169239"
+  },
+  "Bewerbung": {
+    "de": "Tom füllte die Bewerbung aus.",
+    "zh": "湯姆填寫了申請表。",
+    "id": "1408197"
+  },
+  "erinnern": {
+    "de": "Ich kann mich nicht erinnern.",
+    "zh": "我記不得了。",
+    "id": "928109"
+  },
+  "achten": {
+    "de": "Seine Lehrer soll man achten.",
+    "zh": "應該尊敬老師。",
+    "id": "1300091"
+  },
+  "Empfehlung": {
+    "de": "Gib mir doch eine Empfehlung.",
+    "zh": "你給我推薦幾個吧。",
+    "id": "1335327"
+  },
+  "putzen": {
+    "de": "Geh Zähne putzen, aber flott!",
+    "zh": "快去刷牙。",
+    "id": "10555565"
+  },
+  "dienen": {
+    "de": "Eine Pfanne dient zum Braten.",
+    "zh": "鍋是用來炒的。",
+    "id": "2120370"
+  },
+  "Braten": {
+    "de": "Eine Pfanne dient zum Braten.",
+    "zh": "鍋是用來炒的。",
+    "id": "2120370"
+  },
+  "braten": {
+    "de": "Eine Pfanne dient zum Braten.",
+    "zh": "鍋是用來炒的。",
+    "id": "2120370"
+  },
+  "Bedeutung": {
+    "de": "Die Sache ist ohne Bedeutung.",
+    "zh": "這件事不重要。",
+    "id": "2369240"
+  },
+  "Spieler": {
+    "de": "Tom ist unser bester Spieler.",
+    "zh": "湯姆是我們最棒的球員。",
+    "id": "7500253"
+  },
+  "ausreichen": {
+    "de": "Tom reichte Maria das Messer.",
+    "zh": "湯姆把刀遞給了瑪麗。",
+    "id": "8022143"
+  },
+  "Aussage": {
+    "de": "Ich traue Toms Aussage nicht.",
+    "zh": "我不相信湯姆的說法。",
+    "id": "8467301"
+  },
+  "vorstellen": {
+    "de": "Ich will dich ihm vorstellen.",
+    "zh": "我想介紹你給他認識。",
+    "id": "8591542"
+  },
+  "Zelt": {
+    "de": "Wir haben das Zelt aufgebaut.",
+    "zh": "我們搭了帳篷。",
+    "id": "9790007"
+  },
+  "Reiseführer": {
+    "de": "Ich bin in Tōkyō Reiseführer.",
+    "zh": "我在東京做導遊。",
+    "id": "9817291"
+  },
+  "verlängern": {
+    "de": "Du musst es etwas verlängern.",
+    "zh": "你得把它弄長些。",
+    "id": "10301475"
+  },
+  "Virus": {
+    "de": "Der Computer hat einen Virus.",
+    "zh": "那臺電腦中毒了。",
+    "id": "12042688"
+  },
+  "erfüllen": {
+    "de": "Sie hat ihre Pflicht erfüllt.",
+    "zh": "她盡了自己的職責。",
+    "id": "12149232"
+  },
+  "Reisebüro": {
+    "de": "Ich arbeite für ein Reisebüro.",
+    "zh": "我在旅行社工作.",
+    "id": "360657"
+  },
+  "umsteigen": {
+    "de": "Du musst in Shibuya umsteigen.",
+    "zh": "你得在涉谷換乘火車。",
+    "id": "8342326"
+  },
+  "Einladung": {
+    "de": "Sie lehnte seine Einladung ab.",
+    "zh": "她拒絕了他的邀請。",
+    "id": "353094"
+  },
+  "Strafe": {
+    "de": "Er wird seine Strafe erhalten.",
+    "zh": "他會受到懲罰的。",
+    "id": "370147"
+  },
+  "Frisur": {
+    "de": "Ist meine neue Frisur komisch?",
+    "zh": "我的新髮型是不是很奇怪？",
+    "id": "1826881"
+  },
+  "schimpfen": {
+    "de": "Schimpft Mutter das Pferd aus?",
+    "zh": "媽媽罵馬嗎？",
+    "id": "3358487"
+  },
+  "Gespräch": {
+    "de": "Sie kamen sofort ins Gespräch.",
+    "zh": "他們很快就聊起來了。",
+    "id": "576136"
+  },
+  "Daten": {
+    "de": "Diese Daten sind ganz ungenau.",
+    "zh": "這些數據太不精確了。",
+    "id": "604713"
+  },
+  "einführen": {
+    "de": "Sie führte ein einsames Leben.",
+    "zh": "她的生活很寂寞。",
+    "id": "640612"
+  },
+  "Auskunft": {
+    "de": "Vielen Dank für Ihre Auskunft.",
+    "zh": "謝謝您的指教。",
+    "id": "700496"
+  },
+  "Umweltschutz": {
+    "de": "Umweltschutz fängt bei mir an.",
+    "zh": "環保從我做起。",
+    "id": "726320"
+  },
+  "Ober": {
+    "de": "Herr Ober, die Rechnung bitte.",
+    "zh": "服務員，買單。",
+    "id": "777483"
+  },
+  "Tuch": {
+    "de": "Das Tuch ist schon eingepackt.",
+    "zh": "布已經被打包了。",
+    "id": "10831994"
+  },
+  "Zeile": {
+    "de": "Schreib auf jede zweite Zeile.",
+    "zh": "每隔一行寫。",
+    "id": "8147238"
+  },
+  "buchstabieren": {
+    "de": "Wie buchstabiert man das Wort?",
+    "zh": "你怎麼拼這個字？",
+    "id": "1910602"
+  },
+  "mitnehmen": {
+    "de": "Hast du einen Fön mitgenommen?",
+    "zh": "你有帶吹風機嗎？",
+    "id": "980598"
+  },
+  "joggen": {
+    "de": "Mein Vater joggt jeden Morgen.",
+    "zh": "我父親每天早上都跑步。",
+    "id": "1837119"
+  },
+  "Künstlerin": {
+    "de": "Sie ist eine junge Künstlerin.",
+    "zh": "她是文藝青年。",
+    "id": "9825564"
+  },
+  "vermieten": {
+    "de": "Wollen Sie Ihr Haus vermieten?",
+    "zh": "您想出租您的房子嗎？",
+    "id": "2376919"
+  },
+  "feiern": {
+    "de": "Wo willst du Sylvester feiern?",
+    "zh": "你要去哪裡跨年?",
+    "id": "10119319"
+  },
+  "Fernbedienung": {
+    "de": "Gib mir mal die Fernbedienung!",
+    "zh": "把遙控器遞給我。",
+    "id": "5382088"
+  },
+  "Kindergarten": {
+    "de": "Wir gehen in den Kindergarten.",
+    "zh": "我們上幼兒園。",
+    "id": "8336060"
+  },
+  "Husten": {
+    "de": "Hast du Schmerzen beim Husten?",
+    "zh": "咳嗽的時候會痛嗎？",
+    "id": "9858870"
+  },
+  "Rückkehr": {
+    "de": "Sie wartet auf deine Rückkehr.",
+    "zh": "她在等你回來。",
+    "id": "10039750"
+  },
+  "Vergangenheit": {
+    "de": "Tom lebt in der Vergangenheit.",
+    "zh": "湯姆活在過去之中。",
+    "id": "10018868"
+  },
+  "Rucksack": {
+    "de": "Das ist kein kleiner Rucksack.",
+    "zh": "這個背包不小。",
+    "id": "10292226"
+  },
+  "überlegen": {
+    "de": "Überlegen wir uns was anderes!",
+    "zh": "再想別的辦法吧。",
+    "id": "10512865"
+  },
+  "Pullover": {
+    "de": "Wie findest du diesen Pullover?",
+    "zh": "你覺得這件毛衣怎麼樣？",
+    "id": "4169917"
+  },
+  "spazieren": {
+    "de": "Er geht jeden Morgen spazieren.",
+    "zh": "他每天早上都散步。",
+    "id": "2660065"
+  },
+  "ausleihen": {
+    "de": "Darf ich dieses Buch ausleihen?",
+    "zh": "我能借這本書嗎？",
+    "id": "366751"
+  },
+  "Direktor": {
+    "de": "Sie ernannten ihn zum Direktor.",
+    "zh": "他們任命他為經理。",
+    "id": "360647"
+  },
+  "Schild": {
+    "de": "Auf dem Schild steht \"Ausgang\".",
+    "zh": "告示牌上寫著「出口」。",
+    "id": "838103"
+  },
+  "Gift": {
+    "de": "Dieser Fisch enthält kein Gift.",
+    "zh": "這魚沒毒。",
+    "id": "370023"
+  },
+  "Parlament": {
+    "de": "Am Dienstag tagt das Parlament.",
+    "zh": "國會將在週二開會。",
+    "id": "399777"
+  },
+  "raten": {
+    "de": "Sie haben fast richtig geraten.",
+    "zh": "您差不多猜對了。",
+    "id": "762077"
+  },
+  "Wolle": {
+    "de": "Schafe versorgen uns mit Wolle.",
+    "zh": "綿羊提供我們羊毛。",
+    "id": "679344"
+  },
+  "Doktor": {
+    "de": "Ich habe Bauchweh, Herr Doktor.",
+    "zh": "我胃痛，醫生。",
+    "id": "1099267"
+  },
+  "Stockwerk": {
+    "de": "In welchem Stockwerk wohnst du?",
+    "zh": "你住在哪層樓？",
+    "id": "947032"
+  },
+  "Festplatte": {
+    "de": "Meine Festplatte ist fast voll.",
+    "zh": "我的硬盤快滿了。",
+    "id": "1440644"
+  },
+  "Botschaft": {
+    "de": "Wo ist die britische Botschaft?",
+    "zh": "英國大使館在哪裡？",
+    "id": "1764256"
+  },
+  "vorbereiten": {
+    "de": "Tom bereitete das Frühstück zu.",
+    "zh": "湯姆做了早餐。",
+    "id": "2245132"
+  },
+  "Geschirr": {
+    "de": "Wir waschen das Geschirr nicht.",
+    "zh": "我們不刷盤子。",
+    "id": "2864540"
+  },
+  "Nachbar": {
+    "de": "Der Nachbar hat nichts gesehen.",
+    "zh": "鄰居什麼都沒看到。",
+    "id": "4072894"
+  },
+  "Schweiz": {
+    "de": "Die Schweiz ist nicht Schweden.",
+    "zh": "瑞士不是瑞典。",
+    "id": "5066771"
+  },
+  "schenken": {
+    "de": "Ich werde Ihnen etwas schenken.",
+    "zh": "我會送您一份禮物。",
+    "id": "7448140"
+  },
+  "Kundin": {
+    "de": "Sie sind unsere sechste Kundin!",
+    "zh": "您是我們的第六位顧客。",
+    "id": "8653327"
+  },
+  "Jugend": {
+    "de": "Die Jugend ist unsere Hoffnung!",
+    "zh": "年輕人是我們的希望啊！",
+    "id": "10450626"
+  },
+  "Gang": {
+    "de": "Links ist ein versteckter Gang.",
+    "zh": "有個走廊藏在左邊。",
+    "id": "10631260"
+  },
+  "Kraftwerk": {
+    "de": "Hier ist ein Kraftwerk geplant.",
+    "zh": "這裡正在籌劃建設一座發電站。",
+    "id": "12574023"
+  },
+  "planen": {
+    "de": "Hier ist ein Kraftwerk geplant.",
+    "zh": "這裡正在籌劃建設一座發電站。",
+    "id": "12574023"
+  },
+  "Lage": {
+    "de": "Die Lage wird täglich schlimmer.",
+    "zh": "情況一天比一天差。",
+    "id": "1007989"
+  },
+  "aussprechen": {
+    "de": "Wie wird das Wort ausgesprochen?",
+    "zh": "這個詞怎麼發音？",
+    "id": "452587"
+  },
+  "anmachen": {
+    "de": "Kann ich den Fernseher anmachen?",
+    "zh": "我能開電視嗎？",
+    "id": "1344053"
+  },
+  "Unglück": {
+    "de": "Ein Unglück kommt selten allein.",
+    "zh": "禍不單行。",
+    "id": "371806"
+  },
+  "verbessern": {
+    "de": "Es hat sich nochmals verbessert.",
+    "zh": "它有了進一步的改善。",
+    "id": "10871771"
+  },
+  "Freundschaft": {
+    "de": "Was ist besser als Freundschaft?",
+    "zh": "還有什麼比友情更好呢？",
+    "id": "782057"
+  },
+  "Gegner": {
+    "de": "Sie haben den Gegner geschlagen.",
+    "zh": "他們戰勝了對手。",
+    "id": "10339391"
+  },
+  "Sportler": {
+    "de": "Ich bin ein schlechter Sportler.",
+    "zh": "我不擅長運動。",
+    "id": "1341904"
+  },
+  "übernachten": {
+    "de": "Er übernachtet bei seinem Onkel.",
+    "zh": "他在他舅舅那裡過夜。",
+    "id": "5638979"
+  },
+  "Software": {
+    "de": "Freie Software ist nicht gratis.",
+    "zh": "自由軟件不是免費軟件。",
+    "id": "10568204"
+  },
+  "Programm": {
+    "de": "Du verstehst das Programm nicht.",
+    "zh": "你不明白流程。",
+    "id": "8602969"
+  },
+  "Papiere": {
+    "de": "Ich habe meine Papiere verloren.",
+    "zh": "我的證件丟了。",
+    "id": "6060073"
+  },
+  "Erlebnis": {
+    "de": "Es war ein wundersames Erlebnis.",
+    "zh": "那是一種奇妙的體驗。",
+    "id": "9079658"
+  },
+  "verlieben": {
+    "de": "Waren Sie schon einmal verliebt?",
+    "zh": "你墜入愛河過嗎？",
+    "id": "8014523"
+  },
+  "bemerken": {
+    "de": "Ich bemerkte, dass Tom lächelte.",
+    "zh": "我注意到湯姆在笑。",
+    "id": "8572832"
+  },
+  "renovieren": {
+    "de": "Du musst dein Zimmer renovieren.",
+    "zh": "你需要裝修你的房間。",
+    "id": "9584341"
+  },
+  "Supermarkt": {
+    "de": "Bist du zum Supermarkt gegangen?",
+    "zh": "你去過超市了嗎？",
+    "id": "10103184"
+  },
+  "garantieren": {
+    "de": "Den Erfolg kann ich garantieren.",
+    "zh": "我可以確保成功。",
+    "id": "10485230"
+  },
+  "Rückfahrt": {
+    "de": "Hin- und Rückfahrt? Nur Hinfahrt.",
+    "zh": "往返嗎？是單程。",
+    "id": "373"
+  },
+  "ausmachen": {
+    "de": "Kann ich den Fernseher ausmachen?",
+    "zh": "我能關電視嗎？",
+    "id": "352520"
+  },
+  "entstehen": {
+    "de": "Wie ist das Universum entstanden?",
+    "zh": "宇宙是怎樣形成的？",
+    "id": "1419199"
+  },
+  "Gruppe": {
+    "de": "Jene Gruppe hat sechs Mitglieder.",
+    "zh": "那組有六個組員。",
+    "id": "2161134"
+  },
+  "herstellen": {
+    "de": "Papier wird aus Holz hergestellt.",
+    "zh": "紙是由木製成的。",
+    "id": "484797"
+  },
+  "Hamburger": {
+    "de": "Ich habe zwei Hamburger bestellt.",
+    "zh": "點了兩個漢堡。",
+    "id": "446134"
+  },
+  "akzeptieren": {
+    "de": "Sie hat sein Geschenk akzeptiert.",
+    "zh": "她收下了他的禮物。",
+    "id": "2228176"
+  },
+  "Erfahrung": {
+    "de": "Das war eine wertvolle Erfahrung.",
+    "zh": "那是一次寶貴的經驗。",
+    "id": "1733086"
+  },
+  "Lebenslauf": {
+    "de": "Ich pfeife auf meinen Lebenslauf.",
+    "zh": "我根本不在乎我的簡歷。",
+    "id": "1786323"
+  },
+  "entwickeln": {
+    "de": "China entwickelt sich zu schnell.",
+    "zh": "中國發展得太快了。",
+    "id": "849561"
+  },
+  "Kunststoff": {
+    "de": "Diese Kisten sind aus Kunststoff.",
+    "zh": "這些箱子是由塑料製成的。",
+    "id": "620938"
+  },
+  "Speisekarte": {
+    "de": "Könnte ich die Speisekarte haben?",
+    "zh": "請給我菜單。",
+    "id": "5449348"
+  },
+  "Vitamin": {
+    "de": "Orangen enthalten viel Vitamin C.",
+    "zh": "柳丁含有大量的維生素 C。",
+    "id": "1809267"
+  },
+  "Augenblick": {
+    "de": "Bleibst du hier einen Augenblick?",
+    "zh": "你可以待在這裡一會兒嗎？",
+    "id": "976628"
+  },
+  "Besserung": {
+    "de": "Ich wünsche dir rasche Besserung.",
+    "zh": "祝你早日痊癒!",
+    "id": "1304735"
+  },
+  "Möglichkeit": {
+    "de": "Es gibt keine andere Möglichkeit.",
+    "zh": "除此之外，別無辦法。",
+    "id": "1815793"
+  },
+  "Wiedersehen": {
+    "de": "Tom wollte auf Wiedersehen sagen.",
+    "zh": "湯姆想說聲再見。",
+    "id": "2433860"
+  },
+  "Ausbildung": {
+    "de": "Wer hat deine Ausbildung bezahlt?",
+    "zh": "誰付了你的教育費？",
+    "id": "3186432"
+  },
+  "überreden": {
+    "de": "Tom konnte Maria nicht überreden.",
+    "zh": "湯姆沒能說服瑪麗。",
+    "id": "4086071"
+  },
+  "besprechen": {
+    "de": "Das Problem wird jetzt besprochen.",
+    "zh": "這問題正在被討論。",
+    "id": "606003"
+  },
+  "Stewardess": {
+    "de": "Er hat eine Stewardess geheiratet.",
+    "zh": "他娶了一個空姐。",
+    "id": "734475"
+  },
+  "CD-Player": {
+    "de": "Diese Fabrik stellt CD-Player her.",
+    "zh": "這家工廠生產CD機。",
+    "id": "963160"
+  },
+  "Geldbörse": {
+    "de": "Ich habe meine Geldbörse verloren.",
+    "zh": "我掉了我的錢包。",
+    "id": "1293229"
+  },
+  "Visitenkarte": {
+    "de": "Schau, das ist meine Visitenkarte.",
+    "zh": "看，這是我的名片。",
+    "id": "8598836"
+  },
+  "Wunsch": {
+    "de": "Endlich wurde sein Wunsch erfüllt.",
+    "zh": "他終於如願以償了。",
+    "id": "608666"
+  },
+  "anschaffen": {
+    "de": "Amerika schaffte die Sklaverei ab.",
+    "zh": "美國廢除了奴隸制度。",
+    "id": "690832"
+  },
+  "Szene": {
+    "de": "Diese Szene gefällt mir besonders.",
+    "zh": "我特別喜歡這一幕。",
+    "id": "12425530"
+  },
+  "senden": {
+    "de": "Das Programm wird gerade gesendet.",
+    "zh": "那個節目現在正在播出。",
+    "id": "2477197"
+  },
+  "Haltestelle": {
+    "de": "Wie heißt die nächste Haltestelle?",
+    "zh": "下一個站叫什麼?",
+    "id": "2158348"
+  },
+  "Finger": {
+    "de": "Tom hat seinen Finger geschnitten.",
+    "zh": "湯姆切到了手指。",
+    "id": "10267261"
+  },
+  "anbieten": {
+    "de": "Das Dorf bietet kaum Unterhaltung.",
+    "zh": "村裡沒啥娛樂活動。",
+    "id": "9756855"
+  },
+  "Gewissen": {
+    "de": "Sam hatte ein schlechtes Gewissen.",
+    "zh": "山姆感到很內疚。",
+    "id": "9040700"
+  },
+  "wünschen": {
+    "de": "Ich wünschte, er schriebe häufiger.",
+    "zh": "我希望他來信更勤些。",
+    "id": "383212"
+  },
+  "Samstag": {
+    "de": "Gestern war Sonntag, nicht Samstag.",
+    "zh": "昨天是星期天，不是星期六。",
+    "id": "396186"
+  },
+  "Verlust": {
+    "de": "Sie müssen den Verlust ausgleichen.",
+    "zh": "您必須彌補損失。",
+    "id": "10190066"
+  },
+  "schweigen": {
+    "de": "Wir haben beschlossen zu schweigen.",
+    "zh": "我們決定要保持沉默。",
+    "id": "665751"
+  },
+  "Kindheit": {
+    "de": "Ich hatte eine glückliche Kindheit.",
+    "zh": "我的童年很快樂。",
+    "id": "715551"
+  },
+  "Gehalt": {
+    "de": "Sie beklagte mein niedriges Gehalt.",
+    "zh": "她抱怨我的薪水很低。",
+    "id": "10142247"
+  },
+  "Ausstellung": {
+    "de": "Die Ausstellung ist jetzt eröffnet.",
+    "zh": "展覽現在已經開放。",
+    "id": "1500377"
+  },
+  "mitmachen": {
+    "de": "Wir werden beim Marathon mitmachen.",
+    "zh": "我們將參加馬拉松。",
+    "id": "3004938"
+  },
+  "diskutieren": {
+    "de": "Ich will nicht darüber diskutieren.",
+    "zh": "我不想談論這件事。",
+    "id": "2217080"
+  },
+  "Unterstützung": {
+    "de": "Vielen Dank für eure Unterstützung.",
+    "zh": "我很感謝你們的幫助。",
+    "id": "4072585"
+  },
+  "Beschreibung": {
+    "de": "Diese Beschreibung ist zu abstrakt.",
+    "zh": "這個描述太抽象了。",
+    "id": "8636255"
+  },
+  "kleben": {
+    "de": "An Toms Schuhsohle klebte Kaugummi.",
+    "zh": "湯姆的鞋底粘了口香糖。",
+    "id": "8677418"
+  },
+  "Folge": {
+    "de": "Folge dem Beispiel deiner Schwester.",
+    "zh": "學學你姐姐。",
+    "id": "620346"
+  },
+  "Intelligenz": {
+    "de": "KI steht für Künstliche Intelligenz.",
+    "zh": "AI 代表人工智能。",
+    "id": "398639"
+  },
+  "Besprechung": {
+    "de": "Die Besprechung findet morgen statt.",
+    "zh": "會議將於明天舉行。",
+    "id": "656973"
+  },
+  "beschreiben": {
+    "de": "Er beschrieb den Unfall detailliert.",
+    "zh": "他詳細地描述了事故狀況。",
+    "id": "683967"
+  },
+  "Sicherheit": {
+    "de": "Sicherheit ist die wichtigste Sache.",
+    "zh": "安全是最重要的事情。",
+    "id": "8700772"
+  },
+  "Zeitschrift": {
+    "de": "Meine Mutter liest eine Zeitschrift.",
+    "zh": "我媽媽正在讀一本雜誌。",
+    "id": "1568835"
+  },
+  "Sendung": {
+    "de": "Diese Sendung ist eine Wiederholung.",
+    "zh": "這個節目是重播。",
+    "id": "2685307"
+  },
+  "Wiederholung": {
+    "de": "Diese Sendung ist eine Wiederholung.",
+    "zh": "這個節目是重播。",
+    "id": "2685307"
+  },
+  "Vertrag": {
+    "de": "Unterzeichnen Sie bitte den Vertrag.",
+    "zh": "請簽署契約。",
+    "id": "10830105"
+  },
+  "Werkzeug": {
+    "de": "Der Zimmermann brachte Werkzeug mit.",
+    "zh": "木匠帶了工具。",
+    "id": "10180924"
+  },
+  "aufnehmen": {
+    "de": "Ich habe unser Gespräch aufgenommen.",
+    "zh": "我錄下了我們的談話。",
+    "id": "7466836"
+  },
+  "Tatsache": {
+    "de": "Niemand kann diese Tatsache leugnen.",
+    "zh": "誰也不能否定其事實。",
+    "id": "7754885"
+  },
+  "Anmeldung": {
+    "de": "Funktioniert das auch ohne Anmeldung?",
+    "zh": "不註冊也行嗎？",
+    "id": "5974"
+  },
+  "reagieren": {
+    "de": "Säure reagiert chemisch mit Metallen.",
+    "zh": "酸會和金屬物質起化學反應。",
+    "id": "8726142"
+  },
+  "erfordern": {
+    "de": "Englisch lernen erfordert große Mühe.",
+    "zh": "學習英語很辛苦。",
+    "id": "8194190"
+  },
+  "Unternehmer": {
+    "de": "Er ist ein erfolgreicher Unternehmer.",
+    "zh": "他是個成功的商人。",
+    "id": "1687754"
+  },
+  "Ärger": {
+    "de": "Sein Ärger ist völlig unverständlich.",
+    "zh": "他的怒氣令人難以理解。",
+    "id": "5527048"
+  },
+  "beeinflussen": {
+    "de": "Das wird Algerien enorm beeinflussen.",
+    "zh": "這將會對阿爾及利亞產生巨大的影響。",
+    "id": "8560901"
+  },
+  "Minute": {
+    "de": "Jede Minute Verzögerung kostet Leben.",
+    "zh": "推遲的每一分鐘都是有生命代價的。",
+    "id": "10311713"
+  },
+  "Information": {
+    "de": "Das ist eine interessante Information.",
+    "zh": "這是條有趣的信息。",
+    "id": "437916"
+  },
+  "Unterschrift": {
+    "de": "Dieser Brief trägt keine Unterschrift.",
+    "zh": "這封信沒署名。",
+    "id": "460635"
+  },
+  "stattfinden": {
+    "de": "Die Zeremonie wird morgen stattfinden.",
+    "zh": "明天舉行典禮。",
+    "id": "632961"
+  },
+  "Station": {
+    "de": "Ich erreichte die Station rechtzeitig.",
+    "zh": "我準時到達了車站。",
+    "id": "670033"
+  },
+  "Karriere": {
+    "de": "Seine politische Karriere ist beendet.",
+    "zh": "他的政治生涯結束了。",
+    "id": "1516298"
+  },
+  "Bewegung": {
+    "de": "Johannes machte eine wütende Bewegung.",
+    "zh": "約翰做了個憤怒的動作。",
+    "id": "10135328"
+  },
+  "Verbrecher": {
+    "de": "Die Verbrecher planten einen Bankraub.",
+    "zh": "罪犯們密謀搶劫銀行。",
+    "id": "10087506"
+  },
+  "Überschrift": {
+    "de": "Das ist eine irreführende Überschrift.",
+    "zh": "這是一個誤導性的標題。",
+    "id": "10301422"
+  },
+  "bestätigen": {
+    "de": "Die Nachricht bestätigte meine Zweifel.",
+    "zh": "這一消息證實了我的懷疑。",
+    "id": "1929968"
+  },
+  "Halle": {
+    "de": "Diese Halle fasst zweitausend Personen.",
+    "zh": "這個廳可以接待2000人。",
+    "id": "344367"
+  },
+  "unterstützen": {
+    "de": "Mein Vater unterstützt mich finanziell.",
+    "zh": "我爸贊助我。",
+    "id": "413676"
+  },
+  "Mitternacht": {
+    "de": "Wir sind nach Mitternacht aufgestanden.",
+    "zh": "我們在午夜之後起床。",
+    "id": "427413"
+  },
+  "verbrauchen": {
+    "de": "Wir haben alle Bodenschätze verbraucht.",
+    "zh": "我們消耗了所有的自然資源。",
+    "id": "743756"
+  },
+  "Gebäck": {
+    "de": "Mondkuchen ist ein chinesisches Gebäck.",
+    "zh": "月餅是中國點心的一種。",
+    "id": "11668926"
+  },
+  "Krankenpfleger": {
+    "de": "Warum möchtest du Krankenpfleger werden?",
+    "zh": "你為什麼想成為護士呢？",
+    "id": "3661666"
+  },
+  "Literatur": {
+    "de": "Ihr Hauptfach ist Französische Literatur.",
+    "zh": "她的專業是法國的文學",
+    "id": "1562695"
+  },
+  "Schwimmbad": {
+    "de": "Das Schwimmbad ist öffentlich zugänglich.",
+    "zh": "泳池是對公眾開放的。",
+    "id": "2685155"
+  },
+  "anerkennen": {
+    "de": "Du solltest deinen Misserfolg anerkennen.",
+    "zh": "你應該承認自己的失敗。",
+    "id": "955639"
+  },
+  "greifen": {
+    "de": "Säure greift metallhaltige Gegenstände an.",
+    "zh": "酸性會腐蝕含有金屬的物質。",
+    "id": "524521"
+  },
+  "Erwachsene": {
+    "de": "Ich unterrichte Erwachsene in Französisch.",
+    "zh": "我教成年人法語。",
+    "id": "2453443"
+  },
+  "Wissenschaftlerin": {
+    "de": "Ich bin überhaupt keine Wissenschaftlerin.",
+    "zh": "我完全不是科學家。",
+    "id": "7774011"
+  },
+  "Süßigkeiten": {
+    "de": "Von Süßigkeiten bekomme ich Kopfschmerzen.",
+    "zh": "甜食使我頭疼。",
+    "id": "10061274"
+  },
+  "verwechseln": {
+    "de": "Verwechselt nicht Österreich und Australien.",
+    "zh": "不要把奧地利和澳大利亞混淆。",
+    "id": "358090"
+  },
+  "besichtigen": {
+    "de": "Ich besichtigte das Geburtshaus Shakespeares.",
+    "zh": "我到了莎士比亞出生的房子參觀。",
+    "id": "621999"
+  },
+  "Demokratie": {
+    "de": "Ist westliche Demokratie wirklich Demokratie?",
+    "zh": "西方民主是真正的民主嗎？",
+    "id": "9816589"
+  },
+  "Postleitzahl": {
+    "de": "Vergiss nicht, die Postleitzahl aufzuschreiben!",
+    "zh": "別忘了寫郵政編碼！",
+    "id": "1192066"
+  },
+  "Schutz": {
+    "de": "Kondome bieten Schutz vor Geschlechtskrankheiten.",
+    "zh": "避孕套可以預防性傳播疾病。",
+    "id": "1881354"
+  },
+  "Vorbereitung": {
+    "de": "Wir scheiterten wegen unzureichender Vorbereitung.",
+    "zh": "我們因缺乏準備而失敗了。",
+    "id": "2491264"
+  },
+  "Cafeteria": {
+    "de": "Eine Cafeteria ist ein Selbstbedienungsrestaurant.",
+    "zh": "自助餐廳是一種自助式的餐廳。",
+    "id": "10176962"
+  },
+  "zerstören": {
+    "de": "Diese geschichtsträchtige Examenshalle wurde zerstört.",
+    "zh": "這座有著悠久歷史的貢院被毀了。",
+    "id": "10162646"
+  },
+  "Pech": {
+    "de": "Was für ein Pech ich habe!",
+    "zh": "我真的很倒霉！",
+    "id": "394254"
+  },
+  "Topf": {
+    "de": "Die Möhren in den Topf tun.",
+    "zh": "把胡蘿蔔放在鍋裡。",
+    "id": "10558910"
+  },
+  "Wand": {
+    "de": "Das Bild hängt an der Wand.",
+    "zh": "畫掛在牆上。",
+    "id": "441647"
+  },
+  "Süden": {
+    "de": "Er muss aus dem Süden sein.",
+    "zh": "他肯定是南方人。",
+    "id": "1241520"
+  },
+  "Fax": {
+    "de": "Bitte sende es mir per Fax.",
+    "zh": "請把它傳真給我。",
+    "id": "1397848"
+  },
+  "Wecker": {
+    "de": "Du gehst mir auf den Wecker!",
+    "zh": "你氣死我了！",
+    "id": "975"
+  },
+  "üben": {
+    "de": "Ja, du musst jeden Tag üben.",
+    "zh": "是的，你需要每天練習。",
+    "id": "766613"
+  },
+  "Wolke": {
+    "de": "Es ist keine Wolke am Himmel.",
+    "zh": "天上沒有云。",
+    "id": "1350782"
+  },
+  "CD": {
+    "de": "Das ist meine CD, nicht wahr?",
+    "zh": "這是我的CD，不是嗎？",
+    "id": "650205"
+  },
+  "Notiz": {
+    "de": "Er steckte mir eine Notiz zu.",
+    "zh": "他悄悄地遞給我一張紙條。",
+    "id": "1522516"
+  },
+  "Grippe": {
+    "de": "Tom liegt mit Grippe im Bett.",
+    "zh": "湯姆得了流感躺在床上。",
+    "id": "1940974"
+  },
+  "Norden": {
+    "de": "Der Wind weht von Norden her.",
+    "zh": "風從北邊來。",
+    "id": "3048012"
+  },
+  "Rind": {
+    "de": "Ich mag Rind lieber als Lamm.",
+    "zh": "比起羊肉我更喜歡牛肉。",
+    "id": "9040744"
+  },
+  "Feier": {
+    "de": "Tom stahl sich auf die Feier.",
+    "zh": "湯姆偷溜進了派對。",
+    "id": "12427724"
+  },
+  "Form": {
+    "de": "Er ist in wirklich guter Form.",
+    "zh": "他狀態真的很好。",
+    "id": "383146"
+  },
+  "Hafen": {
+    "de": "Das Schiff ist jetzt im Hafen.",
+    "zh": "船現在在港口這邊。",
+    "id": "416796"
+  },
+  "Zahl": {
+    "de": "Die Zahl 2010 hat zwei Nullen.",
+    "zh": "2010這個數字裡有兩個零。",
+    "id": "682558"
+  },
+  "Vertrauen": {
+    "de": "Ich sage dir das im Vertrauen.",
+    "zh": "這個我只和你說哦。",
+    "id": "2297287"
+  },
+  "Bogen": {
+    "de": "Mach bitte einen Bogen um ihn.",
+    "zh": "請遠離他。",
+    "id": "9927419"
+  },
+  "Rezept": {
+    "de": "Das ist das Rezept meiner Oma.",
+    "zh": "這是我奶奶的食譜。",
+    "id": "10346436"
+  },
+  "Oma": {
+    "de": "Das ist das Rezept meiner Oma.",
+    "zh": "這是我奶奶的食譜。",
+    "id": "10346436"
+  },
+  "Stunde": {
+    "de": "Ich bin in einer Stunde zurück.",
+    "zh": "我會在一小時內回來。",
+    "id": "937282"
+  },
+  "sparen": {
+    "de": "Ich plane, mehr Geld zu sparen.",
+    "zh": "我打算存更多錢。",
+    "id": "10267249"
+  },
+  "Miete": {
+    "de": "Was kostet die Miete pro Monat?",
+    "zh": "一個月的租金多少？",
+    "id": "1097409"
+  },
+  "Ehe": {
+    "de": "Frage sie nicht nach ihrer Ehe!",
+    "zh": "不要問她任何有關婚姻的問題。",
+    "id": "3031230"
+  },
+  "Anzug": {
+    "de": "Er hat mir einen Anzug gemacht.",
+    "zh": "他給我做了套衣服。",
+    "id": "1314844"
+  },
+  "Vorwurf": {
+    "de": "Mach ihr das nicht zum Vorwurf.",
+    "zh": "別怪她。",
+    "id": "2034119"
+  },
+  "Mensa": {
+    "de": "Ich habe in der Mensa gegessen.",
+    "zh": "我是在食堂吃的飯。",
+    "id": "3947445"
+  },
+  "Kreuz": {
+    "de": "Diese Übung ist gut fürs Kreuz.",
+    "zh": "這項運動對下背部有益。",
+    "id": "6628502"
+  },
+  "Lippe": {
+    "de": "Du hast etwas auf deiner Lippe.",
+    "zh": "你的嘴唇上有東西。",
+    "id": "10734970"
+  },
+  "Wäsche": {
+    "de": "Nach der Wäsche in Form bringen.",
+    "zh": "洗後弄平。",
+    "id": "377"
+  },
+  "Gleis": {
+    "de": "Nimm irgendeinen Zug an Gleis 5.",
+    "zh": "到5號軌道乘隨便什麼火車。",
+    "id": "5294922"
+  },
+  "faxen": {
+    "de": "Könnten Sie mir die Karte faxen?",
+    "zh": "您能把地圖傳真給我嗎？",
+    "id": "9843636"
+  },
+  "Tafel": {
+    "de": "Schaut bitte alle auf die Tafel.",
+    "zh": "請大家看看黑板。",
+    "id": "393455"
+  },
+  "Zentrum": {
+    "de": "Er wohnte im Zentrum von London.",
+    "zh": "他住在倫敦市中心。",
+    "id": "741419"
+  },
+  "wandern": {
+    "de": "Ich wanderte allein in den Wald.",
+    "zh": "我自己走進了樹林裡。",
+    "id": "810161"
+  },
+  "Fliege": {
+    "de": "Im Zimmer ist eine große Fliege.",
+    "zh": "房間裡有隻大蒼蠅。",
+    "id": "5500009"
+  },
+  "benötigen": {
+    "de": "Tom benötigt die Hilfe von Mary.",
+    "zh": "湯姆需要瑪麗的幫助。",
+    "id": "6005404"
+  },
+  "Angebot": {
+    "de": "Wir nehmen dein Angebot gerne an.",
+    "zh": "我們很高興接受你的提議。",
+    "id": "338294"
+  },
+  "stoppen": {
+    "de": "Wie können wir den Krieg stoppen?",
+    "zh": "我們怎樣才能停止戰爭？",
+    "id": "383149"
+  },
+  "linken": {
+    "de": "Sie schreibt mit der linken Hand.",
+    "zh": "她用左手寫字。",
+    "id": "356533"
+  },
+  "Kapitel": {
+    "de": "Lasst uns mit Kapitel 1 beginnen.",
+    "zh": "從第一章開始吧。",
+    "id": "409100"
+  },
+  "Interesse": {
+    "de": "Er hat kein Interesse an Politik.",
+    "zh": "他對政治沒有興趣。",
+    "id": "438705"
+  },
+  "Erfindung": {
+    "de": "Die Liebe ist nur eine Erfindung.",
+    "zh": "愛不過是發明。",
+    "id": "10532903"
+  },
+  "einsteigen": {
+    "de": "Sie sind in den Zug eingestiegen.",
+    "zh": "她們上了火車。",
+    "id": "9182492"
+  },
+  "bewerben": {
+    "de": "Du kannst dich en masse bewerben.",
+    "zh": "你可以海投。",
+    "id": "10201046"
+  },
+  "Gewohnheit": {
+    "de": "Die Macht der Gewohnheit ist groß.",
+    "zh": "習慣的力量是偉大的。",
+    "id": "369560"
+  },
+  "Stress": {
+    "de": "Sie kann nicht mit Stress umgehen.",
+    "zh": "她無法應付壓力。",
+    "id": "543877"
+  },
+  "liefern": {
+    "de": "Wir können es heute Abend liefern.",
+    "zh": "我們今天晚上可以運送它。",
+    "id": "620167"
+  },
+  "Stoff": {
+    "de": "Dieser Stoff ist aus reiner Wolle.",
+    "zh": "這些布是全羊毛的。",
+    "id": "10711174"
+  },
+  "Stadtplan": {
+    "de": "Dies ist ein Stadtplan von Sendai.",
+    "zh": "這是一張仙台市的地圖。",
+    "id": "783367"
+  },
+  "Bürgerin": {
+    "de": "Ich bin eine Bürgerin von Sapporo.",
+    "zh": "我是札幌的市民。",
+    "id": "8080196"
+  },
+  "tauschen": {
+    "de": "Tauschen Sie bitte die Flagge aus.",
+    "zh": "請您把旗子換掉。",
+    "id": "8839385"
+  },
+  "Aushilfe": {
+    "de": "Sie stellte mich als Aushilfe ein.",
+    "zh": "她僱傭我來幫助她。",
+    "id": "10521009"
+  },
+  "Kosten": {
+    "de": "Wie sind die Kosten zu minimieren?",
+    "zh": "怎麼降低成本呢？",
+    "id": "10715396"
+  },
+  "Raucher": {
+    "de": "Mein Vater ist ein starker Raucher.",
+    "zh": "我爸爸吸菸很厲害。",
+    "id": "715241"
+  },
+  "Grundschule": {
+    "de": "Ich ging in Nagoya zur Grundschule.",
+    "zh": "我在名古屋讀的小學。",
+    "id": "404240"
+  },
+  "bremsen": {
+    "de": "Mit den Bremsen stimmt etwas nicht.",
+    "zh": "剎車出了問題。",
+    "id": "12491696"
+  },
+  "Schmerz": {
+    "de": "Ich halte diesen Schmerz nicht aus.",
+    "zh": "我無法忍受這個痛苦。",
+    "id": "934417"
+  },
+  "verbringen": {
+    "de": "Tom verbrachte viel Zeit mit Lesen.",
+    "zh": "湯姆花很多時間讀書。",
+    "id": "7635832"
+  },
+  "Geburtsort": {
+    "de": "Das ist der Geburtsort des Dichters.",
+    "zh": "這是這個詩人出生的村子。",
+    "id": "8746717"
+  },
+  "Bühne": {
+    "de": "Sind berühmte Musiker auf der Bühne?",
+    "zh": "舞臺上有著名音樂家嗎？",
+    "id": "8746726"
+  },
+  "Biene": {
+    "de": "Ich wurde von einer Biene gestochen.",
+    "zh": "我被蜜蜂蟄了一下。",
+    "id": "445285"
+  },
+  "stechen": {
+    "de": "Ich wurde von einer Biene gestochen.",
+    "zh": "我被蜜蜂蟄了一下。",
+    "id": "445285"
+  },
+  "Schalter": {
+    "de": "Bitte zahlen Sie an diesem Schalter.",
+    "zh": "請在這個櫃位付款。",
+    "id": "4755822"
+  },
+  "Ergebnis": {
+    "de": "Er ist mit dem Ergebnis unzufrieden.",
+    "zh": "他對結果不滿意。",
+    "id": "360617"
+  },
+  "klagen": {
+    "de": "Bauern klagen immer über das Wetter.",
+    "zh": "農民總是抱怨天氣。",
+    "id": "628844"
+  },
+  "Hütte": {
+    "de": "Die Hütte war sauber und ordentlich.",
+    "zh": "小屋乾淨又整潔。",
+    "id": "2422539"
+  },
+  "Flohmarkt": {
+    "de": "Lass uns morgen zum Flohmarkt gehen!",
+    "zh": "我們明天去跳蚤市場吧。",
+    "id": "2225374"
+  },
+  "Rabatt": {
+    "de": "Gibt es bei Barzahlung einen Rabatt?",
+    "zh": "用現金付的話會有折扣嗎?",
+    "id": "3421435"
+  },
+  "Juni": {
+    "de": "Heute ist der erste Juni: Kindertag.",
+    "zh": "今天是六一兒童節。",
+    "id": "10140376"
+  },
+  "Gericht": {
+    "de": "Das Gericht befand ihn für schuldig.",
+    "zh": "法院認為他有罪。",
+    "id": "4959556"
+  },
+  "Erinnerung": {
+    "de": "Ich werde es in Erinnerung behalten.",
+    "zh": "我會記得的。",
+    "id": "6081890"
+  },
+  "Steckdose": {
+    "de": "Steckt der Stecker in der Steckdose?",
+    "zh": "插頭插到插座裡了嗎？",
+    "id": "8813883"
+  },
+  "Autobahn": {
+    "de": "Der Unfall geschah auf der Autobahn.",
+    "zh": "事故發生在高速公路上。",
+    "id": "10101530"
+  },
+  "Haustier": {
+    "de": "Ich wollte schon immer ein Haustier.",
+    "zh": "我一直想養寵物。",
+    "id": "9493662"
+  },
+  "freihalten": {
+    "de": "Er hat mir einen Platz freigehalten.",
+    "zh": "他幫我佔了位子。",
+    "id": "11949170"
+  },
+  "vorkommen": {
+    "de": "Lass das nicht noch einmal vorkommen!",
+    "zh": "不要再讓這種事發生了！",
+    "id": "2023505"
+  },
+  "Formular": {
+    "de": "Bitte füllen Sie dieses Formular aus.",
+    "zh": "請填寫這份表格。",
+    "id": "368376"
+  },
+  "anschließen": {
+    "de": "Hast du dein Rad nicht angeschlossen?",
+    "zh": "你沒鎖好車子嗎？",
+    "id": "10258419"
+  },
+  "Aufgabe": {
+    "de": "Kein Lehrer konnte die Aufgabe lösen.",
+    "zh": "這道題目沒有一位老師會做。",
+    "id": "8927041"
+  },
+  "Nachfrage": {
+    "de": "Der Preis schwankt je nach Nachfrage.",
+    "zh": "價格根據需求變化。",
+    "id": "1000872"
+  },
+  "Erlaubnis": {
+    "de": "Er betrat mein Zimmer ohne Erlaubnis.",
+    "zh": "他未經允許進了我房間。",
+    "id": "642915"
+  },
+  "hoffen": {
+    "de": "Sie hofft, eine Designerin zu werden.",
+    "zh": "她希望成為一名設計師。",
+    "id": "842106"
+  },
+  "beraten": {
+    "de": "Ein wahrer Freund würde dich beraten.",
+    "zh": "真正的朋友能夠給予你忠告。",
+    "id": "1044031"
+  },
+  "Struktur": {
+    "de": "Die Struktur des Gehirns ist komplex.",
+    "zh": "頭腦的結構很複雜。",
+    "id": "1807939"
+  },
+  "Briefmarke": {
+    "de": "Eine Briefmarke zu achtzig Yen bitte.",
+    "zh": "我要一枚80日元的郵票。",
+    "id": "2901197"
+  },
+  "basteln": {
+    "de": "Sie bastelt in ihrer Freizeit Puppen.",
+    "zh": "有空的時候她做娃娃。",
+    "id": "8600973"
+  },
+  "runden": {
+    "de": "Wir haben einen runden Tisch gekauft.",
+    "zh": "我們買了張圓桌。",
+    "id": "7774025"
+  },
+  "Gewinn": {
+    "de": "Dieses Jahr werden wir Gewinn machen.",
+    "zh": "今年我們會盈利的。",
+    "id": "8509426"
+  },
+  "Pflanze": {
+    "de": "Diese Pflanze ist in Kanada heimisch.",
+    "zh": "這種植物原產於加拿大。",
+    "id": "8801228"
+  },
+  "Giraffe": {
+    "de": "Sie haben eine tote Giraffe gefunden.",
+    "zh": "他們發現了一具長頸鹿的屍體。",
+    "id": "10715366"
+  },
+  "Patient": {
+    "de": "Der Patient kann jeden Moment sterben.",
+    "zh": "病人隨時會死。",
+    "id": "3175801"
+  },
+  "Wetterbericht": {
+    "de": "Was sagt der Wetterbericht für morgen?",
+    "zh": "明天的天氣預報怎麼說？",
+    "id": "721361"
+  },
+  "Linie": {
+    "de": "Diese Linie stellt den Längengrad dar.",
+    "zh": "這條線代表經度。",
+    "id": "724859"
+  },
+  "Kritik": {
+    "de": "Der Reporter übte Kritik am Politiker.",
+    "zh": "記者批評了政治家。",
+    "id": "963765"
+  },
+  "Technologie": {
+    "de": "Was ist der Vorteil dieser Technologie?",
+    "zh": "這種科技的優勢是什麼？",
+    "id": "1009"
+  },
+  "Studium": {
+    "de": "Er konzentrierte sich auf sein Studium.",
+    "zh": "他專心於學習。",
+    "id": "371118"
+  },
+  "Einzelzimmer": {
+    "de": "Ich möchte ein Einzelzimmer mit Dusche.",
+    "zh": "我要一間有淋浴的單人間。",
+    "id": "2213392"
+  },
+  "Verein": {
+    "de": "Diesem Verein gehören 50 Mitglieder an.",
+    "zh": "這個俱樂部裡有50個會員。",
+    "id": "659159"
+  },
+  "Mittwoch": {
+    "de": "Sie ist seit vorigen Mittwoch abwesend.",
+    "zh": "從上週三起，她一直缺席。",
+    "id": "727224"
+  },
+  "Zeitpunkt": {
+    "de": "Zu diesem Zeitpunkt duschte ich gerade.",
+    "zh": "我當時在淋浴。",
+    "id": "794103"
+  },
+  "Stau": {
+    "de": "Ich wurde durch einen Stau aufgehalten.",
+    "zh": "我被交通堵塞耽擱了。",
+    "id": "7309952"
+  },
+  "Konkurrenz": {
+    "de": "Er wurde von der Konkurrenz abgeworben.",
+    "zh": "他被競爭公司挖去了。",
+    "id": "8682318"
+  },
+  "Zoll": {
+    "de": "Das Paket wurde vom Zoll beschlagnahmt.",
+    "zh": "包裹被海關扣了。",
+    "id": "8768958"
+  },
+  "Brötchen": {
+    "de": "Jetzt gibt es keine gedämpften Brötchen.",
+    "zh": "現在沒有饅頭。",
+    "id": "1047366"
+  },
+  "Donnerstag": {
+    "de": "Es regnet schon seit letztem Donnerstag.",
+    "zh": "從上週四開始一直下雨。",
+    "id": "818793"
+  },
+  "Journalist": {
+    "de": "Der Journalist arbeitet für die Zeitung.",
+    "zh": "這名記者供職於這家報紙。",
+    "id": "1848009"
+  },
+  "Margarine": {
+    "de": "Sie ersetzte die Butter durch Margarine.",
+    "zh": "她用人造黃油代替了黃油。",
+    "id": "2999308"
+  },
+  "verschreiben": {
+    "de": "Der Arzt hat Ihnen Medizin verschrieben.",
+    "zh": "醫生給您開了藥。",
+    "id": "3655666"
+  },
+  "ankündigen": {
+    "de": "Glockengeläut kündigte das neue Jahr an.",
+    "zh": "新年的鐘聲敲響了。",
+    "id": "10166786"
+  },
+  "Prozess": {
+    "de": "Der ganze Prozess dauert mehrere Monate.",
+    "zh": "整個過程需要耗費數月。",
+    "id": "8745803"
+  },
+  "Stimmung": {
+    "de": "Die angespannte Stimmung wühlte sie auf.",
+    "zh": "迫切的心情使她激動起來。",
+    "id": "10266527"
+  },
+  "verurteilen": {
+    "de": "Der Angeklagte wurde zum Tode verurteilt.",
+    "zh": "被告被判處了死刑。",
+    "id": "784126"
+  },
+  "Mehrheit": {
+    "de": "Demokratie ist die Diktatur der Mehrheit.",
+    "zh": "民主主義是多數選舉的獨裁。",
+    "id": "443239"
+  },
+  "Bekannte": {
+    "de": "Viele Freunde und Bekannte sind gekommen.",
+    "zh": "好多朋友和熟人來了。",
+    "id": "10266771"
+  },
+  "Batterie": {
+    "de": "Die Batterie meines MP3-Gerätes war leer.",
+    "zh": "我MP3播放器的電池沒電了。",
+    "id": "703758"
+  },
+  "Hausaufgabe": {
+    "de": "Diese Hausaufgabe ist schwierig für mich.",
+    "zh": "這個家庭作業對我來說很困難。",
+    "id": "2830642"
+  },
+  "Umzug": {
+    "de": "Der Umzug wird am Wochenende stattfinden.",
+    "zh": "在週末會開始搬家。",
+    "id": "5845669"
+  },
+  "Mittel": {
+    "de": "Das zehrte seine finanziellen Mittel auf.",
+    "zh": "這件事耗盡了他的財力。",
+    "id": "12254593"
+  },
+  "Landung": {
+    "de": "Das Flugzeug machte eine perfekte Landung.",
+    "zh": "這架飛機完美的著陸了。",
+    "id": "611236"
+  },
+  "Bereich": {
+    "de": "Wer ist verantwortlich für diesen Bereich?",
+    "zh": "誰負責這個部門？",
+    "id": "2667770"
+  },
+  "Umwelt": {
+    "de": "Fleischkonsum ist schlecht für die Umwelt.",
+    "zh": "吃肉對環境不利。",
+    "id": "10177066"
+  },
+  "Ingenieur": {
+    "de": "Ich habe beschlossen, Ingenieur zu werden.",
+    "zh": "我決定當個工程師。",
+    "id": "6974780"
+  },
+  "Großeltern": {
+    "de": "Lucy wurde von ihren Großeltern aufgezogen.",
+    "zh": "Lucy是被她的祖父母養大的。",
+    "id": "822237"
+  },
+  "Fremdsprache": {
+    "de": "Eine Fremdsprache zu lernen, ist schwierig.",
+    "zh": "學一門外語是很難的。",
+    "id": "353693"
+  },
+  "Forderung": {
+    "de": "Du hättest seine Forderung ablehnen sollen.",
+    "zh": "你應該拒絕他的提議的。",
+    "id": "496860"
+  },
+  "Zugang": {
+    "de": "Er hat Zugang zur amerikanischen Botschaft.",
+    "zh": "他有權出入美國大使館。",
+    "id": "636671"
+  },
+  "fordern": {
+    "de": "Sie fordern eine Verkürzung der Arbeitszeit.",
+    "zh": "他們要求減少工作時間。",
+    "id": "369750"
+  },
+  "Angestellte": {
+    "de": "Haben Sie Angestellte, die Japanisch können?",
+    "zh": "您有會講日語的員工嗎？",
+    "id": "10473283"
+  },
+  "Doppelzimmer": {
+    "de": "Ich hätte gerne ein günstigeres Doppelzimmer.",
+    "zh": "我想要更便宜點的雙人間。",
+    "id": "617815"
+  },
+  "Übersetzung": {
+    "de": "Die Übersetzung dieses Satzes ist misslungen.",
+    "zh": "這句話的譯文翻譯的很不好。",
+    "id": "1125905"
+  },
+  "Verletzung": {
+    "de": "Die Verletzung heilte schneller als erwartet.",
+    "zh": "傷口好得比想象的快。",
+    "id": "3379842"
+  },
+  "Wettervorhersage": {
+    "de": "Laut Wettervorhersage wird es morgen schneien.",
+    "zh": "天氣預報說明天會下雪。",
+    "id": "353762"
+  },
+  "Verwandte": {
+    "de": "Ameisen und Giraffen sind entfernte Verwandte.",
+    "zh": "螞蟻和長頸鹿是遠親。",
+    "id": "10905712"
+  },
+  "Wettbewerb": {
+    "de": "Er wird möglicherweise den Wettbewerb gewinnen.",
+    "zh": "他有可能贏得比賽。",
+    "id": "7764906"
+  },
+  "Mangel": {
+    "de": "Wer nicht verschwendet, erleidet keinen Mangel.",
+    "zh": "不浪費則不匱乏。",
+    "id": "756099"
+  },
+  "Sportart": {
+    "de": "Sumo ist eine traditionell japanische Sportart.",
+    "zh": "相撲是日本傳統的體育活動。",
+    "id": "3963380"
+  },
+  "Fußballmannschaft": {
+    "de": "Eine Fußballmannschaft besteht aus elf Spielern.",
+    "zh": "一個足球隊由十一個球員組成。",
+    "id": "747150"
+  },
+  "Regierung": {
+    "de": "Die kolumbianische Regierung verlangte mehr Geld.",
+    "zh": "哥倫比亞政府要了更多的錢。",
+    "id": "1047106"
+  },
+  "Feiertag": {
+    "de": "Nächsten Donnerstag ist ein gesetzlicher Feiertag.",
+    "zh": "下星期四是公定假日。",
+    "id": "10190111"
+  },
+  "Note": {
+    "de": "Er bekommt bestenfalls eine durchschnittliche Note.",
+    "zh": "他將得到最高的平均分。",
+    "id": "363363"
+  },
+  "Arbeitslosigkeit": {
+    "de": "Schwerpunkt der Diskussion war die Arbeitslosigkeit.",
+    "zh": "討論的重點是失業問題。",
+    "id": "9708290"
+  },
+  "feststellen": {
+    "de": "Bei ihr wurde eine Bindehautentzündung festgestellt.",
+    "zh": "她被查出有結膜炎。",
+    "id": "10166806"
+  },
+  "protestieren": {
+    "de": "Die amerikanischen Arbeiter begannen zu protestieren.",
+    "zh": "美國的工人開始抗議。",
+    "id": "989678"
+  },
+  "Entwicklung": {
+    "de": "Versucht Frankreich, Algeriens Entwicklung zu verhindern?",
+    "zh": "法國是在試圖壓制阿爾及利亞的發展嗎？",
+    "id": "8560910"
+  },
+  "Oper": {
+    "de": "Maria lud Tom in die Oper ein.",
+    "zh": "瑪麗邀請湯姆去欣賞歌劇。",
+    "id": "2554502"
+  },
+  "Hörer": {
+    "de": "Ich hielt den Hörer an mein Ohr.",
+    "zh": "我把聽筒放到了耳邊。",
+    "id": "798477"
+  },
+  "Socke": {
+    "de": "Du hast ein Loch in deiner Socke.",
+    "zh": "你的襪子上有個洞。",
+    "id": "3878434"
+  },
+  "anmelden": {
+    "de": "Sue meldete sich im Royal Hotel an.",
+    "zh": "蘇在皇家飯店登記投宿。",
+    "id": "925063"
+  },
+  "Rentner": {
+    "de": "Er hat keine Arbeit, er ist Rentner.",
+    "zh": "他沒有工作，他退休了。",
+    "id": "466664"
+  },
+  "Februar": {
+    "de": "Ich bin am 14. Februar 1960 geboren.",
+    "zh": "我出生於1960年2月14日。",
+    "id": "656908"
+  },
+  "Amt": {
+    "de": "Er muss aus dem Amt entfernt werden.",
+    "zh": "他必須被免職。",
+    "id": "6106655"
+  },
+  "Schüssel": {
+    "de": "Hast du eine Schüssel für die Suppe?",
+    "zh": "你有碗盛湯嗎？",
+    "id": "9137523"
+  },
+  "tippen": {
+    "de": "Ich kann 50 Wörter pro Minute tippen.",
+    "zh": "我每分鐘能打五十個英文字。",
+    "id": "370178"
+  },
+  "Summe": {
+    "de": "Sie hatte nur eine kleine Summe Geld.",
+    "zh": "她當時只有一丁點兒錢。",
+    "id": "593141"
+  },
+  "Ring": {
+    "de": "Um Mitternacht gab er mir einen Ring.",
+    "zh": "他半夜給了我一枚戒指。",
+    "id": "791885"
+  },
+  "Plakat": {
+    "de": "Er hielt an, um das Plakat anzusehen.",
+    "zh": "他停下腳步看起海報。",
+    "id": "1519615"
+  },
+  "erkundigen": {
+    "de": "Hast du dich nach dem Preis erkundigt?",
+    "zh": "你問了價錢嗎？",
+    "id": "4272746"
+  },
+  "Tal": {
+    "de": "Hinter dem Hügel liegt ein schönes Tal.",
+    "zh": "小山後面有個美麗的山谷。",
+    "id": "2521786"
+  },
+  "Vergleich": {
+    "de": "Im Vergleich zu Tokio ist London klein.",
+    "zh": "和東京比，倫敦很小。",
+    "id": "772275"
+  },
+  "Gebiet": {
+    "de": "He, Lausbub! Das hier ist unser Gebiet!",
+    "zh": "喂，小鬼！這裡是我們的地盤！",
+    "id": "816160"
+  },
+  "Fan": {
+    "de": "Sie ist ein Fan der italienischen Oper.",
+    "zh": "她是意大利歌劇的粉絲。",
+    "id": "2266393"
+  },
+  "Geburt": {
+    "de": "Dieses Mädchen war von Geburt an blind.",
+    "zh": "那女孩先天失明。",
+    "id": "5527136"
+  },
+  "Reparatur": {
+    "de": "Das Auto ist keine Reparatur mehr wert.",
+    "zh": "這車不值得修了。",
+    "id": "10203136"
+  },
+  "ausrichten": {
+    "de": "Ich richtete meine Pistole auf das Ziel.",
+    "zh": "我把我的手槍指向了目標。",
+    "id": "1407037"
+  },
+  "Beziehung": {
+    "de": "Ich weiß gar nichts über ihre Beziehung.",
+    "zh": "我對他們的關係一無所知。",
+    "id": "918576"
+  },
+  "Kartoffel": {
+    "de": "Seine Nase sieht aus wie eine Kartoffel.",
+    "zh": "他的鼻子看起來像土豆。",
+    "id": "7780526"
+  },
+  "zelten": {
+    "de": "Tom hat keine Freunde, die gerne zelten.",
+    "zh": "湯姆沒有喜歡露營的朋友。",
+    "id": "8936057"
+  },
+  "mitkommen": {
+    "de": "Möchtest du, dass wir mit dir mitkommen?",
+    "zh": "你希望我們和你一起去嗎？",
+    "id": "10735872"
+  },
+  "vergleichen": {
+    "de": "Du kannst dich nicht mit mir vergleichen.",
+    "zh": "你不如我。",
+    "id": "10558797"
+  },
+  "ordnen": {
+    "de": "Wir haben die Bücher nach Größe geordnet.",
+    "zh": "我們把書跟從大小排列。",
+    "id": "604936"
+  },
+  "Urteil": {
+    "de": "Wir können uns auf sein Urteil verlassen.",
+    "zh": "我們可以信賴他的判斷。",
+    "id": "1226158"
+  },
+  "Getränk": {
+    "de": "Bleib bei einem Getränk zusammen mit uns.",
+    "zh": "留下來和我們一起喝酒吧。",
+    "id": "1883188"
+  },
+  "Mitschüler": {
+    "de": "Mögen Sie die Mitschüler in Ihrer Klasse?",
+    "zh": "您喜歡班裡的同學嗎？",
+    "id": "8839484"
+  },
+  "Länge": {
+    "de": "Die Länge dieses Schiffs beträgt 30 Meter.",
+    "zh": "這艘船的長度是30米。",
+    "id": "719872"
+  },
+  "Schuh": {
+    "de": "Der Kaugummi blieb an seinem Schuh kleben.",
+    "zh": "口香糖粘到他的鞋子上了。",
+    "id": "8941978"
+  },
+  "Generation": {
+    "de": "Er ist der Führer der nächsten Generation.",
+    "zh": "他是下一代人的領袖。",
+    "id": "10366598"
+  },
+  "Kurs": {
+    "de": "Ich werde mich in diesen Kurs einschreiben.",
+    "zh": "我會註冊那個班的。",
+    "id": "7481723"
+  },
+  "Bar": {
+    "de": "Die Tänzerinnen in der Bar sind unattraktiv.",
+    "zh": "酒吧裡的舞女不性感。",
+    "id": "8589393"
+  },
+  "Tankstelle": {
+    "de": "Lass uns an der nächsten Tankstelle anhalten.",
+    "zh": "我們在下個加油站停一下。",
+    "id": "484259"
+  },
+  "übernehmen": {
+    "de": "Er hat das Geschäft seines Vaters übernommen.",
+    "zh": "他接手了他父親的公司。",
+    "id": "477556"
+  },
+  "Ozean": {
+    "de": "Welcher Ozean ist zwischen China und Amerika?",
+    "zh": "中國與美國隔著哪個大洋？",
+    "id": "4558485"
+  },
+  "Semester": {
+    "de": "Dieses Semester habe ich kaum Physik gelernt.",
+    "zh": "我這學期幾乎沒學物理。",
+    "id": "9843541"
+  },
+  "Eisenbahn": {
+    "de": "Meine Großmutter fährt gern mit der Eisenbahn.",
+    "zh": "我奶奶喜歡坐火車旅行。",
+    "id": "707553"
+  },
+  "Jugendliche": {
+    "de": "Der Jugendliche, der spricht, ist mein Bruder.",
+    "zh": "那個說話的小孩是我弟弟。",
+    "id": "845010"
+  },
+  "Architekt": {
+    "de": "Ein berühmter Architekt hat dieses Haus gebaut.",
+    "zh": "一個有名的建築師造了這個房子。",
+    "id": "348152"
+  },
+  "empfangen": {
+    "de": "Diese Familie hat mich sehr herzlich empfangen.",
+    "zh": "這個家庭熱情地接待了我。",
+    "id": "1507926"
+  },
+  "Swimmingpool": {
+    "de": "Du kannst den Swimmingpool des Hotels benutzen.",
+    "zh": "你可以使用旅館的游泳池。",
+    "id": "1862246"
+  },
+  "Beschäftigung": {
+    "de": "Ich finde bestimmt eine Beschäftigung für dich.",
+    "zh": "我確定我能找點給你做的事。",
+    "id": "3864767"
+  },
+  "Protest": {
+    "de": "Der Hund blieb stehen, anscheinend aus Protest.",
+    "zh": "狗停下了腳步，好像在抗議。",
+    "id": "12440651"
+  },
+  "Nagel": {
+    "de": "Der Autoreifen wurde von einem Nagel durchbohrt.",
+    "zh": "車胎被釘子刺穿了。",
+    "id": "1392579"
+  },
+  "Postkarte": {
+    "de": "Meine Eltern haben mir eine Postkarte geschickt.",
+    "zh": "我父母給我寄了一張明信片。",
+    "id": "8501598"
+  },
+  "markieren": {
+    "de": "Das markiert einen Wendepunkt in der Geschichte.",
+    "zh": "這是一個歷史的轉折點。",
+    "id": "6005418"
+  },
+  "Minister": {
+    "de": "Einige Minister ersuchten bei Hofe um Erlaubnis.",
+    "zh": "幾位大臣奏請朝廷的準許。",
+    "id": "10250060"
+  },
+  "Kaufhaus": {
+    "de": "Vor dem Kaufhaus befindet sich eine Buchhandlung.",
+    "zh": "百貨商店前有個書店。",
+    "id": "1766795"
+  },
+  "Zustand": {
+    "de": "Sein Zustand verschlechterte sich mit jedem Tage.",
+    "zh": "他的身體狀況每況愈下。",
+    "id": "3135609"
+  },
+  "Symbol": {
+    "de": "Das chemische Symbol „H“ steht für „Wasserstoff“.",
+    "zh": "化學符號“H”表示氫。",
+    "id": "6713541"
+  },
+  "Kompromiss": {
+    "de": "Schließlich einigten wir uns auf einen Kompromiss.",
+    "zh": "最後我們達成了協議。",
+    "id": "1070986"
+  },
+  "Krise": {
+    "de": "Algerien befindet sich in einer politischen Krise.",
+    "zh": "阿爾及利亞正處於政治危機中。",
+    "id": "8558752"
+  },
+  "Bikini": {
+    "de": "Judy entschied sich, ihren neuen Bikini anzuziehen.",
+    "zh": "朱迪決定穿上她的新比基尼。",
+    "id": "9949228"
+  },
+  "begegnen": {
+    "de": "Wir müssen lernen, Widrigkeiten anmutig zu begegnen.",
+    "zh": "我們必須學會優雅地面對逆境。",
+    "id": "791"
+  },
+  "pflegen": {
+    "de": "Gute Angewohnheiten werden von Kindheit an gepflegt.",
+    "zh": "好習慣是從小養成的。",
+    "id": "8342100"
+  },
+  "Garantie": {
+    "de": "Wir geben unseren Produkten eine einjährige Garantie.",
+    "zh": "我們保證我們的產品一年。",
+    "id": "1408193"
+  },
+  "Ehefrau": {
+    "de": "Ich will keine Ehefrau, sondern eine Sexbekanntschaft.",
+    "zh": "我不是想要老婆，我想找個炮友而已。",
+    "id": "932940"
+  },
+  "Änderung": {
+    "de": "Jede kleinste Änderung muss genau dokumentiert werden.",
+    "zh": "所有改動，不論多小，都需要被完善地紀錄下來。",
+    "id": "2775894"
+  },
+  "Konflikt": {
+    "de": "Diplomatischer Austausch half, den Konflikt zu beenden.",
+    "zh": "外交談判幫助結束了衝突。",
+    "id": "7523583"
+  },
+  "Organisation": {
+    "de": "Die Organisation versorgte die Flüchtlinge mit Nahrung.",
+    "zh": "那個團體為難民們提供食品供給。",
+    "id": "399651"
+  },
+  "Gewerkschaft": {
+    "de": "Hat die Gewerkschaft an der Demonstration teilgenommen?",
+    "zh": "工會參加了示威遊行嗎？",
+    "id": "3060051"
+  },
+  "Fußgänger": {
+    "de": "Bei Grün müssen abbiegende Autos Fußgänger vorbeilassen.",
+    "zh": "綠燈時，拐彎車要讓人。",
+    "id": "4228991"
+  },
+  "Obergeschoss": {
+    "de": "Die Damentoilette befindet sich im zweiten Obergeschoss.",
+    "zh": "女廁所在三樓。",
+    "id": "2615519"
+  },
+  "Erklärung": {
+    "de": "Ich würde gerne meine vorhergehende Erklärung widerrufen.",
+    "zh": "我想撤回我之前的陳述。",
+    "id": "781"
+  },
+  "Geschwister": {
+    "de": "Die jüngsten Geschwister sind gewöhnlich die hübschesten.",
+    "zh": "最小的兄弟姐妹一般都最漂亮。",
+    "id": "1802606"
+  },
+  "Reihenfolge": {
+    "de": "Die Bücher waren in alphabetischer Reihenfolge angeordnet.",
+    "zh": "書是按字母排序的。",
+    "id": "2501659"
+  },
+  "Grenze": {
+    "de": "Meine Freundin wohnt an der schweizerisch-deutschen Grenze.",
+    "zh": "我的朋友住在瑞士與德國邊境附近。",
+    "id": "9974572"
+  },
+  "Anschluss": {
+    "de": "Entschuldigung, dieser Anschluss ist vorübergehend nicht erreichbar.",
+    "zh": "對不起，您撥打的用戶暫時無法接通。",
+    "id": "10135513"
+  },
+  "erleben": {
+    "de": "So böse habe ich Tom noch nie erlebt.",
+    "zh": "那是我第一次見到湯姆如此生氣。",
+    "id": "3100024"
+  },
+  "Mitte": {
+    "de": "Der Tiger lag in der Mitte des Käfigs.",
+    "zh": "老虎躺在籠子的中間。",
+    "id": "341225"
+  },
+  "Titel": {
+    "de": "Was für einen Titel hat dein neues Buch?",
+    "zh": "你新書的書名是什麼？",
+    "id": "6856210"
+  },
+  "Abbildung": {
+    "de": "Was ich mag ist nicht nur eine Abbildung.",
+    "zh": "我喜歡的不只一幅插圖。",
+    "id": "4657793"
+  },
+  "rechnen": {
+    "de": "Ich kann nicht so schnell rechnen wie er.",
+    "zh": "我沒法算得跟他一樣快。",
+    "id": "994044"
+  },
+  "Anspruch": {
+    "de": "Wie viel Zeit wird es in Anspruch nehmen?",
+    "zh": "會花多長時間呢？",
+    "id": "3379227"
+  },
+  "Gymnasium": {
+    "de": "Warst du dick, als du im Gymnasium warst?",
+    "zh": "你在高中的時候胖嗎？",
+    "id": "9976204"
+  },
+  "Verdacht": {
+    "de": "Ich habe den Verdacht, dass er Anwalt ist.",
+    "zh": "我懷疑他是一名律師。",
+    "id": "9194131"
+  },
+  "Inhalt": {
+    "de": "Der Inhalt der Kiste steht auf dem Etikett.",
+    "zh": "箱子的內容在標籤上面寫著。",
+    "id": "1545081"
+  },
+  "Neffe": {
+    "de": "Er ist nicht mein Sohn, sondern mein Neffe.",
+    "zh": "他不是我兒子，是我侄子。",
+    "id": "470021"
+  },
+  "notieren": {
+    "de": "Die Firma ist an der Pariser Börse notiert.",
+    "zh": "這家公司在巴黎證券交易所上市了。",
+    "id": "10140360"
+  },
+  "Gegenteil": {
+    "de": "Im Gegenteil, so etwas habe ich nie gesagt.",
+    "zh": "正好相反，我從沒說過這樣的話。",
+    "id": "1401119"
+  },
+  "Jugendherberge": {
+    "de": "Gibt es hier in der Nähe eine Jugendherberge?",
+    "zh": "附近有沒有青年旅舍？",
+    "id": "467"
+  },
+  "Spot": {
+    "de": "Der Hund wird von der Familie \"Spot\" genannt.",
+    "zh": "這條狗被這家人叫做“Spot”。",
+    "id": "807822"
+  },
+  "hängen": {
+    "de": "Die Blumen im Garten ließen die Köpfe hängen.",
+    "zh": "花園中一片花枝累垂的樣子。",
+    "id": "10075090"
+  },
+  "losfahren": {
+    "de": "Wäre es nicht besser, wenn wir früh losfahren?",
+    "zh": "我們早點走不是更好嗎？",
+    "id": "400254"
+  },
+  "Praxis": {
+    "de": "Theorie und Praxis sollten Hand in Hand gehen.",
+    "zh": "理論得聯繫實際。",
+    "id": "361493"
+  },
+  "Ordner": {
+    "de": "In welchen Ordner hast du die Datei gespeichert?",
+    "zh": "你把文件存到哪個文件夾了?",
+    "id": "5977"
+  },
+  "speichern": {
+    "de": "In welchen Ordner hast du die Datei gespeichert?",
+    "zh": "你把文件存到哪個文件夾了?",
+    "id": "5977"
+  },
+  "trocknen": {
+    "de": "Er hat seine nassen Kleider am Feuer getrocknet.",
+    "zh": "他在火旁烘乾他的溼衣服。",
+    "id": "1040037"
+  },
+  "Apotheke": {
+    "de": "Die Apotheke liegt in der Nähe des Krankenhauses.",
+    "zh": "藥局在醫院附近。",
+    "id": "1276602"
+  },
+  "Bahnsteig": {
+    "de": "Ein kalter Wind blies über den offenen Bahnsteig.",
+    "zh": "一陣冷風吹過了露天的站臺。",
+    "id": "4820642"
+  },
+  "Zutaten": {
+    "de": "Erbsen und Karotten sind übliche Zutaten in Suppen.",
+    "zh": "豌豆和胡蘿蔔是做湯的常見配料。",
+    "id": "709759"
+  },
+  "Verhältnis": {
+    "de": "Ich habe ein besonderes Verhältnis zu meiner Tante.",
+    "zh": "我和我阿姨有種特別的情誼。",
+    "id": "748364"
+  },
+  "Beratung": {
+    "de": "Das Parlament befindet sich gerade in der Beratung.",
+    "zh": "國會已經在討論了。",
+    "id": "783030"
+  },
+  "Kalender": {
+    "de": "Im spanischen Kalender beginnt die Woche am Montag.",
+    "zh": "在西班牙日曆中，一週的開始是週一。",
+    "id": "2092831"
+  },
+  "Wurst": {
+    "de": "Hast du jemals gesehen, wie Wurst hergestellt wird?",
+    "zh": "你見過灌腸的做法嗎？",
+    "id": "10161831"
+  },
+  "Bewohner": {
+    "de": "Nachdem die Bewohner verstarben, steht das Haus leer.",
+    "zh": "居民走後，房子就空了。",
+    "id": "5133716"
+  },
+  "Vorname": {
+    "de": "In Frankreich steht der Vorname vor dem Familiennamen.",
+    "zh": "在法國，名放在姓前面。",
+    "id": "2085924"
+  },
+  "Bestätigung": {
+    "de": "Mach keine Änderungen, bevor du eine Bestätigung hast!",
+    "zh": "在得到確認之前不要進行任何修改。",
+    "id": "9591652"
+  },
+  "Kontakt": {
+    "de": "Japan musste mit westlichen Staaten in Kontakt treten.",
+    "zh": "日本有必要和西方各國接觸。",
+    "id": "8835820"
+  },
+  "hinterlassen": {
+    "de": "Er hat seiner Tochter ein großes Vermögen hinterlassen.",
+    "zh": "他留給他女兒一大筆財產。",
+    "id": "8030431"
+  },
+  "installieren": {
+    "de": "Der Mann versuchte, eine eigene Antenne zu installieren.",
+    "zh": "這男人試著安裝他自己的天線。",
+    "id": "1938035"
+  },
+  "Hauptbahnhof": {
+    "de": "Wie kommt man am angenehmsten zum Tōkyōter Hauptbahnhof?",
+    "zh": "去東京站怎麼走最方便？",
+    "id": "5649686"
+  },
+  "Produktion": {
+    "de": "Die industrielle Produktion ist im Juli stark gestiegen.",
+    "zh": "7月份工業生產大幅增長。",
+    "id": "8969577"
+  },
+  "Gewalt": {
+    "de": "Der Lehnsherr hatte absolute Gewalt über seine Untertanen.",
+    "zh": "領主對他的臣民有絕對權力。",
+    "id": "8538140"
+  },
+  "Verkehr": {
+    "de": "Durch einen Erdrutsch ist der Verkehr unterbrochen worden.",
+    "zh": "交通被山崩所阻斷。",
+    "id": "557889"
+  },
+  "Tätigkeit": {
+    "de": "Sie engagierte sich sehr in ihrer ehrenamtlichen Tätigkeit.",
+    "zh": "她熱忱地投身於這份光榮的事業。",
+    "id": "371217"
+  },
+  "Diplom": {
+    "de": "Dieses Diplom ermöglicht dir eine Anstellung als Ingenieur.",
+    "zh": "這文憑能讓你獲得工程師的職位。",
+    "id": "10218719"
+  },
+  "hageln": {
+    "de": "Auf die strengen ökonomischen Einschränkungen hagelt es Kritik.",
+    "zh": "對嚴格限制經濟的批評蜂擁而來。",
+    "id": "7548709"
+  },
+  "Vertreter": {
+    "de": "Dieser Politiker ist ein würdiger Vertreter der Toskana-Fraktion.",
+    "zh": "這箇政客是典型的香檳社會主義者。",
+    "id": "432760"
+  },
+  "Faktor": {
+    "de": "Selbstvertrauen ist der wichtigste Faktor jedes großen Vorhabens.",
+    "zh": "自信是偉大事業的第一要素。",
+    "id": "10177124"
+  },
+  "bearbeiten": {
+    "de": "Diese Schüler haben ihre Hausaufgaben nicht sorgfältig bearbeitet.",
+    "zh": "這幾個學生都沒有認真做作業。",
+    "id": "10260643"
+  },
+  "Bedienungsanleitung": {
+    "de": "Ich habe die Bedienungsanleitung von meinem Dampfkochtopf verloren.",
+    "zh": "我找不著我的高壓鍋的使用手冊。",
+    "id": "367540"
+  },
+  "Mitarbeiter": {
+    "de": "Unsere Mitarbeiter werden Sie innerhalb dreier Werktage kontaktieren.",
+    "zh": "我們的工作人員會在三個工作日內聯繫您。",
+    "id": "10113048"
+  },
+  "Gasthaus": {
+    "de": "Er ist Kellner in einem Gasthaus an der Küste.",
+    "zh": "他是一家海濱餐廳的服務員。",
+    "id": "789424"
+  },
+  "Praktikum": {
+    "de": "Ich bewarb mich um ein Praktikum für den Sommer.",
+    "zh": "我應徵了一個暑期實習。",
+    "id": "718380"
+  },
+  "Bildschirm": {
+    "de": "Es war nur ein kurzes Flackern auf dem Bildschirm.",
+    "zh": "只是在屏幕上閃了一下。",
+    "id": "12087998"
+  },
+  "einfügen": {
+    "de": "Ich habe hier ein Komma eingefügt. Ist das richtig?",
+    "zh": "我在這加了個逗號，對嗎？",
+    "id": "3549776"
+  },
+  "anwenden": {
+    "de": "Man darf diese Regel nicht in allen Fällen anwenden.",
+    "zh": "你不能把這規則應用在所有事上。",
+    "id": "349833"
+  },
+  "berechnen": {
+    "de": "Was ist die Formel, um die Kreisfläche zu berechnen?",
+    "zh": "圓的面積計算公式是什麼？",
+    "id": "9962556"
+  },
+  "Club": {
+    "de": "Unser Club hat dreimal so viele Mitglieder wie eurer.",
+    "zh": "我們的俱樂部的人數比你們多三倍。",
+    "id": "1045324"
+  },
+  "Öffentlichkeit": {
+    "de": "Sie ist es gewohnt, in der Öffentlichkeit zu sprechen.",
+    "zh": "她習慣在公開場合說話。",
+    "id": "679900"
+  },
+  "ausstellen": {
+    "de": "Ich habe kein Bargeld, kann ich einen Scheck ausstellen?",
+    "zh": "我沒現金，寫張支票可以嗎？",
+    "id": "2880505"
+  },
+  "umtauschen": {
+    "de": "Ich würde gerne diese Uhr gegen eine billigere umtauschen.",
+    "zh": "我想用這塊手錶換一塊便宜一點的。",
+    "id": "344468"
+  },
+  "Flöte": {
+    "de": "Ich würde gerne Klavier, Gitarre oder Flöte spielen lernen.",
+    "zh": "我想學鋼琴，吉它或長笛。",
+    "id": "814924"
+  },
+  "Voraussetzung": {
+    "de": "Also ist Freundschaft auch eine Voraussetzung für das Glück.",
+    "zh": "所以，友情也是幸福的一個要素。",
+    "id": "916002"
+  },
+  "Haushalt": {
+    "de": "Heutzutage hat fast jeder Haushalt einen oder zwei Fernseher.",
+    "zh": "現在幾乎每家每戶也有一兩臺電視機了。",
+    "id": "489560"
+  },
+  "Sehenswürdigkeit": {
+    "de": "Tickets für diese Sehenswürdigkeit kann man nur online kaufen.",
+    "zh": "這個景點只能網上購票。",
+    "id": "10215344"
+  },
+  "Vermittlung": {
+    "de": "Ich habe gehört, Sie hätten die Vermittlung bereits kontaktiert.",
+    "zh": "聽說您已經跟中介公司聯繫過了。",
+    "id": "11771623"
+  },
+  "Institut": {
+    "de": "Letztes Jahr hat unser Institut ein neues Lehrgebäude errichtet.",
+    "zh": "去年我們學院建了一個新教學樓。",
+    "id": "10250107"
+  },
+  "Start": {
+    "de": "Der Start war erfolgreich. Wir verlassen jetzt das Sonnensystem.",
+    "zh": "發射成功。我們正在離開太陽系。",
+    "id": "2767511"
+  },
+  "Kommunikation": {
+    "de": "Ihre Kommunikation ist vielleicht viel komplexer als wir dachten.",
+    "zh": "很可能他們的交流比我們想的更復雜。",
+    "id": "318"
+  },
+  "Serie": {
+    "de": "Er hat gerade eine interessante Serie von Artikeln veröffentlicht.",
+    "zh": "他剛發表一系列有趣的文章。",
+    "id": "974"
+  },
+  "verschmutzen": {
+    "de": "Handys sind genauso stark mit Bakterien verschmutzt wie Toiletten.",
+    "zh": "手機如同馬桶一樣被細菌汙染。",
+    "id": "10254370"
+  },
+  "Frucht": {
+    "de": "Diese Frucht ist noch zu sauer, um sie zu essen.",
+    "zh": "這果子還太酸，沒法吃。",
+    "id": "7775112"
+  },
+  "Show": {
+    "de": "Die Show war klasse, aber die Karten waren zu teuer.",
+    "zh": "這場秀棒極了，但是門票太貴了。",
+    "id": "10301522"
+  },
+  "eintragen": {
+    "de": "Tom hat seinen und Marias Namen auf der Liste eingetragen.",
+    "zh": "湯姆將他自己和瑪麗的名字添加到了名單上。",
+    "id": "4146936"
+  },
+  "Baustelle": {
+    "de": "Unser Ball überflog den Zaun und landete in der Baustelle.",
+    "zh": "我們的球越過了柵欄，掉到了工地裡。",
+    "id": "10531874"
+  },
+  "ereignen": {
+    "de": "Sollte sich etwas ereignen, lassen Sie es mich bitte wissen.",
+    "zh": "如果發生了什麼事，請告訴我。",
+    "id": "1936160"
+  },
+  "Anlage": {
+    "de": "Das können wir hier in unserer Anlage nicht weiter verwerten.",
+    "zh": "我們不能再在工廠裡用它了。",
+    "id": "7361610"
+  },
+  "einzahlen": {
+    "de": "Tom zahlt fast immer mit Kreditkarte, wenn er einkaufen geht.",
+    "zh": "湯姆在去購物的時候，幾乎每次都會用信用卡。",
+    "id": "8688324"
+  },
+  "Tablette": {
+    "de": "Tom nimmt jeden Tag eine Tablette mit Vitaminen und Mineralien.",
+    "zh": "湯姆每天都會吃一粒含有維他命和礦物質的藥片。",
+    "id": "775375"
+  },
+  "Referat": {
+    "de": "Sie gab ihr Referat ab, nachdem der Abgabetermin abgelaufen war.",
+    "zh": "截止日期過後，她交了她的報告。",
+    "id": "392561"
+  },
+  "streiken": {
+    "de": "Wir streiken, weil die Firma unsere Gehälter nicht verbessert hat.",
+    "zh": "我們罷工是因為公司沒有改善我們的工資。",
+    "id": "810079"
+  },
+  "Rezeption": {
+    "de": "Für genauere Informationen wenden Sie sich bitte an die Rezeption.",
+    "zh": "詳情請向接待處諮詢。",
+    "id": "8650197"
+  },
+  "Schwangerschaft": {
+    "de": "Es heißt, in der Schwangerschaft dürfe man keinen Moschus riechen.",
+    "zh": "據說懷孕的時候不能聞麝香。",
+    "id": "9175285"
+  },
+  "Beginn": {
+    "de": "Ich hoffe, dass das der Beginn einer wunderbaren Freundschaft ist.",
+    "zh": "希望這是美好友誼的開始。",
+    "id": "12026020"
+  },
+  "Song": {
+    "de": "Der Suzhou-Fluss hieß früher „Song Jiang“ oder auch „Wusong Jiang“.",
+    "zh": "蘇州河的舊名叫“松江”，又稱“吳淞江”。",
+    "id": "9670750"
+  },
+  "Dauer": {
+    "de": "Die Dauer einer Ehe ist umgekehrt proportional zu den Hochzeitskosten.",
+    "zh": "婚姻的長度與婚宴的花費負相關。",
+    "id": "12373832"
+  },
+  "Taschengeld": {
+    "de": "Mein Papa gibt mir ein Taschengeld von 10 $ die Woche.",
+    "zh": "我爸一週給我10塊零用錢。",
+    "id": "712941"
+  },
+  "Disko": {
+    "de": "Als sie Studentin war, ging sie nur einmal in die Disko.",
+    "zh": "她上大學的時候只跑去迪斯可過一次。",
+    "id": "737003"
+  },
+  "Ausflug": {
+    "de": "Ich nehme dich auf einen Ausflug mit, wenn ich Zeit habe.",
+    "zh": "我有空帶你去踏青。",
+    "id": "9976222"
+  },
+  "klicken": {
+    "de": "Klicken Sie auf das Bild, um zur nächsten Seite zu gelangen!",
+    "zh": "點擊圖片進入下一頁!",
+    "id": "921988"
+  },
+  "Wiese": {
+    "de": "Wann bist du das letzte Mal barfuß über eine Wiese gelaufen?",
+    "zh": "你最後一次赤腳在草地上走是什麼時候？",
+    "id": "8755255"
+  },
+  "Hausfrau": {
+    "de": "Tom wollte, dass Maria als Hausfrau und Mutter zu Hause bleibe.",
+    "zh": "湯姆希望瑪麗作為家庭主婦待在家裡。",
+    "id": "8817418"
+  },
+  "Feuerzeug": {
+    "de": "Mein Herr, Sie haben Ihr Feuerzeug auf dem Tisch liegen gelassen.",
+    "zh": "先生，您把您的打火機留在桌子上了。",
+    "id": "587360"
+  },
+  "Ausweis": {
+    "de": "Ach, gerade fällt mir ein, ich darf meinen Ausweis nicht vergessen.",
+    "zh": "哦，我才想起來，身份證不要忘了帶。",
+    "id": "8597963"
+  },
+  "herunterladen": {
+    "de": "Wenn du die Software nicht hast, kannst du sie jetzt herunterladen.",
+    "zh": "假如你沒有這個程序，你現在就可以去下載。",
+    "id": "1057553"
+  },
+  "Presse": {
+    "de": "In einer Demokratie ist es wichtig, dass die Presse unabhängig ist.",
+    "zh": "在民主國家，報刊的獨立是很重要的。",
+    "id": "700807"
+  },
+  "Direktorin": {
+    "de": "Wer ist für das Büro verantwortlich, während die Direktorin weg ist?",
+    "zh": "在主任不在的時候，辦公室由誰來負責？",
+    "id": "4004297"
+  },
+  "versichern": {
+    "de": "Ich kann dir versichern, dass diese Möglichkeit auf jeden Fall besteht.",
+    "zh": "我肯定地跟你說，這種可能是存在的。",
+    "id": "6005406"
+  },
+  "Träne": {
+    "de": "Über den Abriss dieses alten Gebäudes wird niemand eine Träne vergießen.",
+    "zh": "沒有人會為這個舊建築物的拆除而落淚。",
+    "id": "10164167"
+  },
+  "Betrag": {
+    "de": "Er erhielt einen Betrag von einer Million US-Dollar für seinen Ruhestand.",
+    "zh": "他拿了100萬美元的退休金。",
+    "id": "461727"
+  },
+  "Gaststätte": {
+    "de": "Jeder sagt, das Essen in dieser Gaststätte ist schmackhaft und preiswert.",
+    "zh": "大家說這家飯館兒的菜又好吃又便宜。",
+    "id": "1326751"
+  },
+  "ausdrucken": {
+    "de": "Der Drucker im Büro von Peter ist kaputt und druckt nicht mehr.",
+    "zh": "Peter辦公室裡的打印機壞了，不能再打印了。",
+    "id": "331882"
+  },
+  "erziehen": {
+    "de": "Meine Eltern haben mich dazu erzogen, zu tun, was ich versprochen habe.",
+    "zh": "父母教育我要遵守承諾。",
+    "id": "3031790"
+  },
+  "Parfüm": {
+    "de": "Weißt du, was es bedeutet, wenn ein Junge einem Mädchen Parfüm schenkt?",
+    "zh": "你知道男孩子送女孩子香水代表什麼嗎？",
+    "id": "9756746"
+  },
+  "campen": {
+    "de": "Nach einem langen Streit habe ich sie endlich überzeugt, campen zu gehen.",
+    "zh": "經過長久的爭論，我終於說服了她去露營。",
+    "id": "811973"
+  },
+  "widersprechen": {
+    "de": "Sie finden es unhöflich, jemandem zu widersprechen, den sie nicht gut kennen.",
+    "zh": "他們認為，去反駁一個不認識的人有些不禮貌。",
+    "id": "915463"
+  },
+  "Reform": {
+    "de": "Egal, wie viele Leute dagegen sind, die Regierung wird diese Reform durchsetzen.",
+    "zh": "反對的人再多，政府也要實行這項改革。",
+    "id": "10161712"
+  },
+  "Webseite": {
+    "de": "Bezüglich der neuen Gestaltung der Webseite freuen wir uns über alle Anregungen.",
+    "zh": "關於網站的新設計，我們樂於接受任何建議。",
+    "id": "9853376"
+  },
+  "Messe": {
+    "de": "Eine internationale Messe für Handwerks- und Industrieerzeugnisse erwartet ab heute ihre Besucher.",
+    "zh": "國際工藝及工業產品博覽會從今天起迎接訪客。",
+    "id": "1372006"
+  },
+  "Abfahrt": {
+    "de": "Am Tage der Abfahrt sollten die Zimmer bis um elf Uhr geräumt sein.",
+    "zh": "走的那天，房間11點要空出來。",
+    "id": "802146"
+  },
+  "Muskel": {
+    "de": "Mut ist sehr wichtig. Und wie ein Muskel wird er durch Gebrauch stärker.",
+    "zh": "勇氣是非常重要的。比如肌肉，經常使用才得以加強。",
+    "id": "4834975"
+  },
+  "Abfall": {
+    "de": "In Singapur muss man Strafe zahlen, wenn man Abfall auf die Straße wirft.",
+    "zh": "在新加坡的街道上扔垃圾會被罰款。",
+    "id": "10208860"
+  },
+  "klappen": {
+    "de": "Sie legte ein Lesezeichen ins Buch, klappte es zu und legte sich schlafen.",
+    "zh": "她放上書籤，關上書，然後就去睡覺了。",
+    "id": "9175316"
+  },
+  "darstellen": {
+    "de": "Eine perfekte Karte müsste so groß sein wie das Gebiet, dass sie darstellt.",
+    "zh": "一個完美的地圖必須要像它所代表的領土一樣大。",
+    "id": "10905698"
+  },
+  "Leitung": {
+    "de": "Ich habe den ganzen Tag versucht ihn anzurufen, aber die Leitung war besetzt.",
+    "zh": "我整天都在打電話給他，但是卻打不通。",
+    "id": "558621"
+  },
+  "sichern": {
+    "de": "Eltern opfern sich oft auf, um ihren Kindern eine gute Ausbildung zu sichern.",
+    "zh": "父母為了確保孩子受到良好的教育常常犧牲自己。",
+    "id": "3595113"
+  },
+  "Alltag": {
+    "de": "Es ist schwer vorstellbar, wie unser Alltag aussähe, wenn es kein Fernsehen gäbe.",
+    "zh": "如果沒有了電視，實在很難想像我們的日常生活會變成怎樣。",
+    "id": "9843680"
+  },
+  "anschnallen": {
+    "de": "Das Gesetz besagt, dass man sich in Autos und Flugzeugen unbedingt anschnallen muss.",
+    "zh": "法律規定，在車輛和飛機上，一定要扣上安全帶。",
+    "id": "1408174"
+  },
+  "Service": {
+    "de": "Ich bedaure, das sagen zu müssen, aber der Service ist nicht gerade gut hier.",
+    "zh": "我很抱歉這麼說，但是服務不太好。",
+    "id": "915882"
+  },
+  "Rücksicht": {
+    "de": "Nach Toms Tod getraute sich aus Rücksicht niemand mehr, an Maria Kritik zu üben.",
+    "zh": "湯姆死後，出於考慮沒有人再批評瑪利亞了。",
+    "id": "5868228"
+  },
+  "nachsenden": {
+    "de": "Wenn man ein Telegramm sendet, ist Kürze unerlässlich, weil einem jedes Wort berechnet wird.",
+    "zh": "當我們發電報的時候，簡明扼要是關鍵，因為是以字計費的。",
+    "id": "718"
+  },
+  "Technik": {
+    "de": "Mit fortschreitendem Alter fällt es uns immer schwerer, mit neuer Technik Schritt zu halten.",
+    "zh": "隨著年齡的增長，我們越來越難以跟上新技術的腳步。",
+    "id": "8751644"
+  },
+  "Tote": {
+    "de": "Heute Nachmittag hat die Weltgesundheitsorganisation dreitausend Fälle des neuen Coronavirus bestätigt, darunter einhundert Tote.",
+    "zh": "今天下午，世界衛生組織證實了3000個新型冠狀病毒病例，其中有100人死亡。",
+    "id": "8558690"
+  },
+  "Asyl": {
+    "de": "Jeder hat das Recht, in anderen Ländern vor Verfolgung Asyl zu suchen und zu genießen.",
+    "zh": "人人都有權，在其他國家尋求避難，以躲避迫害。",
+    "id": "570665"
+  },
+  "ausschließen": {
+    "de": "Ich fürchte, dass wir die Möglichkeit, dass sie die Krankheit haben könnte, nicht ausschließen können.",
+    "zh": "恐怕我們不能排除她患了病的可能性。",
+    "id": "1130212"
+  },
+  "Hersteller": {
+    "de": "Die Hersteller von Fertiggerichten geben dem Konsumenten gerne die Illusion, er koche sein Essen selbst.",
+    "zh": "即食食品的製造商喜歡給消費者一種他正在自己做飯的錯覺。",
+    "id": "728929"
+  },
+  "Wohnort": {
+    "de": "Europa, mit seinen vier klar getrennten Jahreszeiten, eignet sich am besten als Wohnort für die Menschheit.",
+    "zh": "歐洲四季分明，是最適合人類居住的地區。",
+    "id": "10164330"
+  }
+}

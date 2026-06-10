@@ -2,6 +2,8 @@ import { useMemo, useState } from 'react';
 import { nouns, LEVELS, type Level } from '../data/vocab';
 import { useAppStore } from '../store/useAppStore';
 import { useSpeech } from '../hooks/useSpeech';
+import { annotate } from '../grammar/annotate';
+import GrammarText from '../components/GrammarText';
 import {
   ChevronLeft,
   ChevronRight,
@@ -127,6 +129,22 @@ export default function NounVocabPage() {
                 <span className="mt-3 rounded-full bg-ink/5 px-2 py-0.5 text-[11px] font-bold text-ink/45">
                   {card.level}
                 </span>
+                {card.example && (
+                  <div className="mt-4 w-full border-t border-ink/5 pt-3 text-left">
+                    <p className="mb-1 text-[11px] font-medium text-ink/40">例句</p>
+                    <p className="leading-snug text-ink">
+                      <GrammarText
+                        text={card.example.de}
+                        marks={annotate(card.example.de)}
+                        enabled={settings.showGrammar}
+                      />
+                    </p>
+                    <p className="mt-1 text-sm text-ink/50">{card.example.zh}</p>
+                    <p className="mt-1 text-[10px] text-ink/30">
+                      {card.example.source.name} · {card.example.source.license}
+                    </p>
+                  </div>
+                )}
               </>
             )}
           </button>
