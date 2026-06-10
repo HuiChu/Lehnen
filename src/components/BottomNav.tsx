@@ -1,25 +1,14 @@
 import { NavLink } from 'react-router-dom';
-import {
-  HomeIcon,
-  MicIcon,
-  UserIcon,
-  HeartIcon,
-  SettingsIcon,
-} from './icons';
-import { useAppStore } from '../store/useAppStore';
+import { BookIcon, MicIcon, LayersIcon, ActivityIcon } from './icons';
 
 const items = [
-  { to: '/', label: 'HOME', Icon: HomeIcon, end: true },
-  { to: '/learn', label: 'LEARN', Icon: MicIcon },
-  { to: '/my', label: 'MY', Icon: UserIcon },
-  { to: '/saved', label: 'SAVED', Icon: HeartIcon },
-  { to: '/settings', label: 'SETTING', Icon: SettingsIcon },
+  { to: '/explore', label: '童話', Icon: BookIcon },
+  { to: '/', label: '情境練習', Icon: MicIcon, end: true },
+  { to: '/vocab/nouns', label: '名詞', Icon: LayersIcon },
+  { to: '/vocab/verbs', label: '動詞', Icon: ActivityIcon },
 ];
 
 export default function BottomNav() {
-  const favCount = useAppStore((s) => s.favorites.length);
-  const practicedCount = useAppStore((s) => s.practiced.length);
-
   return (
     <nav className="shrink-0 border-t border-black/5 bg-cream/95 px-2 pb-[env(safe-area-inset-bottom)] pt-1.5 backdrop-blur">
       <ul className="flex items-stretch justify-between">
@@ -34,28 +23,8 @@ export default function BottomNav() {
                 }`
               }
             >
-              {({ isActive }) => (
-                <>
-                  <span className="relative">
-                    <Icon
-                      width={22}
-                      height={22}
-                      {...(label === 'SAVED' ? { filled: isActive } : {})}
-                    />
-                    {label === 'SAVED' && favCount > 0 && (
-                      <span className="absolute -right-2 -top-1 rounded-full bg-orange px-1 text-[9px] font-bold leading-tight text-white">
-                        {favCount}
-                      </span>
-                    )}
-                    {label === 'MY' && practicedCount > 0 && (
-                      <span className="absolute -right-2 -top-1 rounded-full bg-orange px-1 text-[9px] font-bold leading-tight text-white">
-                        {practicedCount}
-                      </span>
-                    )}
-                  </span>
-                  {label}
-                </>
-              )}
+              <Icon width={22} height={22} />
+              {label}
             </NavLink>
           </li>
         ))}

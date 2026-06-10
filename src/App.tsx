@@ -7,6 +7,8 @@ import MyPage from './pages/MyPage';
 import SettingPage from './pages/SettingPage';
 import ExplorePage from './pages/ExplorePage';
 import StoryPage from './pages/StoryPage';
+import NounVocabPage from './pages/NounVocabPage';
+import VerbVocabPage from './pages/VerbVocabPage';
 
 export default function App() {
   return (
@@ -17,6 +19,8 @@ export default function App() {
           <Route path="/learn" element={<LearnPage />} />
           <Route path="/explore" element={<ExplorePage />} />
           <Route path="/story/:id" element={<StoryPage />} />
+          <Route path="/vocab/nouns" element={<NounVocabPage />} />
+          <Route path="/vocab/verbs" element={<VerbVocabPage />} />
           <Route path="/saved" element={<SavedPage />} />
           <Route path="/my" element={<MyPage />} />
           <Route path="/settings" element={<SettingPage />} />

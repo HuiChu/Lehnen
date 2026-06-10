@@ -17,11 +17,14 @@ interface AppState {
   favorites: string[];
   /** 已練習過的語塊 id（用於進度統計） */
   practiced: string[];
+  /** 已標「會了」的單字 id（背單字卡用，如 "noun:Apfel" / "verb:gehen"） */
+  learned: string[];
   settings: Settings;
 
   toggleFavorite: (chunkId: string) => void;
   isFavorite: (chunkId: string) => boolean;
   markPracticed: (chunkId: string) => void;
+  toggleLearned: (vocabId: string) => void;
   updateSettings: (patch: Partial<Settings>) => void;
 }
 
@@ -30,6 +33,7 @@ export const useAppStore = create<AppState>()(
     (set, get) => ({
       favorites: [],
       practiced: [],
+      learned: [],
       settings: {
         rate: 0.9,
         showTranslation: true,
@@ -52,6 +56,13 @@ export const useAppStore = create<AppState>()(
             ? state
             : { practiced: [...state.practiced, chunkId] }
         ),
+
+      toggleLearned: (vocabId) =>
+        set((state) => ({
+          learned: state.learned.includes(vocabId)
+            ? state.learned.filter((id) => id !== vocabId)
+            : [...state.learned, vocabId],
+        })),
 
       updateSettings: (patch) =>
         set((state) => ({ settings: { ...state.settings, ...patch } })),
