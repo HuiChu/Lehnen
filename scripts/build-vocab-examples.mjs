@@ -32,9 +32,11 @@ const toTW = OpenCC.Converter({ from: 'cn', to: 'tw' });
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const CACHE = path.join(__dirname, '.cache');
 const DATA = path.join(__dirname, 'data');
+const SRC_DATA = path.join(__dirname, '..', 'src', 'data');
 const OUT = path.join(DATA, 'vocab-examples.json');
-const VOCAB_JSON = path.join(DATA, 'goethe-vocab.json');
-const VERBS_JSON = path.join(DATA, 'goethe-verbs.json');
+// 詞庫 JSON 為 App 執行期資料，已移至 src/data/（產生器也寫到那裡）。
+const VOCAB_JSON = path.join(SRC_DATA, 'goethe-vocab.json');
+const VERBS_JSON = path.join(SRC_DATA, 'goethe-verbs.json');
 
 /** 由 { de, zh, id } 組出帶 CC BY 來源標註的例句物件 */
 function mkExample(ex) {
@@ -127,8 +129,8 @@ const coreWord = (tok) => tok.replace(/^[^A-Za-zÄÖÜäöüß]+|[^A-Za-zÄÖÜ�
 
 async function main() {
   ensureInputs();
-  const nouns = JSON.parse(fs.readFileSync(path.join(DATA, 'goethe-vocab.json'), 'utf8'));
-  const verbs = JSON.parse(fs.readFileSync(path.join(DATA, 'goethe-verbs.json'), 'utf8'));
+  const nouns = JSON.parse(fs.readFileSync(VOCAB_JSON, 'utf8'));
+  const verbs = JSON.parse(fs.readFileSync(VERBS_JSON, 'utf8'));
 
   // 名詞：表面（大小寫敏感）→ lemma
   const nounForm = new Map();

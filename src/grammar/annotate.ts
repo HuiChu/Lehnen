@@ -1,8 +1,8 @@
 import type { GrammarMark } from '../types';
 // 與建置腳本共用同一份標記邏輯（純 ESM，node 與 Vite 皆可載入）；
 // .mjs 以 JSDoc 推型別，回傳形狀對應 GrammarMark。
-import { annotateMarks, buildVocabMap } from '../../scripts/data/annotate-core.mjs';
-import vocabData from '../../scripts/data/goethe-vocab.json';
+import { annotateMarks, buildVocabMap } from './annotate-core.mjs';
+import vocabData from '../data/goethe-vocab.json';
 
 type VocabEntry = { lemma: string; gender?: string; plural?: string };
 

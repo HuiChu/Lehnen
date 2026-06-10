@@ -20,7 +20,7 @@
  *   node scripts/parse-goethe-wortliste.mjs
  *   # 若無 pdftotext，會嘗試動態載入 pdfjs-dist（npm i -D pdfjs-dist）。
  *
- * 輸出：scripts/data/goethe-vocab.json
+ * 輸出：src/data/goethe-vocab.json
  *   [{ lemma, pos, gender?, plural?, level, theme? }]
  *
  * 註：PDF 抽取的文字排版因版本而異，下方解析以啟發式為主，
@@ -36,8 +36,8 @@ import { NOUN_GLOSS, VERB_GLOSS } from './data/glosses.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const CACHE = path.join(__dirname, '.cache');
-const OUT = path.join(__dirname, 'data', 'goethe-vocab.json');
-const OUT_VERBS = path.join(__dirname, 'data', 'goethe-verbs.json');
+const OUT = path.join(__dirname, '..', 'src', 'data', 'goethe-vocab.json');
+const OUT_VERBS = path.join(__dirname, '..', 'src', 'data', 'goethe-verbs.json');
 
 /** PDF 檔名 → 級別 */
 const SOURCES = [

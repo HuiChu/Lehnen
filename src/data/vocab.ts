@@ -1,7 +1,7 @@
 import type { Gender } from '../types';
 // 由建置腳本產出的「事實型」詞庫（歌德 Wortliste 解析 + 變位規則）。
-import nounsRaw from '../../scripts/data/goethe-vocab.json';
-import verbsRaw from '../../scripts/data/goethe-verbs.json';
+import nounsRaw from './goethe-vocab.json';
+import verbsRaw from './goethe-verbs.json';
 
 export type Level = 'A1' | 'A2' | 'B1';
 

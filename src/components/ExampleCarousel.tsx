@@ -3,6 +3,7 @@ import type { Example } from '../types';
 import { annotate } from '../grammar/annotate';
 import GrammarText from './GrammarText';
 import GrammarLegend from './GrammarLegend';
+import SourceLine from './SourceLine';
 import {
   ChevronLeft,
   ChevronRight,
@@ -165,23 +166,7 @@ export default function ExampleCarousel({
 
       {/* source attribution（匯入語料才有） */}
       {current.source && (
-        <p className="mt-3 text-center text-[11px] text-ink/30">
-          來源：
-          {current.source.url ? (
-            <a
-              href={current.source.url}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="underline hover:text-orange"
-            >
-              {current.source.name}
-            </a>
-          ) : (
-            current.source.name
-          )}
-          {current.source.license && ` · ${current.source.license}`}
-          {current.source.author && ` · ${current.source.author}`}
-        </p>
+        <SourceLine source={current.source} className="mt-3 text-center text-[11px] text-ink/30" />
       )}
     </div>
   );

@@ -8,6 +8,7 @@ import ChunkCard from '../components/ChunkCard';
 import ExampleCarousel from '../components/ExampleCarousel';
 import PracticeControls from '../components/PracticeControls';
 import AudioScrubber from '../components/AudioScrubber';
+import VoiceWarning from '../components/VoiceWarning';
 import { ChevronLeft, ChevronRight, CloseIcon, RefreshIcon } from '../components/icons';
 
 export default function LearnPage() {
@@ -141,16 +142,7 @@ export default function LearnPage() {
           </button>
         </div>
 
-        {!speech.supported && (
-          <p className="pb-2 text-center text-xs text-red-500/70">
-            此瀏覽器不支援語音朗讀（Web Speech API）
-          </p>
-        )}
-        {speech.supported && !speech.hasGermanVoice && (
-          <p className="pb-2 text-center text-xs text-amber-600/80">
-            未偵測到德語語音，朗讀可能使用預設語音。可在系統安裝德語語音包。
-          </p>
-        )}
+        <VoiceWarning supported={speech.supported} hasGermanVoice={speech.hasGermanVoice} />
       </div>
 
       {/* footer scrubber */}
