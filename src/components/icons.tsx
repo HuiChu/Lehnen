@@ -120,6 +120,22 @@ export const CompassIcon = (p: SVGProps<SVGSVGElement>) => (
   </svg>
 );
 
+/** 名詞背單字：層疊卡片，象徵單字庫 */
+export const LayersIcon = (p: SVGProps<SVGSVGElement>) => (
+  <svg {...base(p)}>
+    <path d="M12 3 2 8l10 5 10-5-10-5Z" />
+    <path d="m2 12 10 5 10-5" />
+    <path d="m2 16 10 5 10-5" />
+  </svg>
+);
+
+/** 動詞背單字：律動折線，象徵動作/時態 */
+export const ActivityIcon = (p: SVGProps<SVGSVGElement>) => (
+  <svg {...base(p)}>
+    <path d="M3 12h4l3 8 4-16 3 8h4" />
+  </svg>
+);
+
 /** 文法標記切換：以「Ag」字母外加框，象徵詞性/格標註 */
 export const GrammarIcon = (p: SVGProps<SVGSVGElement>) => (
   <svg {...base(p)}>

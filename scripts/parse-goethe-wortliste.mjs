@@ -32,6 +32,7 @@ import path from 'node:path';
 import { execFileSync } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
 import { conjugate, isStrong, GLOSS } from './data/conjugate.mjs';
+import { NOUN_GLOSS, VERB_GLOSS } from './data/glosses.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const CACHE = path.join(__dirname, '.cache');
@@ -110,6 +111,19 @@ function reconstructLines(items) {
 const GENDER = { der: 'm', die: 'f', das: 'n' };
 
 /**
+ * PDF 抽取造成的名詞碎片 / 截斷（含 ß 被吃掉、換行碎片、名物化形容詞、複數型當原形），
+ * 非真實單字，從詞庫剔除以免出現在背單字卡。
+ */
+const NOUN_STOP = new Set([
+  'Auf', 'Bearbeiten', 'Caf', 'Der', 'Eck', 'Erdgescho', 'Fu', 'Gru', 'Hat',
+  'Hend', 'Hör', 'Ihnen', 'Ist', 'Ja', 'Kühl', 'Kranken', 'Lebens', 'Mach',
+  'Men', 'Mobil', 'Nach', 'Nord', 'Pädagogische', 'Postleit', 'Schwimm', 'So',
+  'Spa', 'Spazier', 'Sprech', 'Stipen', 'Über', 'Umweltver', 'Untergescho',
+  'Veranstal', 'Verkehrs', 'Wie', 'Allgemeinbildende', 'Berufsbildende',
+  'Europäische', 'Angaben', 'Getränke', 'Interessen', 'Senioren', 'Wörter',
+]);
+
+/**
  * 從一行文字嘗試抽取名詞條目（lemma + 冠詞 + 可能的複數）。
  * 同時相容「Lemma, der」與「der Lemma」兩種排版。可依實際 PDF 微調。
  */
@@ -123,6 +137,7 @@ function parseNoun(line) {
   }
   if (!m) return null;
   const lemma = m[1];
+  if (NOUN_STOP.has(lemma)) return null;
   const gender = GENDER[m[2]];
   if (!gender) return null;
   // 複數提示：取冠詞後到第一個句點/雙空白前的簡短片段（如 "-n"、"¨-e"、"die Adressen"）
@@ -274,9 +289,12 @@ async function main() {
     process.exit(1);
   }
 
-  const vocab = [...merged.values()].sort((a, b) => a.lemma.localeCompare(b.lemma, 'de'));
+  const vocab = [...merged.values()]
+    .map((e) => (NOUN_GLOSS[e.lemma] ? { ...e, zh: NOUN_GLOSS[e.lemma] } : e))
+    .sort((a, b) => a.lemma.localeCompare(b.lemma, 'de'));
   fs.writeFileSync(OUT, JSON.stringify(vocab, null, 2) + '\n', 'utf8');
-  console.log(`✅ 已寫入 ${OUT}：${vocab.length} 個名詞（含 der/die/das）。`);
+  const nWithZh = vocab.filter((e) => e.zh).length;
+  console.log(`✅ 已寫入 ${OUT}：${vocab.length} 個名詞（含 der/die/das；${nWithZh} 帶中文）。`);
 
   // 動詞：附上關鍵變位（事實型，由 conjugate.mjs 規則/不規則表產生）與中文字義。
   const verbs = [...mergedVerbs.entries()]
@@ -291,7 +309,9 @@ async function main() {
         partizip,
         aux,
         irregular: isStrong(lemma),
-        ...(GLOSS[lemma] ? { zh: GLOSS[lemma] } : {}),
+        ...((GLOSS[lemma] ?? VERB_GLOSS[lemma])
+          ? { zh: GLOSS[lemma] ?? VERB_GLOSS[lemma] }
+          : {}),
       };
     })
     .sort((a, b) => a.lemma.localeCompare(b.lemma, 'de'));

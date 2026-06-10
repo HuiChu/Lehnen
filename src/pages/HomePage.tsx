@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 import { topics } from '../data/topics';
 import { useAppStore } from '../store/useAppStore';
 import TopicCard from '../components/TopicCard';
-import { CompassIcon, ChevronRight } from '../components/icons';
+import { HeartIcon, UserIcon, SettingsIcon } from '../components/icons';
 
 export default function HomePage() {
   const practiced = useAppStore((s) => s.practiced);
@@ -15,7 +15,20 @@ export default function HomePage() {
   return (
     <div className="no-scrollbar h-full overflow-y-auto px-5 pb-6 pt-5">
       <header className="mb-5">
-        <p className="text-sm font-medium text-orange-deep">語塊學德文 · Lehnen</p>
+        <div className="flex items-start justify-between">
+          <p className="text-sm font-medium text-orange-deep">語塊學德文 · Lehnen</p>
+          <div className="flex items-center gap-1 text-ink/40">
+            <Link to="/my" aria-label="我的進度" className="p-1.5 hover:text-orange">
+              <UserIcon width={20} height={20} />
+            </Link>
+            <Link to="/saved" aria-label="收藏" className="p-1.5 hover:text-orange">
+              <HeartIcon width={20} height={20} />
+            </Link>
+            <Link to="/settings" aria-label="設定" className="p-1.5 hover:text-orange">
+              <SettingsIcon width={20} height={20} />
+            </Link>
+          </div>
+        </div>
         <h1 className="mt-1 text-2xl font-extrabold text-ink">
           選一個情境開始跟讀 👇
         </h1>
@@ -23,21 +36,6 @@ export default function HomePage() {
           用「可重複套用的句型」學德文，配例句大量輸入、跟讀矯正發音。
         </p>
       </header>
-
-      {/* 探索入口 */}
-      <Link
-        to="/explore"
-        className="mb-4 flex items-center gap-3 rounded-3xl bg-orange p-4 text-white shadow-card transition active:scale-[0.98]"
-      >
-        <div className="flex h-12 w-12 shrink-0 items-center justify-center rounded-2xl bg-white/20">
-          <CompassIcon width={26} height={26} />
-        </div>
-        <div className="min-w-0 flex-1">
-          <h3 className="text-base font-bold">探索德語內容</h3>
-          <p className="text-sm text-white/80">新聞 · 故事 · Podcast（正式來源）</p>
-        </div>
-        <ChevronRight width={22} height={22} className="shrink-0 text-white/80" />
-      </Link>
 
       <div className="space-y-3">
         {topics.map((topic) => (

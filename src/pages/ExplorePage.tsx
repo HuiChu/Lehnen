@@ -1,28 +1,18 @@
-import { Link, useNavigate } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import { resources } from '../data/resources';
 import { stories } from '../data/stories';
 import ResourceCard from '../components/ResourceCard';
-import { ChevronLeft } from '../components/icons';
 
 export default function ExplorePage() {
-  const navigate = useNavigate();
-
   return (
     <div className="no-scrollbar h-full overflow-y-auto px-5 pb-6 pt-5">
       <header className="mb-5">
-        <button
-          onClick={() => navigate('/')}
-          aria-label="返回首頁"
-          className="mb-3 flex h-9 w-9 items-center justify-center rounded-full bg-ink/10 text-ink/60"
-        >
-          <ChevronLeft width={20} height={20} />
-        </button>
-        <p className="text-sm font-medium text-orange-deep">探索德語內容</p>
+        <p className="text-sm font-medium text-orange-deep">童話 · 故事閱讀</p>
         <h1 className="mt-1 text-2xl font-extrabold text-ink">
-          新聞 · 故事 · Podcast 📡
+          格林童話 · 讀故事學德文 📖
         </h1>
         <p className="mt-1 text-sm text-ink/50">
-          精選正式來源：可在 App 內讀公共領域故事，或外連官方新聞/課程/podcast。
+          在 App 內讀公共領域格林童話（逐句朗讀＋文法上色），下方另附官方新聞/課程/podcast 外連。
         </p>
       </header>
 
