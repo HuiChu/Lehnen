@@ -36,12 +36,12 @@ import path from 'node:path';
 import readline from 'node:readline';
 import { fileURLToPath } from 'node:url';
 import { seeds } from './seed-patterns.mjs';
-import { annotateMarks, buildVocabMap } from './data/annotate-core.mjs';
+import { annotateMarks, buildVocabMap } from '../src/grammar/annotate-core.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const CACHE = path.join(__dirname, '.cache');
 const OUT = path.join(__dirname, '..', 'src', 'data', 'topics.generated.ts');
-const VOCAB = path.join(__dirname, 'data', 'goethe-vocab.json');
+const VOCAB = path.join(__dirname, '..', 'src', 'data', 'goethe-vocab.json');
 const TO_TRANSLATE = path.join(CACHE, 'to-translate.json');
 const TRANSLATIONS = path.join(CACHE, 'translations.json');
 const MODEL = 'claude-opus-4-8';
