@@ -7,6 +7,8 @@ import { annotate } from '../grammar/annotate';
 import AudioScrubber from '../components/AudioScrubber';
 import GrammarText from '../components/GrammarText';
 import GrammarLegend from '../components/GrammarLegend';
+import SourceLine from '../components/SourceLine';
+import VoiceWarning from '../components/VoiceWarning';
 import { CloseIcon, GlobeIcon, GrammarIcon, SpeakerIcon } from '../components/icons';
 
 export default function StoryPage() {
@@ -129,18 +131,10 @@ export default function StoryPage() {
         )}
 
         {/* source */}
-        <p className="px-1 pt-1 text-center text-[11px] leading-relaxed text-ink/30">
-          來源：
-          <a
-            href={story.source.url}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="underline hover:text-orange"
-          >
-            {story.source.name}
-          </a>
-          {story.source.license && ` · ${story.source.license}`}
-        </p>
+        <SourceLine
+          source={story.source}
+          className="px-1 pt-1 text-center text-[11px] leading-relaxed text-ink/30"
+        />
 
         <div className="flex justify-center pb-2">
           <button
@@ -152,11 +146,7 @@ export default function StoryPage() {
           </button>
         </div>
 
-        {speech.supported && !speech.hasGermanVoice && (
-          <p className="pb-2 text-center text-xs text-amber-600/80">
-            未偵測到德語語音，朗讀可能使用預設語音。
-          </p>
-        )}
+        <VoiceWarning supported={speech.supported} hasGermanVoice={speech.hasGermanVoice} />
       </div>
 
       {/* footer scrubber */}
