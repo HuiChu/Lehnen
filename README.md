@@ -1,7 +1,8 @@
 # 語塊學德文 · Lehnen
 
-用「**語塊（lexical chunks）**」學德文的跟讀練習工具。不背單字，而是記住「可重複套用的句型框架」，
+以「**語塊（lexical chunks）**」為主軸學德文的跟讀練習工具：與其零散背單字，先記住「可重複套用的句型框架」，
 配上大量情境例句內化，再透過跟讀（shadowing）矯正發音。內容聚焦德語 **A1–B1 日常情境**。
+另以**事實型背單字卡**（名詞 der/die/das、動詞變位）作為輔助，補強語塊練不到的詞彙細節。
 
 ## 功能
 
@@ -11,10 +12,13 @@
   - 🔴 **錄音** — `MediaRecorder` 錄下自己的發音
   - ▶ **聽我** — 回放剛剛的錄音
   - 🗣 **聽 AI** — `speechSynthesis` 以德語朗讀例句
+- **背單字卡**（輔助）：名詞 **der/die/das** 性別卡（含複數）、動詞變位卡（現在/過去/完成式、不規則標記），
+  依 A1/A2/B1 篩選、翻面對答案、標「會了」、洗牌、附真實例句——資料為**歌德官方詞表的事實**（路由 `/vocab/nouns`、`/vocab/verbs`）
 - **三語對照**（德 / 中 / 英）切換、**收藏**語塊（存 localStorage）
 - **文法標記**：例句中的名詞依 **der/die/das** 上色、介係詞標出**支配的格**，點單字看冠詞/複數/格說明（可開關）
 - **探索德語內容**：App 內讀公共領域格林童話（逐句朗讀），外連官方新聞/課程/podcast
-- 五個分頁：HOME / LEARN / MY（進度統計）/ SAVED / SETTING（語速、語音選擇）
+- **底部四分頁**：童話（探索）/ 情境練習（首頁語塊）/ 名詞卡 / 動詞卡；
+  進度統計、收藏、設定（語速、語音選擇）由首頁右上角入口進入
 - **PWA**：可加到主畫面、離線可用
 
 ## 技術
@@ -96,17 +100,21 @@ curl -LO https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_B1_Wortlist
 cd ../..
 
 # 2. 解析 PDF → 事實型詞彙庫（建議先裝 poppler 取得 pdftotext；或 npm i -D pdfjs-dist）
-node scripts/parse-goethe-wortliste.mjs     # 產出 scripts/data/goethe-vocab.json
+node scripts/parse-goethe-wortliste.mjs     # 產出 src/data/goethe-vocab.json（App 執行期資料）
 
 # 3. 產生語塊時自動帶文法標記（沿用上節 Tatoeba 流程）
 node scripts/build-chunks.mjs               # 例句會帶 marks（gender + 介係詞格）
 ```
 
 相關檔案：
-- `scripts/parse-goethe-wortliste.mjs` — PDF → `scripts/data/goethe-vocab.json`（`{ lemma, pos, gender, plural, level, theme }`）。
-- `scripts/data/prep-case.mjs` — 介係詞→格的靜態對照（決定論；Wechselpräp. 附方向/地點說明）。
+- `scripts/parse-goethe-wortliste.mjs` — PDF → `src/data/goethe-vocab.json`（`{ lemma, pos, gender, plural, level, theme }`）。
+- `src/grammar/annotate-core.mjs` — 文法標記的共用核心（名詞性別＋介係詞格），**建置腳本與 App 執行期共用同一份**。
+- `src/grammar/prep-case.mjs` — 介係詞→格的靜態對照（決定論；Wechselpräp. 附方向/地點說明）。
 - `scripts/data/scenario-map.mjs` — 情境登錄表，把歌德 Themen 對應到 App 情境。
 - `scripts/build-chunks.mjs` — 取句後用上述資料自動產生 `marks`（手寫 `src/data/topics.ts` 的標記同型別）。
+
+> 設計原則：**App 執行期會消費的資料與邏輯**（`goethe-*.json`、`annotate-core.mjs`、`prep-case.mjs`、`topics.generated.ts`）一律放在 `src/`；
+> `scripts/` 只放建置工具並反向 import `src/`，避免 App 依賴建置目錄。
 
 > 無 `goethe-vocab.json` 時仍會標介係詞格，只是略過名詞性別標記。
 > PDF 抽取文字的排版因版本而異，`parse-goethe-wortliste.mjs` 的 regex 可能需依實際輸出微調。
